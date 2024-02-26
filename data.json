@@ -1324,55 +1324,408 @@
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "Experimental Learning",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "J. E.",
+                                "lastName": "Huerta-Wong"
+                            },
+                            {
+                                "firstName": "R.",
+                                "lastName": "Schoech"
+                            }
+                        ],
+                        "year": 2010,
+                        "title": "Experiential Learning and Learning Environments: The Case of Active Listening Skills",
+                        "journal": "Journal of Social Work Education",
+                        "volume": "46",
+                        "issue": "1",
+                        "pages": "85–101",
+                        "url": "http://www.jstor.org/stable/23044702"
+                    },
+                    "keywords": [
+                        "Learning environments",
+                        "active listening skills",
+                        "teaching techniques",
+                        "satisfaction",
+                        "perception of learning gains",
+                        "randomized procedure"
+                    ],
+                    "summary": "The article compares the effectiveness of virtual and face-to-face learning with different teaching methods and discusses the use of active listening principles in virtual learning environments. It has shown that satisfaction, perception of learning improvement, and educational attainment are strongly influenced by the teaching methods and education environment. However, the absence of a randomized selection procedure for placing students in different groups is one of the main drawbacks of this study.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "C.",
+                                "lastName": "Chiang"
+                            },
+                            {
+                                "firstName": "P.",
+                                "lastName": "Wells"
+                            },
+                            {
+                                "firstName": "G.",
+                                "lastName": "Xu"
+                            }
+                        ],
+                        "year": 2021,
+                        "title": "How does experiential learning encourage active learning in auditing education?",
+                        "journal": "Journal of Accounting Education",
+                        "volume": "54",
+                        "pages": "100713",
+                        "url": "https://doi.org/10.1016/j.jaccedu.2020.100713"
+                    },
+                    "keywords": [
+                        "Mini-audit",
+                        "audit education",
+                        "active learning",
+                        "teamwork"
+                    ],
+                    "summary": "The article discusses the use of mini-audit evaluations as a form of experiential learning in audit training. The report highlights the positive response of students to practical learning experiences and emphasis on teamwork. The evaluation required that all four stages of the experiential learning cycle were completed, involving decision making and practical use of audit concepts.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "book chapter",
+                        "authors": [
+                            {
+                                "firstName": "J. W.",
+                                "lastName": "Gentry"
+                            }
+                        ],
+                        "year": 1990,
+                        "title": "Chapter 2. In Guide to Business Gaming and Experiential Learning",
+                        "pages": "9-20",
+                        "publisher": "Nichols/GP Pub",
+                        "url": "https://wmich.edu/sites/default/files/attachments/u5/2013/WHAT%20IS%20EXPERIENTIAL%20%20LEARNING%3F%20%20.pdf"
+                    },
+                    "keywords": [
+                        "Experiential learning",
+                        "practical experiences",
+                        "feedback",
+                        "learning outcomes"
+                    ],
+                    "summary": "The article addresses the concept of Experiential Learning, which is a type of education that takes place through real experiences instead of classroom teachings. The importance of hands-on activities, real world interaction and feedback during the learning process is emphasised. Different methods of experiential learning, such as internships, research projects and live case teaching, allow students to apply theoretical knowledge in practice. It stresses the role of trainers to guide and monitor experiential learning experiences to ensure effective achievement of educational outcomes. Overall, the article underscores the significance of experiential learning in enhancing cognitive, emotional, and behavioural dimensions of learning.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 7
+                }
+            ]
         },
         {
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "Art Integrated Learning",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Gowri"
+                            },
+                            {
+                                "firstName": "P.",
+                                "lastName": "Thote"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Experiential learning: Tool for joyful learning",
+                        "journal": "International Journal of Research - GRANTHAALAYAH",
+                        "volume": "8",
+                        "issue": "5",
+                        "pages": "100–107",
+                        "url": "https://doi.org/10.29121/granthaalayah.v8.i5.2020.88"
+                    },
+                    "keywords": [
+                        "Art integrated learning",
+                        "mathematics",
+                        "creativity",
+                        "evaluation"
+                    ],
+                    "summary": "This research examines the impact of Art Integrated Learning on the academic achievement of grade 5 students in mathematics. The results find that Art Integrated Learning improved the academic achievement of students in the experiential group. This teaching method has been well-established and proven effective for all grades, genders, and socio-economic backgrounds in various studies. It creates engaging and joyful classroom environments, enhancing both teachers and students' thinking through reciprocal engagement in lessons.",
+                    "studentActivityScore": 6,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "K.",
+                                "lastName": "DeMoss"
+                            },
+                            {
+                                "firstName": "T.",
+                                "lastName": "Morris"
+                            }
+                        ],
+                        "year": 2002,
+                        "title": "How Arts Integration Supports Student learning Students shed Light on the connections",
+                        "publisher": "Chicago Arts Partnerships in Education (CAPE)",
+                        "location": "Chicago, IL",
+                        "url": "https://www.scirp.org/reference/referencespapers?referenceid=1857021"
+                    },
+                    "keywords": [
+                        "Learning environment",
+                        "cognitive processes"
+                    ],
+                    "summary": "The study conducted in Chicago Public Schools examined the impact of arts integration on learning. The presence of veteran artists partnering with teachers positively influenced the atmosphere. Arts-integrated units demonstrated high achievement and deep knowledge in subjects, providing more meaningful connections to academic work. Students in these units showed more positive associations with the subject matter, leading to deeper analytical and conceptual understanding. Data collection involved interviews, observations, and writing samples. Issues identified included changes in division of labor and student participation. Additionally, schools with veteran arts partnerships had higher income averages compared to CPS schools in general.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 9
+                }
+            ]
         },
         {
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "DLS, MCEL",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Bhati"
+                            },
+                            {
+                                "firstName": "I.",
+                                "lastName": "Song"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "New Methods for Collaborative Experiential Learning to Provide Personalised Formative Assessment",
+                        "journal": "International Journal of Emerging Technologies in Learning (iJET)",
+                        "volume": "14",
+                        "issue": "07",
+                        "pages": "179–195",
+                        "url": "https://doi.org/10.3991/ijet.v14i07.9173"
+                    },
+                    "keywords": [
+                        "Mobile learning",
+                        "collaborative learning",
+                        "experiential learning",
+                        "dynamic learning space",
+                        "formative assessment"
+                    ],
+                    "summary": "The study introduces a method combining dynamic learning spaces (DLS) and mobile collaborative experiential learning (MCEL) to improve teaching and learning. This approach offers personalized formative feedback at reduced cost and promotes high-level learning while catering to diverse learning styles. Mobile devices facilitate collaborative experiential learning environments, enabling access to simulated labs for continuous feedback and increased engagement. Participants perceived the approach as beneficial and expressed satisfaction with personalized learning experiences.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 9
+                }
+            ]
         },
         {
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "Formative Feedback, PBL, prBL",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Webb"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Moallem"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "Feedback and Feed-Forward for Promoting Problem-Based Learning in Online Learning Environments",
+                        "journal": "Malaysian Journal of Learning and Instruction",
+                        "volume": "13",
+                        "issue": "2",
+                        "pages": "1–41",
+                        "url": "https://doi.org/10.32890/mjli2016.13.2.1"
+                    },
+                    "keywords": [
+                        "Problem-based learning",
+                        "project-based learning",
+                        "feedback and feed-forward",
+                        "online learning"
+                    ],
+                    "summary": "The study aimed to design and test a feedback model for online graduate-level Problem-Based Learning (PBL). Feedback delivery methods, including through Blackboard, were well received by students. The study emphasized setting feed-forward goals and using metacognitive questioning for better student achievement. It highlighted the vital role of students' own behavior in seeking timely feedback to succeed in PBL.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 7
+                }
+            ]
         },
         {
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "Immersive Virtual Reality Role",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "E. A.",
+                                "lastName": "Alrehaili"
+                            },
+                            {
+                                "firstName": "A. H.",
+                                "lastName": "Osman"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "A virtual reality role-playing serious game for experiential learning",
+                        "journal": "Interactive Learning Environments",
+                        "volume": "30",
+                        "issue": "5",
+                        "pages": "922-935",
+                        "url": "https://doi.org/10.1080/10494820.2019.1703008"
+                    },
+                    "keywords": [
+                        "Virtual Reality",
+                        "immersive",
+                        "HMD",
+                        "role-playing",
+                        "serious games",
+                        "learning effectiveness"
+                    ],
+                    "summary": "The study introduces an immersive Virtual Reality Role-Playing Game (VRRPG) for training honeybee behavior, comparing its effectiveness to a Digital Book and two Virtual Reality versions. After a week, the DVR honeybee group retained more information than the book. No significant difference was found between the two VR versions, both of which provided an engaging role-playing experience. In summary, VR Immersive RPGs offer promising alternatives to traditional teaching methods.",
+                    "studentActivityScore": 4,
+                    "lecturerActivityScore": 6
+                }
+            ]
         },
         {
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "Inquiry-based Learning",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "B. Y.",
+                                "lastName": "White"
+                            },
+                            {
+                                "firstName": "J. R.",
+                                "lastName": "Frederiksen"
+                            }
+                        ],
+                        "year": 1998,
+                        "title": "Inquiry, Modeling, and Metacognition: Making Science Accessible to All Students",
+                        "journal": "Cognition and Instruction",
+                        "volume": "16",
+                        "issue": "1",
+                        "pages": "3–118",
+                        "url": "http://www.jstor.org/stable/3233668"
+                    },
+                    "keywords": ["Online learning", "curriculum"],
+                    "summary": "The study investigates the impact of the ThinkerTools inquiry curriculum on science education for students at different learning levels. It demonstrates that the curriculum improves students' ability to understand and investigate physics, particularly benefiting those with lower academic performance. Notably, students at lower grade levels show exceptional progress in problem-solving compared to even high school physics students. This approach has the potential to engage and support a wider range of students in science education, thereby boosting interest and success in this area.",
+                    "studentActivityScore": 6,
+                    "lecturerActivityScore": 7
+                }
+            ]
         },
         {
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "Special Diet Experience",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "L.",
+                                "lastName": "Ball"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Leveritt"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Desbrow"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Students’ Perceptions of an Experiential Learning Activity Designed to Develop Knowledge of Food and Food Preparation Methods",
+                        "journal": "Journal of Food Science Education",
+                        "volume": "12",
+                        "issue": "3",
+                        "pages": "56-60",
+                        "url": "https://doi.org/10.1111/1541-4329.12009"
+                    },
+                    "keywords": ["Diets", "challenge"],
+                    "summary": "The study explores university students' perceptions of a food-focused experiential learning task designed to enhance knowledge of food and food preparation methods. By introducing students to new food experiences followed by guided reflection, the activity aimed to deviate from typical learning methods. Results indicated improvements in food-related skills and increased empathy among students, contributing to an overall positive learning experience. However, some students perceived the challenge as burdensome, despite acknowledging the positive outcomes. The study suggests that students' perceptions of the value of such activities were not consistently influenced by the pleasure experienced.",
+                    "studentActivityScore": 5,
+                    "lecturerActivityScore": 7
+                }                
+            ]
         },
         {
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "Role-play (RP); SPs, TIE",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "P.",
+                                "lastName": "Isotalus"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Koponen"
+                            },
+                            {
+                                "firstName": "E.",
+                                "lastName": "Pyörälä"
+                            }
+                        ],
+                        "year": 2012,
+                        "title": "Comparing three experiential learning methods and their effect on medical students attitudes to learning communication skills",
+                        "journal": "Medical Teacher",
+                        "volume": "34",
+                        "issue": "3",
+                        "pages": "e198-e207",
+                        "doi": "10.3109/0142159X.2011.613492"
+                    },
+                    "keywords": ["Communication skills learning", "simulations"],
+                    "summary": "This study assessed the attitudes of Finnish second-year medical students towards learning communication skills before and after a 3-month pilot course utilizing experiential learning methods like TIE, SPs, and RP. The findings indicated a significant increase in positive attitudes and a decrease in negative attitudes by the end of the course. Integrating experiential learning methods with communication skills training and health center visits effectively emphasized the importance of communication skills early in students' medical studies. The study suggests that a communication course based on experiential learning methods can positively impact students' attitudes within a reasonable timeframe. However, the study acknowledges its limitations and calls for further research to assess the long-term sustainability and effectiveness of these methods.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 7
+                }                
+            ]
         },
         {
             "name": "Experimental Learning",
             "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
             "sub-category": "Simulated Training",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Svellingen"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "Simulation-based education: Effect of repetitive simulation in nursing education",
+                        "type": "Doctoral dissertation",
+                        "number": "36",
+                        "institution": "VID Specialized University",
+                        "location": "Oslo, Norway"
+                    },
+                    "keywords": ["Simulation", "engagement"],
+                    "summary": "This doctoral dissertation examines the impact of repetitive simulation training on nursing students' competence and learning outcomes. Drawing on Norwegian and international research, simulation is recognized as a valuable pedagogical method in nursing education. The study findings indicate that repetitive simulation, either in preparation for or during clinical placements, enhances student learning by reducing anxiety, fear, and stress. This reduction in negative emotions fosters an environment of psychological safety, allowing students to focus on learning and preparation. The study suggests that repetitive simulation can complement or even replace other pedagogical methods, enabling students to practice, reflect, and develop self-awareness of their competence within the practice community.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 5
+                }                
+            ]
         },
         {
             "name": "Game-based Learning",
@@ -1776,7 +2129,13 @@
                         "doi": "10.36315/2020end037",
                         "url": "https://doi.org/10.36315/2020end037"
                     },
-                    "keywords": ["Digital pedagogies", "e-learning", "virtual learning environment", "ubiquitous learning", "learning analytics"],
+                    "keywords": [
+                        "Digital pedagogies",
+                        "e-learning",
+                        "virtual learning environment",
+                        "ubiquitous learning",
+                        "learning analytics"
+                    ],
                     "summary": "The document highlights the shift from knowledge transfer to knowledge management and building, as well as the development of digital pedagogies and eLearning. The objective is to emphasise the usefulness of eLearning over traditional methods, in particular by highlighting an online writing and evaluation environment called 'Scholar' as an example of new learning opportunities that can be exploited. It recommends that educational portals should be designed with a focus on learning needs and predict improvements in student interaction and attitudes toward eLearning.",
                     "studentActvityScore": 5,
                     "lecturerActivityScore": 8
@@ -1793,11 +2152,19 @@
                         "title": "Hiroaki Ogata - M2B System: A Digital Learning Platform for Traditional Classrooms in University",
                         "url": "https://researchmap.jp/read0184047/published_papers/18391158?lang=en"
                     },
-                    "keywords": ["Traditional classroom", "learning logs", "learning analysis", "real-time processing", "e-book", "Moodle", "Mahara"],
+                    "keywords": [
+                        "Traditional classroom",
+                        "learning logs",
+                        "learning analysis",
+                        "real-time processing",
+                        "e-book",
+                        "Moodle",
+                        "Mahara"
+                    ],
                     "summary": "The article addresses the M2B system, a digital learning platform designed to be used for traditional classroom teaching in universities. Three subsystems are contained in this system: the Moodle, Mahara and eBook systems. It collects learning logs for learning analytics and provides tools for supporting teaching and learning in classes on site.",
                     "studentActvityScore": 6,
                     "lecturerActivityScore": 8
-                }              
+                }
             ]
         },
         {
@@ -1823,7 +2190,13 @@
                         "doi": "10.1016/j.compedu.2008.06.004",
                         "url": "https://doi.org/10.1016/j.compedu.2008.06.004"
                     },
-                    "keywords": ["Digital game-based learning", "early childhood education", "video game", "situated learning", "critical pedagogy"],
+                    "keywords": [
+                        "Digital game-based learning",
+                        "early childhood education",
+                        "video game",
+                        "situated learning",
+                        "critical pedagogy"
+                    ],
                     "summary": "Computer games have become an integral part of our social and cultural environment, and are particularly appealing to children and adolescents, for whom they constitute the most popular computer activity in the home. Prior research on domestic computer use has shown that games are more popular with boys, who are more frequent, intensive and experienced game players than girls, and more likely to participate in players’ communities for the exchange of game-related resources.",
                     "studentActvityScore": 6,
                     "lecturerActivityScore": 6
@@ -1858,7 +2231,13 @@
                         "doi": "10.1109/te.2021.3057849",
                         "url": "https://doi.org/10.1109/te.2021.3057849"
                     },
-                    "keywords": ["Active learning", "computer science", "computer-based instruction", "educational technology", "games"],
+                    "keywords": [
+                        "Active learning",
+                        "computer science",
+                        "computer-based instruction",
+                        "educational technology",
+                        "games"
+                    ],
                     "summary": "The article discusses the impact of motivation on university students' academic performance, particularly in computer science degrees with high dropout rates. It explores the potential of game-based learning (GBL) to increase student motivation through educational video games designed for learning. The study compares traditional teaching methods with GBL using teacher-authored games in computer science courses and finds that GBL significantly boosts student motivation without compromising learning effectiveness. The research highlights the importance of using GBL judiciously to maintain its motivational impact.",
                     "studentActvityScore": 4,
                     "lecturerActivityScore": 9
@@ -1885,7 +2264,13 @@
                         "doi": "10.1007/s10956-013-9436-x",
                         "url": "https://doi.org/10.1007/s10956-013-9436-x"
                     },
-                    "keywords": ["Science education", "science learning", "game-based learning", "digital game", "educational game"],
+                    "keywords": [
+                        "Science education",
+                        "science learning",
+                        "game-based learning",
+                        "digital game",
+                        "educational game"
+                    ],
                     "summary": "By promoting cooperation in solving problems and creating interactive learning environments, digital games offer an opportunity to enhance science education. Game-based learning is rooted in a variety of theories, including cognitivism, constructivism, sociocultural perspectives and enactivism, that focus on outcomes such as scientific knowledge, problem solving skills, engagement, emotional impact. Learning outcomes are significantly influenced by the effective design and implementation of games and by the promotion of collaboration through clear objectives, rules and feedback systems.",
                     "studentActvityScore": 8,
                     "lecturerActivityScore": 9
@@ -1902,7 +2287,11 @@
                         "title": "Aspects of Game- based Learning | BIBSonomy",
                         "url": "https://www.bibsonomy.org/bibtex/c6b0cf1e2dcd4b7193cfba34f8de3463"
                     },
-                    "keywords": ["Educational video game", "game elements", "game design"],
+                    "keywords": [
+                        "Educational video game",
+                        "game elements",
+                        "game design"
+                    ],
                     "summary": "The article emphasises the need for innovative learning methods that align with modern generations' preferences. It proposes game-based learning, using educational video games to engage learners and enhance the learning process. Game-based learning blurs instructional content with game elements, providing motivating and immersive experiences. It fosters active knowledge construction, collaboration, and problem-solving skills. The article showcases successful examples and highlights the importance of aligning game design with pedagogical approaches for effective learning outcomes.",
                     "studentActvityScore": 3,
                     "lecturerActivityScore": 9
@@ -1937,11 +2326,16 @@
                         "doi": "10.35622/j.rie.2022.03.001",
                         "url": "https://doi.org/10.35622/j.rie.2022.03.001"
                     },
-                    "keywords": ["Learning", "videogames", "virtual reality", "virtual world"],
+                    "keywords": [
+                        "Learning",
+                        "videogames",
+                        "virtual reality",
+                        "virtual world"
+                    ],
                     "summary": "The article discusses the potential use of Roblox, a popular online gaming platform that can be used for learning purposes. It stresses the immersive and entertaining nature of Massive Multiplayer Games such as Roblox, which can be used to introduce students to an entirely new kind of learning experience. The study examined how students reacted to the use of Roblox for learning activities, which covered topics like dinosaurs and disease. The impact of social interaction and the development of skills for students was also highlighted. The study offers practical guidance for teachers on the effective integration of Roblox in teaching environments, emphasising the need to address possible risks and use user interface features as a learning tool.",
                     "studentActvityScore": 4,
                     "lecturerActivityScore": 9
-                } 
+                }
             ]
         },
         {
@@ -1970,7 +2364,13 @@
                         "doi": "10.1145/3582515.3609525",
                         "url": "https://doi.org/10.1145/3582515.3609525"
                     },
-                    "keywords": ["Digital game", "video game", "educational game", "serious game", "entertainment"],
+                    "keywords": [
+                        "Digital game",
+                        "video game",
+                        "educational game",
+                        "serious game",
+                        "entertainment"
+                    ],
                     "summary": "The paper discusses the use of digital games as an education tool in which both games intended for learning purposes and those that have been reutilized are used. It notes that educational games developers face publishing differences between academic and entertainment developed games, as well as the challenges they face in developing them. Special games, such as Pentiment and Lausanne 1830, are mentioned at a crossroads between entertainment and education.",
                     "studentActvityScore": 8,
                     "lecturerActivityScore": 8
@@ -1988,11 +2388,16 @@
                         "title": "Effectiveness of digital game based learning strategy in higher educational perspectives",
                         "url": "https://eric.ed.gov/?id=EJ1372872"
                     },
-                    "keywords": ["Digital game based learning", "effectiveness", "engagement", "higher education"],
+                    "keywords": [
+                        "Digital game based learning",
+                        "effectiveness",
+                        "engagement",
+                        "higher education"
+                    ],
                     "summary": "The article underlines the positive impact of game based learning in higher education, highlighting its effectiveness as a way to engage students and improve their outcomes. It looks at the possibilities of creating an active learning experience through digital games, enabling students to be involved in their educational process. The study also addresses the importance of providing instant feedback to students, promoting collaboration through multiplayer features, and fostering a growth mindset among learners. In addition, the research highlights the need for teachers to adapt to new systems and tools in a multicultural environment, as well as exploring the role of ICT in education.",
                     "studentActvityScore": 6,
                     "lecturerActivityScore": 9
-                }                
+                }
             ]
         },
         {
@@ -2022,7 +2427,13 @@
                         "doi": "10.1007/s10734-019-00417-0",
                         "url": "https://doi.org/10.1007/s10734-019-00417-0"
                     },
-                    "keywords": ["Student-centred learning", "digital game–based learning", "serious game", "game design", "video game"],
+                    "keywords": [
+                        "Student-centred learning",
+                        "digital game–based learning",
+                        "serious game",
+                        "game design",
+                        "video game"
+                    ],
                     "summary": "This study presents a conceptual framework of student-centred digital game-based learning (SCDGBL) derived from literature published between 2007 and 2018. The framework categorises SCDGBL interventions into single player, mixed, and multiplayer engagements, based on player involvement. Key findings reveal a strong focus on certain student-centred learning elements like active learning and autonomy, but a lack of attention to 'social' elements like mutual respect and cooperative learning. The study explores Gee's principles of good game design and suggests integrating them early in game design to enhance learning outcomes. It emphasises the need to align game design with existing research on how students learn to fully utilise the potential of digital game-based learning. Future studies should explore all student-centred learning elements and use design principles to create effective educational games.",
                     "studentActvityScore": 7,
                     "lecturerActivityScore": 8
@@ -2064,7 +2475,14 @@
                         "doi": "10.1016/j.chb.2015.07.045",
                         "url": "https://doi.org/10.1016/j.chb.2015.07.045"
                     },
-                    "keywords": ["Game-based learning", "gamification", "serious games", "flow", "engagement", "immersion"],
+                    "keywords": [
+                        "Game-based learning",
+                        "gamification",
+                        "serious games",
+                        "flow",
+                        "engagement",
+                        "immersion"
+                    ],
                     "summary": "The study highlights the potential of educational video games to effectively engage students and promote learning. Designers are encouraged to emphasise challenge and engagement while considering players' skill levels, thereby keeping learners within their Zone of Proximal Development (ZPD) and motivated to learn. Additionally, the findings suggest that game-based learning offers individualized customization, making it a learner-centered approach that challenges the traditional one-size-fits-all mentality in education.",
                     "studentActvityScore": 2,
                     "lecturerActivityScore": 8
@@ -2082,7 +2500,12 @@
                         "title": "Active Learning based on the use of Augmented Reality Outline of Possible Applications: Serious Games, Scientific Experiments, Confronting Studies with Creation, Training for Carrying out Technical Skills",
                         "url": "https://hal.science/hal-00739730/"
                     },
-                    "keywords": ["Active learning", "augmented reality", "serious game", "training simulators"],
+                    "keywords": [
+                        "Active learning",
+                        "augmented reality",
+                        "serious game",
+                        "training simulators"
+                    ],
                     "summary": "The paper looks at how augmented reality can help active learning in a variety of areas, such as serious gaming, scientific experiments, linking the results of studies with the creation and training of technical skills. The authors present a new definition of Augmented Reality and cite original examples such as the AR Serious game for understanding electromagnetic phenomena and the AR Based Welding Training App.  It emphasizes serious games in AR systems for active learning, particularly in understanding electromagnetic concepts and their application in electrical engineering.",
                     "studentActvityScore": 6,
                     "lecturerActivityScore": 9
@@ -2125,7 +2548,14 @@
                         "doi": "10.1111/bjet.12467",
                         "url": "https://doi.org/10.1111/bjet.12467"
                     },
-                    "keywords": ["Serious game", "games design", "engagement", "motivation", "teacher roles", "game mechanics"],
+                    "keywords": [
+                        "Serious game",
+                        "games design",
+                        "engagement",
+                        "motivation",
+                        "teacher roles",
+                        "game mechanics"
+                    ],
                     "summary": "This review is intended to investigate the link between learning design and gaming mechanics in Serious Games SGs. It envisages the development of a research programme aiming at ascertaining the alignment among suggested and applied theories in SG use by means of quantitative methods. The study focuses on the key role played by teachers to guide game based learning in a cognitive domain.  It identifies 165 relevant papers and examines specific learning activities related to game elements and feedback, laying the foundations for informed learning in games.",
                     "studentActvityScore": 10,
                     "lecturerActivityScore": 9
@@ -2159,7 +2589,12 @@
                         "doi": "10.1016/j.sbspro.2012.06.938",
                         "url": "https://doi.org/10.1016/j.sbspro.2012.06.938"
                     },
-                    "keywords": ["Serious game", "game-based learning", "computational thinking", "programming"],
+                    "keywords": [
+                        "Serious game",
+                        "game-based learning",
+                        "computational thinking",
+                        "programming"
+                    ],
                     "summary": "In the context of teaching Computer Science theory and application, academicians use game-based learning. Research focuses on a game framework for Computational Thinking (CT) skills. A serious game designed for introductory programming and CT received positive student feedback for its enjoyable nature and potential to enhance problem-solving. There are a few lacks in existing programming training games for the development of CT skills. The CT and programming structures are integrated into the 'Program your robot' game.  The game had been helpful for students' understanding of programming and strengthening their problem solving skills.",
                     "studentActvityScore": 7,
                     "lecturerActivityScore": 9
@@ -2198,7 +2633,11 @@
                         "doi": "10.1111/tct.12426",
                         "url": "https://doi.org/10.1111/tct.12426"
                     },
-                    "keywords": ["Serious game", "engagement", "motivation"],
+                    "keywords": [
+                        "Serious game",
+                        "engagement",
+                        "motivation"
+                    ],
                     "summary": "In order to teach medical students how to make clinical decisions, this study has created a Serious Game (SG). According to findings from 47 validated questionnaires and 31 focus group participants, serious games attract, motivate, help in decision-making, repetition of knowledge, which can be a useful tool for evaluating medical education.",
                     "studentActvityScore": 8,
                     "lecturerActivityScore": 10
@@ -2229,7 +2668,13 @@
                         "doi": "10.31695/ijasre.2018.33016",
                         "url": "https://doi.org/10.31695/ijasre.2018.33016"
                     },
-                    "keywords": ["Game-based learning", "serious game", "educational games", "interactive learning environments", "collaborative learning"],
+                    "keywords": [
+                        "Game-based learning",
+                        "serious game",
+                        "educational games",
+                        "interactive learning environments",
+                        "collaborative learning"
+                    ],
                     "summary": "The article looks at the importance of using serious games, in particular digital game learning methods for enhancing students' educational experience. This emphasises the importance of motivation and engagement in improving students' educational performance and social skills. Serious games can help students develop critical thinking, decision making, and problem solving skills through interactive and engaging learning environments. The article also highlights the benefits of serious games in fostering collaboration, communication and a favourable competitive environment for young people.",
                     "studentActvityScore": 6,
                     "lecturerActivityScore": 10
