@@ -1270,37 +1270,1416 @@
             "name": "Gamification",
             "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
             "sub-category": "Gamification",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Bai"
+                            },
+                            {
+                                "firstName": "K. F.",
+                                "lastName": "Hew"
+                            },
+                            {
+                                "firstName": "B.",
+                                "lastName": "Huang"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Does gamification improve student learning outcome? Evidence from a meta-analysis and synthesis of qualitative data in educational contexts",
+                        "journal": "Educational Research Review",
+                        "volume": "30",
+                        "pages": "100322",
+                        "doi": "10.1016/j.edurev.2020.100322",
+                        "url": "https://doi.org/10.1016/j.edurev.2020.100322"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "educational settings",
+                        "traditional learning",
+                        "feedback",
+                        "anxiety",
+                        "enjoyment",
+                        "task performance"
+                    ],
+                    "summary": "A meta analysis of 30 interventions, involving 3,202 participants, reveals a significant medium impact in favour of gamification over traditional learning. The benefits of gamification are that it fosters enthusiasm, offers feedback, meets recognition needs and encourages goal setting.Learners dislike gamification when it lacks utility or triggers anxiety.  Gamification across all instructors and methodological rigor increases task performance and enjoyment on a consistent basis. In particular, student levels, subject fields or the provision of tangible benefits are not affected by effect sizes.",
+                    "studentActvityScore": 4,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "conference",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Deterding"
+                            },
+                            {
+                                "firstName": "D.",
+                                "lastName": "Dixon"
+                            },
+                            {
+                                "firstName": "R.",
+                                "lastName": "Khaled"
+                            },
+                            {
+                                "firstName": "L. E.",
+                                "lastName": "Nacke"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "From game design elements to gamefulness",
+                        "conference": "MindTrek ’11",
+                        "doi": "10.1145/2181037.2181040",
+                        "url": "https://doi.org/10.1145/2181037.2181040"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "game",
+                        "game design"
+                    ],
+                    "summary": "The study highlights that \"gamification\" specifically relates to games rather than play or playfulness, which are broader categories. The authors emphasize the growing cultural significance of video games, suggesting they have become a significant medium and source of formative experiences in contemporary society, comparable to literature, movies, and television in earlier generations.",
+                    "studentActvityScore": 5,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "type": "conference",
+                        "authors": [
+                            {
+                                "firstName": "G.",
+                                "lastName": "Barata"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Gama"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Jorge"
+                            },
+                            {
+                                "firstName": "D.",
+                                "lastName": "Gonçalves"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Improving participation and learning with gamification",
+                        "conference": "Proceedings of the First International Conference on Gameful Design, Research, and Applications (Gamification ’13)",
+                        "doi": "10.1145/2583008.2583010",
+                        "url": "https://doi.org/10.1145/2583008.2583010"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "education",
+                        "evaluation",
+                        "virtual learning environments"
+                    ],
+                    "summary": "The article presents a five-year study on how gamification can improve student engagement and learning in a college course. The authors found that by modeling course activities with game challenges and distributing them properly, students are more motivated and engaged in their learning experience. The study showed significant improvements in attention, participation, proactivity, and grades when the course was gamified. However, the authors also acknowledge limitations in their study and suggest further research to validate their findings.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "conference",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Demkah"
+                            },
+                            {
+                                "firstName": "D.",
+                                "lastName": "Bhargava"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Gamification in Education: A Cognitive Psychology Approach to Cooperative and Fun Learning",
+                        "conference": "Amity International Conference on Artificial Intelligence (AICAI)",
+                        "doi": "10.1109/aicai.2019.8701264",
+                        "url": "https://doi.org/10.1109/aicai.2019.8701264"
+                    },
+                    "keywords": [
+                        "Cognitive learning",
+                        "fun learning",
+                        "smart learning",
+                        "mobile learning",
+                        "gamification"
+                    ],
+                    "summary": "In a study with first-year undergraduate computer science students, specially designed educational games demonstrated exceptional performance and enhanced creative skills. The research draws from the constructivist model of learning and emphasizes the significance of activity-based learning to expose students to new experiences and broaden their knowledge. Notably, students successfully recognized number patterns and connected abstract ideas to tangible games, resulting in an enthusiastic and engaged class. A follow-up questionnaire revealed their positive responses and understanding, indicating the effectiveness of the approach.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "journal",
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Domínguez"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Saenz-De-Navarrete"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "De-Marcos"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Fernández-Sanz"
+                            },
+                            {
+                                "firstName": "C.",
+                                "lastName": "Pagés"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Martinez-Herraiz"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Gamifying learning experiences: Practical implications and outcomes",
+                        "journal": "Computers & Education",
+                        "volume": "63",
+                        "pages": "380–392",
+                        "doi": "10.1016/j.compedu.2012.12.020",
+                        "url": "https://doi.org/10.1016/j.compedu.2012.12.020"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "games-based learning",
+                        "computer game",
+                        "game mechanic",
+                        "motivation",
+                        "engagement",
+                        "e-learning"
+                    ],
+                    "summary": "Gamification has an effect on players' social, emotional, and cognitive development. Games offer structured tasks and iterative learning cycles for mastering new skills in the cognitive domain. In order to keep players engaged, games attempt to elicit positive emotions through success and mild anxiety upon failure. Multiplayer interactions enable teamwork, rivalry, and the development of distinct identities socially. Gamification motivates students, but it takes work to create the best learning environments. Some students will respond to this approach more favorably than others depending on their type of learning.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "type": "conference",
+                        "authors": [
+                            {
+                                "firstName": "Z.",
+                                "lastName": "Fitz-Walter"
+                            },
+                            {
+                                "firstName": "D.",
+                                "lastName": "Tjondronegoro"
+                            },
+                            {
+                                "firstName": "P.",
+                                "lastName": "Wyeth"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "Orientation Passport: using gamification to engage university students",
+                        "conference": "Conference OZCHI",
+                        "doi": "10.1145/2071536.2071554",
+                        "url": "https://doi.org/10.1145/2071536.2071554"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "achievements",
+                        "user experience",
+                        "mobile devices",
+                        "university"
+                    ],
+                    "summary": "The report examines how achievement systems are being implemented in game applications, especially at university orientation events. It describes the orientation framework to be used in design and testing of a gamification application. Participants responded positively, finding achievements motivating for campus exploration.  The study has highlighted the usefulness of adding gaming elements to utility apps, but emphasises that there is a need for resolving possible conflicts.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 2
+                },
+                {
+                    "citation": {
+                        "type": "journal",
+                        "authors": [
+                            {
+                                "firstName": "R. P.",
+                                "lastName": "Barneva"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Kanev"
+                            },
+                            {
+                                "firstName": "B.",
+                                "lastName": "Kapralos"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Jenkin"
+                            },
+                            {
+                                "firstName": "B.",
+                                "lastName": "Brimkov"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Integrating Technology-Enhanced collaborative surfaces and gamification for the next generation classroom",
+                        "journal": "Journal of Educational Technology Systems",
+                        "volume": 45,
+                        "issue": 3,
+                        "pages": "309–325",
+                        "doi": "10.1177/0047239516671945",
+                        "url": "https://doi.org/10.1177/0047239516671945"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "gamified educational network",
+                        "anatomy training"
+                    ],
+                    "summary": "The passage explores using modern pedagogical approaches and technology, such as mobile apps, smartboards, and gamification, to foster collaborative student engagement. These methods promote interactive learning experiences, personalized instruction, and group interactions. The focus is on creating innovative learning environments through cutting-edge strategies and technological innovations.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Deterding"
+                            },
+                            {
+                                "firstName": "R.",
+                                "lastName": "Khaled"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Nacke"
+                            },
+                            {
+                                "firstName": "D.",
+                                "lastName": "Dixon"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "Gamification: Toward a definition",
+                        "publisher": "ResearchGate",
+                        "url": "https://www.researchgate.net/publication/273947177_Gamification_Toward_a_definition"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "game design",
+                        "playful interaction"
+                    ],
+                    "summary": "The authors argue that gamification needs to be more widely understood and should not confine itself to particular contexts. They argue against a narrow view, highlighting the aim of this term being to enhance user experience and engagement. The authors note that, beyond their initial contexts, serious games have been broadened to include a number of subcategories such as education, news and health gamification.  From a design perspective, they emphasize repurposing game controllers for Human-Computer Interaction and using game engines for non-entertainment purposes. In order to make it easier to distinguish between gamification, serious games, and interaction with games in more detailed studies, they propose to define gamification by including different design elements across different abstraction levels.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Hakak"
+                            },
+                            {
+                                "firstName": "N. F. M.",
+                                "lastName": "Noor"
+                            },
+                            {
+                                "firstName": "M. N.",
+                                "lastName": "Ayub"
+                            },
+                            {
+                                "firstName": "H.",
+                                "lastName": "Affal"
+                            },
+                            {
+                                "firstName": "N.",
+                                "lastName": "Hussin"
+                            },
+                            {
+                                "firstName": "E.",
+                                "lastName": "Ahmed"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Imran"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Cloud-assisted gamification for education and learning – Recent advances and challenges",
+                        "journal": "Computers & Electrical Engineering",
+                        "volume": 74,
+                        "pages": "22–34",
+                        "doi": "10.1016/j.compeleceng.2019.01.002"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "game-based learning",
+                        "mobile learning"
+                    ],
+                    "summary": "The article explores how gamification can enhance the motivation of students to engage in difficult tasks and achieve the required goal within a short span of time. Games also allow the user to repeat a particular task in the event of failure, which helps students to analyze their previous mistakes and correct them. Gamification can also help to identify the key motivating factors that can enhance the learning process and make it more effective.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "J. K.",
+                                "lastName": "Mullins"
+                            },
+                            {
+                                "firstName": "R.",
+                                "lastName": "Sabherwal"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Gamification: A cognitive-emotional view",
+                        "journal": "Journal of Business Research",
+                        "volume": 106,
+                        "pages": "304–314",
+                        "doi": "10.1016/j.jbusres.2018.09.023"
+                    },
+                    "keywords": [
+                        "Cognition",
+                        "emotion",
+                        "gamification",
+                        "mechanics",
+                        "neuroscience"
+                    ],
+                    "summary": "The paper draws on gamification frameworks such as MDE, OCC and BrainMap to explore emotions and cognition. It proposes a cognitive-emotional perspective for the design of gamified systems and stresses that game mechanics are linked to emotional outcomes and emotions play an essential role in brain processes. It points out how the emotions of players are influenced by agents' actions and objects. In order to better align the desired cognitive, emotional and gaming mechanics of gamification, this view is complemented by psychology and neuroscientific literature.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 7
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "W.",
+                                "lastName": "Oliveira"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Hamari"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Joaquim"
+                            },
+                            {
+                                "firstName": "A. M.",
+                                "lastName": "Toda"
+                            },
+                            {
+                                "firstName": "P. T.",
+                                "lastName": "Palomino"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Vassileva"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Isotani"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "The effects of personalized gamification on students’ flow experience, motivation, and enjoyment",
+                        "journal": "Smart Learning Environments",
+                        "volume": "9",
+                        "issue": "1",
+                        "doi": "10.1186/s40561-022-00194-x"
+                    },
+                    "keywords": [
+                        "Personalized gamification",
+                        "gamer type",
+                        "flow experience",
+                        "educational systems",
+                        "adaptation"
+                    ],
+                    "summary": "The aim of the study was to assess the impact of personalised gamification on students' experience of flow, enjoyment, perception of gamification and motivation in the educational system. Surprisingly, the results did not reveal a strong correlation between personalization and these aspects."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Sailer"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Hense"
+                            },
+                            {
+                                "firstName": "S. K.",
+                                "lastName": "Mayr"
+                            },
+                            {
+                                "firstName": "H.",
+                                "lastName": "Mandl"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "How gamification motivates: An experimental study of the effects of specific game design elements on psychological need satisfaction",
+                        "journal": "Computers in Human Behavior",
+                        "volume": "69",
+                        "pages": "371–380",
+                        "doi": "10.1016/j.chb.2016.12.033"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "game design elements",
+                        "motivation",
+                        "simulation"
+                    ],
+                    "summary": "Gamiﬁcation integrates game design elements into real-world settings to enhance human motivation and performance. The elements of the game such as badges, leaderboards and performance graphs had a positively influenced effect on skills needed for satisfaction and meaningfulness in randomised controlled studies conducted under the self determination theory framework.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "type": "conference paper",
+                        "authors": [
+                            {
+                                "firstName": "D.",
+                                "lastName": "Watson"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Hancock"
+                            },
+                            {
+                                "firstName": "R. L.",
+                                "lastName": "Mandryk"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Gamifying behaviour that leads to learning",
+                        "conference": "Proceedings of the First International Conference on Gameful Design, Research, and Applications (Gamification ’13)",
+                        "doi": "10.1145/2583008.2583021"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "casual game",
+                        "education",
+                        "self-study"
+                    ],
+                    "summary": "Gamification, which has proven effective in tasks such as problem solving and habit formation, goes beyond entertainment. A number of informal games have been used to promote positive behaviour such as teaching children classical art and helping kids with cancer. The goal is to create a casual game based on motivational play theories that will support the habit of self study. The game incorporates the mechanics for growing fruits, upgrading your level and playing with friends.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "journal article",
+                        "authors": [
+                            {
+                                "firstName": "É.",
+                                "lastName": "Lavoué"
+                            },
+                            {
+                                "firstName": "B.",
+                                "lastName": "Monterrat"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Desmarais"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "George"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Adaptive Gamification for Learning Environments",
+                        "journal": "IEEE Transactions on Learning Technologies",
+                        "volume": 12,
+                        "issue": 1,
+                        "pages": "16-28",
+                        "doi": "10.1109/TLT.2018.2823710"
+                    },
+                    "keywords": [
+                        "Educational games",
+                        "adaptation to user profiles",
+                        "adaptive educational systems"
+                    ],
+                    "summary": "Adapting gaming features to enhance learners' engagement can have several potential implications. For instance, it can lead to an increase in participation and motivation, reduce the risk of amotivation, and keep learners engaged in the learning activity even if their intrinsic motivation is lower. However, gamification may also reduce intrinsic motivation due to a low level of acceptance of 'non-serious' elements within a serious environment, perceived as a disturbance by learners who are already intrinsically motivated.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 2
+                },
+                {
+                    "citation": {
+                        "type": "journal article",
+                        "authors": [
+                            {
+                                "firstName": "J. T.",
+                                "lastName": "Kim"
+                            },
+                            {
+                                "firstName": "W.",
+                                "lastName": "Lee"
+                            }
+                        ],
+                        "year": 2015,
+                        "title": "Dynamical model for gamification of learning (DMGL)",
+                        "journal": "Multimedia Tools and Applications",
+                        "volume": 74,
+                        "issue": 19,
+                        "pages": "8483–8493",
+                        "doi": "10.1007/s11042-013-1612-8"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "game-based learning",
+                        "Learning game"
+                    ],
+                    "summary": "The authors seek to maximize educational effectiveness by identifying four main factors: curiosity, challenge, imagination, and control. They relate these factors to game design features, key characteristics of educational games, the ARCS (Attention, Relevance, Confidence, and Gratification) model, and the MDA framework (Mechanics, Dynamics, and Aesthetics). The article highlights the potential of gamification in various fields and suggests the application of the model to create a clean and effective learning experience.",
+                    "teacherScore": 6,
+                    "studentScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "journal article",
+                        "authors": [
+                            {
+                                "firstName": "R. N.",
+                                "lastName": "Landers"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "Developing a theory of gamified learning",
+                        "journal": "Simulation & Gaming",
+                        "volume": 45,
+                        "issue": 6,
+                        "pages": "752–768",
+                        "doi": "10.1177/1046878114563660"
+                    },
+                    "keywords": [
+                        "Gamified learning",
+                        "mediation",
+                        "moderation",
+                        "psychology",
+                        "serious games",
+                        "simulation"
+                    ],
+                    "summary": "Gamification is adapting video game elements to increase engagement in non-gaming systems, but its success is often dependent on the quality of the design. It does not provide in depth theoretical insight into their differences, although they are related to serious games. It involves moderation and mediation processes which have an impact on learning. Efficient gamification isolates and aggregates key elements of games thoughtfully in order to focus on specific behaviors affecting learning.",
+                    "teacherScore": 4,
+                    "studentScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "firstName": "W.",
+                                "lastName": "Oliveira"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Does tailoring gamified educational systems matter? The impact on students’ flow experience",
+                        "url": "https://scholarspace.manoa.hawaii.edu/items/f3fd44d8-df9f-4ce2-bac6-46c6cbb673ee"
+                    },
+                    "keywords": [
+                        "Gamer types",
+                        "tailored system",
+                        "counter-tailored system",
+                        "flow experience",
+                        "replication"
+                    ],
+                    "summary": "To measure the flow of students within a gamification educational system, this study used Dispositional Flow Scale 2. In the design of this system, custom settings have been introduced based on gamer types. The various flow experience of different types of gamers was shown to be compared between tailored and counter-tailored versions. It indicates that different models of players can be used for future replications and notes limitations in measurement. Overall, results indicate the potential for individualised gamified learning systems tailored to students' gaming types.",
+                    "teacherScore": 4,
+                    "studentScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "journal",
+                        "authors": [
+                            {
+                                "firstName": "R.",
+                                "lastName": "Smiderle"
+                            },
+                            {
+                                "firstName": "S. J.",
+                                "lastName": "Rigo"
+                            },
+                            {
+                                "firstName": "L. B.",
+                                "lastName": "Marques"
+                            },
+                            {
+                                "firstName": "J. a. P.",
+                                "lastName": "De Miranda Coelho"
+                            },
+                            {
+                                "firstName": "P. A.",
+                                "lastName": "Jaques"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "The impact of gamification on students’ learning, engagement and behavior based on their personality traits",
+                        "journal": "Smart Learning Environments",
+                        "volume": "7",
+                        "issue": "1",
+                        "doi": "10.1186/s40561-019-0098-x"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "personality",
+                        "programming environment"
+                    ],
+                    "summary": "The study looked at gamification's effects on individual personality traits using elements like points, badges and marks in a learning environment. The results have shown that the effect is influenced by user characteristics (extroverted/introverted). The difference in neuroticism did not have a significant effect on the gaming and nongamified groups.",
+                    "teacherScore": 4,
+                    "studentScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "magazine",
+                        "authors": [
+                            {
+                                "firstName": "A. M.",
+                                "lastName": "Cohen"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "The gamification of education",
+                        "magazine": "The Futurist",
+                        "volume": "45",
+                        "pages": "16-17",
+                        "url": "https://www.proquest.com/magazines/gamification-education/docview/884627174/se-2"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "online computer games"
+                    ],
+                    "summary": "Professional education experts advocate that traditional educational systems be adapted to embrace online and game based learning. The effectiveness of play based learning in fostering curiosity and imagination, which is missing from traditional education, can be seen by examples such as PBS KIDS and Oregon Trail. Massive online multiplayer games provide ongoing, trial-and-error learning environments.",
+                    "teacherScore": 7,
+                    "studentScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "conference paper",
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Baldeón"
+                            },
+                            {
+                                "firstName": "I.",
+                                "lastName": "Rodriguez"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Puig"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "LEGA: A LEarner-centered GAmification Design Framework",
+                        "conference": "Proceedings of the XVII International Conference on Human Computer Interaction (Interacción ’16)",
+                        "doi": "10.1145/2998626.2998673"
+                    },
+                    "keywords": [
+                        "Gamification design framework",
+                        "gamification of learning"
+                    ],
+                    "summary": "Assessment methods assist teaching adaptation and monitoring of the progress of students. Outcome Based learning recognises a variety of learning paths. Despite varied learning styles, Gamiﬁcation's effectiveness relies on design quality and metrics. Frameworks for design should align with the learning process, including evaluation. Questionnaires are useful for understanding the students as learners and players. It's important to use different Gamification mechanics for different types of learners.",
+                    "teacherScore": 6,
+                    "studentScore": 10
+                },
+                {
+                    "citation": {
+                        "type": "conference paper",
+                        "authors": [
+                            {
+                                "firstName": "L. S.",
+                                "lastName": "Ferro"
+                            },
+                            {
+                                "firstName": "S. P.",
+                                "lastName": "Walz"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Greuter"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Towards personalised, gamified systems",
+                        "conference": "Proceedings of the 9th Australasian Conference on Interactive Entertainment: Matters of Life and Death (IE ’13)",
+                        "doi": "10.1145/2513002.2513024"
+                    },
+                    "keywords": [
+                        "Game design",
+                        "gamification",
+                        "gameful",
+                        "personality"
+                    ],
+                    "summary": "The document aims to explore the typologies of players, who in virtual worlds are accomplished, socializers, explorers and killers alike; how they interact with one another. It also covers personality types such as introversion/extraversion, neuroticism/emotional stability, and psychoticism in gaming contexts. It emphasises the need for further research to be carried out in order to discover possible links of play typology, personality types and gaming elements and mechanics.",
+                    "teacherScore": 6,
+                    "studentScore": 10
+                },
+                {
+                    "citation": {
+                        "type": "journal article",
+                        "authors": [
+                            {
+                                "firstName": "K.",
+                                "lastName": "Robson"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Plangger"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Kietzmann"
+                            },
+                            {
+                                "firstName": "I. P.",
+                                "lastName": "McCarthy"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Pitt"
+                            }
+                        ],
+                        "year": 2015,
+                        "title": "Is it all a game? Understanding the principles of gamification",
+                        "journal": "Business Horizons",
+                        "volume": "58",
+                        "issue": "4",
+                        "pages": "411–420",
+                        "doi": "10.1016/j.bushor.2015.03.006"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "experience",
+                        "motivation"
+                    ],
+                    "summary": "In the article, gamification is explained in more detail, along with some examples of how it can be applied to inspire both customers and employees. It goes over the gamification principles, including mechanics, dynamics, emotions, and behavior change, and how they can be used to make interesting experiences that resemble games. The article also examines the role of social media and digital technologies in gamification and offers examples of typical game-like incentives used by businesses. It also highlights how crucial it is to know when to include spectators and observers in the gamification process.",
+                    "teacherScore": 4,
+                    "studentScore": 10
+                }         
+            ]
         },
         {
             "name": "Gamification",
             "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
             "sub-category": "Quests or Missions",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "thesis",
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Bourazeri"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Taxonomy of a gamified lesson path for STEM education: The beaconing approach",
+                        "publisher": "Coventry University",
+                        "url": "https://pureportal.coventry.ac.uk/en/publications/taxonomy-of-a-gamified-lesson-path-for-stem-education-the-beaconi"
+                    },
+                    "keywords": [
+                        "Game mechanics and dynamics",
+                        "adaptive learning",
+                        "personalized learning",
+                        "STEM education",
+                        "Beaconing"
+                    ],
+                    "summary": "The article looks at Beaconing, a platform that uses game mechanics and dynamics to balance entertainment with learning, providing tools and resources for adaptive and personalised education. It aims at developing 21st century skills and is flexible to different learning objectives.",
+                    "teacherScore": 6,
+                    "studentScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "journal article",
+                        "authors": [
+                            {
+                                "firstName": "I.",
+                                "lastName": "Araújo"
+                            },
+                            {
+                                "firstName": "A. a. A.",
+                                "lastName": "Carvalho"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "Enablers and Difficulties in the Implementation of Gamification: A Case Study with Teachers",
+                        "journal": "Education Sciences",
+                        "volume": "12",
+                        "issue": "3",
+                        "pages": "191",
+                        "doi": "10.3390/educsci12030191",
+                        "url": "https://doi.org/10.3390/educsci12030191"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "education",
+                        "teacher training",
+                        "case study",
+                        "challenges",
+                        "gamified activities",
+                        "Octalysis Framework"
+                    ],
+                    "summary": "The case studies examined the challenges faced by teachers in integrating gamification into their classes. The project has been carried out in four phases: training, the development of concepts for gamification, planning, implementation and reflection. gamified activities have been made possible by tools such as Educaplay, Bluerabbit and Youtube. Core drives have been organised by the Octalysis Framework and are aimed at engaging students. The implementation of this Programme has been hindered by technological problems such as lack of equipment and weak internet.",
+                    "teacherScore": 7,
+                    "studentScore": 7
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "D. R.",
+                                "lastName": "Sanchez"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Langer"
+                            },
+                            {
+                                "firstName": "R.",
+                                "lastName": "Kaur"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Gamification in the classroom: Examining the impact of gamified quizzes on student learning",
+                        "journal": "Computers & Education",
+                        "volume": "144",
+                        "pages": "103666",
+                        "doi": "10.1016/j.compedu.2019.103666"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "classroom",
+                        "quizzes",
+                        "student learning",
+                        "adult learning"
+                    ],
+                    "teacherScore": 4,
+                    "studentScore": 8,
+                    "summary": "The authors conducted a study with university students to compare traditional quizzes with gamified online quizzes. The gamified quizzes included elements such as a wager option, a progress bar, and encouraging messages. The study found that students completing gamified quizzes completed more quizzes and demonstrated better learning through the benefits of the testing effect. The article concludes that gamification can be a useful method for improving classroom teaching and adult learning."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "D. N.",
+                                "lastName": "Karagiorgas"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Niemann"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Gamification and Game-Based Learning",
+                        "journal": "Journal of Educational Technology Systems",
+                        "volume": "45",
+                        "issue": "4",
+                        "pages": "499–519",
+                        "doi": "10.1177/0047239516665105"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "serious games",
+                        "game-based learning",
+                        "language learning",
+                        "educational technology"
+                    ],
+                    "teacherScore": 6,
+                    "studentScore": 8,
+                    "summary": "The article looks at the evolution of video games as educational tools, focusing on gamification and serious games for learning, in particular in the area of language learning. The distinction between gamification and serious games, as well as their differences in purpose, entertainments or learning objectives, is highlighted. It offers examples of successful gamification in classrooms, including Quest for Learning, Duolingo, Kahoot! and Classcraft, demonstrating how gamelike elements are enhancing engagement. It concludes that games are an effective tool for motivating and engaging students in a variety of fields, due to their varied perspectives and complexity."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "Z.",
+                                "lastName": "Zainuddin"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Shujahat"
+                            },
+                            {
+                                "firstName": "H.",
+                                "lastName": "Haruna"
+                            },
+                            {
+                                "firstName": "S. K. W.",
+                                "lastName": "Chu"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "The role of gamified e-quizzes on student learning and engagement: An interactive gamification solution for a formative assessment system",
+                        "journal": "Computers & Education",
+                        "volume": "145",
+                        "pages": "103729",
+                        "doi": "10.1016/j.compedu.2019.103729"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "gamified e-quizzes",
+                        "formative assessment",
+                        "student learning",
+                        "student engagement"
+                    ],
+                    "teacherScore": 5,
+                    "studentScore": 9,
+                    "summary": "The article covers the impact of Gamification eQuizz on education and engagement for students. It compares traditional paper-based quizzes with Socrative, Quizizz, and iSpring Learn LMS. The Quizizz group showed the highest mean improvement in all assessments, followed by the Socrative group, although overall learning achievement scores were not significantly different between paper based and gamified eQuizzes.  The study highlights the potential of gamification as a means of motivating students to improve their learning by means of engaging and competitive formats."
+                }                                
+            ]
         },
         {
             "name": "Gamification",
             "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
             "sub-category": "Simulations",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Redhead"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Saunders"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Gamification and simulation",
+                        "bookTitle": "Security informatics and law enforcement",
+                        "pages": "83–98",
+                        "doi": "10.1007/978-3-030-29926-2_5"
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "simulation",
+                        "serious play",
+                        "agile methods",
+                        "learning",
+                        "engagement",
+                        "motivation",
+                        "game design"
+                    ],
+                    "teacherScore": 10,
+                    "studentScore": 9,
+                    "summary": "The article talks about the importance of gamification and simulation in serious play. It stresses the importance of these elements in improving learning, engagement and motivation for users. The use of agile methods in the development of games and software is highlighted as a common practice. It also emphasises the need to be able to understand the educational requirements of a major game in order to make efficient use of simulation techniques."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Pirker"
+                            },
+                            {
+                                "firstName": "C.",
+                                "lastName": "Gütl"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "Educational gamified science simulations",
+                        "bookTitle": "Springer eBooks",
+                        "pages": "253–275",
+                        "doi": "10.1007/978-3-319-10208-5_13"
+                    },
+                    "keywords": [
+                        "STEM",
+                        "gamified science",
+                        "simulation",
+                        "engagement",
+                        "game design",
+                        "feedback mechanisms"
+                    ],
+                    "teacherScore": 8,
+                    "studentScore": 9,
+                    "summary": "The article covers the use of gamification strategies in STEM education. The importance of providing students with engaging simulations in order to improve their ability to solve problems and gain a deeper understanding of concepts is emphasised. By incorporating game design elements, interactive features, and feedback mechanisms, educators can enhance the learning experience and maintain student motivation. The successful examples such as Foldit and EteRNA highlight how gamification can effectively address real-world scientific challenges in educational simulation. This article shows the positive impact of gamification on knowledge outcomes in science and math education."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "J. T.",
+                                "lastName": "Kim"
+                            },
+                            {
+                                "firstName": "W.",
+                                "lastName": "Lee"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Dynamical model for gamification of learning (DMGL)",
+                        "journal": "Multimedia Tools and Applications",
+                        "volume": "74",
+                        "issue": "19",
+                        "pages": "8483–8493",
+                        "doi": "10.1007/s11042-013-1612-8"
+                    },
+                    "keywords": [
+                        "educational game",
+                        "serious game",
+                        "dynamical model"
+                    ],
+                    "teacherScore": 8,
+                    "studentScore": 9,
+                    "summary": "The educational effectiveness of gamification in different groups, in particular adolescent males and females, is the focus of the simulations carried out in the study. According to the simulations, when gamification is used compared with traditional methods, a significant proportion of male and female participants showed better learning results."
+                } 
+            ]
         },
         {
             "name": "Gamification",
             "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
             "sub-category": "Interactive Storytelling",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "T.",
+                                "lastName": "Rasmusson"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Interactive Storytelling, gamification and Online education: Storytelling made Easy",
+                        "journal": "International Journal on Innovations in Online Education",
+                        "doi": "10.1615/intjinnovonlineedu.2017018913"
+                    },
+                    "keywords": [
+                        "digital storytelling",
+                        "unity",
+                        "twine"
+                    ],
+                    "teacherScore": 8,
+                    "studentScore": 6,
+                    "summary": "The article examines the use of narrative, visual, peer discussion, gamification, and interaction as a learning paradigm in online learning. In order to engage learners and improve their skills, it emphasises the advantages of nonlinear storytelling. The paper discusses how Twine, an open source software that can be used to create digital nonlinear stories at no cost and its application in various fields for the purpose of achieving learning outcomes."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "V.",
+                                "lastName": "Cesário"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Guidelines for Combining Storytelling and Gamification: Which Features Would Teenagers Desire to Have a More Enjoyable Museum Experience?",
+                        "conference": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19)",
+                        "paper": "Paper SRC03",
+                        "pages": "1–6",
+                        "publisher": "Association for Computing Machinery",
+                        "city": "New York, NY, USA",
+                        "doi": "10.1145/3290607.3308462"
+                    },
+                    "keywords": [
+                        "user experience",
+                        "storytelling",
+                        "gamification",
+                        "user-driven innovation",
+                        "game design"
+                    ],
+                    "teacherScore": 8,
+                    "studentScore": 6,
+                    "summary": "The article discusses a study on engaging teenagers in museum experiences through gamification and storytelling. Qualitative analysis was carried out with three museums, 12 curators and 17 masters students. The research examined the type of experience that young people want in museums, as well as the importance of games on museum premises. The findings suggested that young people value gamification and storytelling, while museum curators value narratively based stories for enjoyable museum experiences for young people."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "S. H.",
+                                "lastName": "Hsu"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Chang"
+                            },
+                            {
+                                "firstName": "C.",
+                                "lastName": "Lee"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Designing Attractive Gamification Features for Collaborative Storytelling Websites",
+                        "journal": "Cyberpsychology, Behavior, and Social Networking",
+                        "volume": "16",
+                        "issue": "6",
+                        "pages": "428–435",
+                        "doi": "10.1089/cyber.2012.0492"
+                    },
+                    "keywords": [
+                        "gamification",
+                        "game design"
+                    ],
+                    "teacherScore": 7,
+                    "studentScore": 6,
+                    "summary": "The article examines the importance of narrative and storytelling elements in gamification design for learning systems. The study examines the relationship between these elements and others in the game, as well as the technical limitations of the study. The study emphasises the need to adapt educational systems according to individual tastes and that demography is an important factor in designing learning programmes. Various studies and literature on gamification and education systems are cited in the article."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Molnar"
+                            }
+                        ],
+                        "year": 2018,
+                        "title": "The Effect of Interactive Digital Storytelling Gamification on Microbiology Classroom Interactions",
+                        "conference": "2018 IEEE Integrated STEM Education Conference (ISEC)",
+                        "location": "Princeton, NJ, USA",
+                        "pages": "243-246",
+                        "doi": "10.1109/ISECon.2018.8340493"
+                    },
+                    "keywords": [
+                        "classroom dynamics",
+                        "gamification",
+                        "leaderboard",
+                        "interactive digital storytelling",
+                        "problem-based learning",
+                        "STEM education"
+                    ],
+                    "teacherScore": 4,
+                    "studentScore": 8,
+                    "summary": "The article examines the use of interactive digital storytelling with and without gamification in a microbiological classroom. The purpose of the study was to assess the impact of gamification on classroom dynamics and interaction between students. Results show that the use of gamification has led to a higher level of classroom discussions and student involvement in education objectives."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "C. C.",
+                                "lastName": "Ibarra-Herrera"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Carrizosa"
+                            },
+                            {
+                                "firstName": "J. A.",
+                                "lastName": "Yunes-Rojas"
+                            },
+                            {
+                                "lastName": "et al."
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Design of an App Based on Gamification and Storytelling as a Tool for Biology Courses",
+                        "journal": "International Journal of Interactive Design and Manufacturing",
+                        "volume": 13,
+                        "pages": "1271–1282",
+                        "doi": "10.1007/s12008-019-00600-8"
+                    },
+                    "keywords": [
+                        "student motivation",
+                        "gamification",
+                        "storytelling",
+                        "augmented reality"
+                    ],
+                    "teacherScore": 7,
+                    "studentScore": 9,
+                    "summary": "The article discusses the development of Bio3D, an app that aims to improve biology education by increasing student motivation through gamification and storytelling. Tests have shown that students are interested in digital technology used in the app."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            "P. T. Palomino",
+                            "A. M. Toda",
+                            "W. Oliveira",
+                            "L. Rodrigues",
+                            "A. I. Cristea",
+                            "S. Isotani"
+                        ],
+                        "year": 2019,
+                        "title": "Exploring Content Game Elements to Support Gamification Design in Educational Systems: Narrative and Storytelling",
+                        "conference": "Anais Do XXX Simpósio Brasileiro De Informática Na Educação (SBIE 2019)",
+                        "doi": "10.5753/cbie.sbie.2019.773"
+                    },
+                    "keywords": [
+                        "narrative storytelling",
+                        "game elements",
+                        "game design"
+                    ],
+                    "teacherScore": 10,
+                    "studentScore": 10,
+                    "summary": "The article examines the importance of narrative and storytelling elements in gamification design for learning systems. The study examines the relationship between these elements and others in the game, as well as the technical limitations of the study. The study emphasizes the need to adapt educational systems according to individual tastes and that demography is an important factor in designing learning programs."
+                }
+            ]
         },
         {
             "name": "Gamification",
             "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
             "sub-category": "Badgets",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            "S. Abramovich",
+                            "C. D. Schunn",
+                            "R. Higashi"
+                        ],
+                        "year": 2013,
+                        "title": "Are badges useful in education?: it depends upon the type of badge and expertise of learner",
+                        "journal": "Educational Technology Research and Development",
+                        "volume": "61",
+                        "issue": "2",
+                        "pages": "217–232",
+                        "doi": "10.1007/s11423-013-9289-2"
+                    },
+                    "keywords": [
+                        "badges",
+                        "alternative assessment",
+                        "motivation",
+                        "intelligent tutors"
+                    ],
+                    "teacherScore": 4,
+                    "studentScore": 5,
+                    "summary": "The study examines the impact of educational badges on learning motivation in an intelligent-tutor system for teaching applied mathematics to middle school students. It's examining two kinds of badge: merit badges and achievements from videogames. Using Achievement Goal Theory and Expectancy-Value Theory, it examines the impact of these badges on learning-related motivations. The research measured initial abilities and pre-and-post motivational levels concerning the intelligent tutoring system."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            "A. Anderson",
+                            "D. P. Huttenlocher",
+                            "J. Kleinberg",
+                            "J. Leskovec"
+                        ],
+                        "year": 2013,
+                        "title": "Steering user behavior with badges",
+                        "conference": "Proceedings of the 22nd International Conference on World Wide Web (WWW ’13)",
+                        "doi": "10.1145/2488388.2488398"
+                    },
+                    "keywords": [
+                        "badges",
+                        "steering",
+                        "badge placement problem"
+                    ],
+                    "teacherScore": 6,
+                    "studentScore": 6,
+                    "summary": "The article discusses the use of badges as a tool for incentivizing user behavior on websites. The authors develop a model for user behavior in the presence of badges on a site with multiple types of activities and evaluate the model on data from the popular question-answering site Stack Overflow. They show that the main qualitative predictions of the model match what they observe in the aggregate user behavior on the real site. The authors also consider how a site designer can use such a model to define badges with the goal of achieving a desired pattern of behavior. The article discusses the advantages of badges in educational contexts and the growing movement toward gamification in education."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            "P. Denny"
+                        ],
+                        "year": 2013,
+                        "title": "The effect of virtual achievements on student engagement",
+                        "conference": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’13)",
+                        "doi": "10.1145/2470654.2470763"
+                    },
+                    "keywords": [
+                        "badges",
+                        "achievements",
+                        "gamification",
+                        "PeerWise",
+                        "education",
+                        "online learning"
+                    ],
+                    "teacherScore": 5,
+                    "studentScore": 7,
+                    "summary": "A study of more than 1,000 participants shows that badges have had a significant impact on student participation, despite the quality being compromised. The tool was used more frequently by students with badges, who preferred their presence and were delighted to have earned them. The research suggests that badges can be an effective motivation for students, contributing to their engagement and skills development in the classroom. Overall, badges in online learning proved beneficial for enhancing engagement and skill acquisition."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            "H. Imran"
+                        ],
+                        "year": 2019,
+                        "title": "Evaluation of awarding badges on Student’s engagement in Gamified e-learning systems",
+                        "journal": "Smart Learning Environments",
+                        "volume": "6",
+                        "issue": "1",
+                        "doi": "10.1186/s40561-019-0093-2"
+                    },
+                    "keywords": [
+                        "gamification",
+                        "engagement",
+                        "motivation"
+                    ],
+                    "teacherScore": 4,
+                    "studentScore": 9,
+                    "summary": "Gamification encourages learning by using points, leaderboards, and badges. It's common in higher education online courses but less studied in lower levels. It aims at raising the level of engagement and success. The model helps to select the elements of the game. The badges that are earned connect to a higher level of engagement. The time and the badge are a reliable indicator. Results show that reliable measures of participation in the online learning experience are time and badges earned."
+                }
+            ]
         },
         {
             "name": "Gamification",
             "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
             "sub-category": "Leaderboards and Points",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            "S. Park",
+                            "S. Kim"
+                        ],
+                        "year": 2021,
+                        "title": "Leaderboard Design principles to Enhance learning and Motivation in a Gamified Educational Environment: Development Study",
+                        "journal": "JMIR Serious Games",
+                        "volume": "9",
+                        "issue": "2",
+                        "doi": "10.2196/14746"
+                    },
+                    "keywords": [
+                        "leaderboard design",
+                        "gamification",
+                        "learning motivation"
+                    ],
+                    "teacherScore": 6,
+                    "studentScore": 4,
+                    "summary": "The article discusses how to improve learning and motivation in a gamified educational environment by developing design principles for leaderboards. In order to minimise negative impacts and improve the effectiveness of leaderboards, it lays down three design principles. In order to provide students with more experience of success, the study emphasises the importance of integrating all elements into micro leaderboards."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            "Y. Attali",
+                            "M. Arieli-Attali"
+                        ],
+                        "year": 2015,
+                        "title": "Gamification in assessment: Do points affect test performance?",
+                        "journal": "Computers & Education",
+                        "volume": "83",
+                        "pages": "57–63",
+                        "doi": "10.1016/j.compedu.2014.12.012"
+                    },
+                    "keywords": [
+                        "points",
+                        "gamification",
+                        "engagement"
+                    ],
+                    "teacherScore": 5,
+                    "studentScore": 5,
+                    "summary": "The article discusses a study that examined how the use of points in games affected students' performance on a computerized test of basic mathematical concepts. The study's findings demonstrated that, although awarding points had little impact on test-takers' accuracy of answers, it did shorten response times and raise perceived effort. Additionally, but only in the first of the two sessions, middle school participants gave the test higher marks under the points condition. The article argues in general that gamification can boost motivation and involvement in the learning process."
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            "R. N. Landers",
+                            "K. N. Bauer",
+                            "R. C. Callan"
+                        ],
+                        "year": 2017,
+                        "title": "Gamification of task performance with leaderboards: A goal setting experiment",
+                        "journal": "Computers in Human Behavior",
+                        "volume": "71",
+                        "pages": "508–515",
+                        "doi": "10.1016/j.chb.2015.08.008"
+                    },
+                    "keywords": [
+                        "gamification",
+                        "goal-setting theory",
+                        "leaderboard",
+                        "experiment"
+                    ],
+                    "teacherScore": 8,
+                    "studentScore": 7,
+                    "summary": "The article examines the effectiveness of leaderboards in gamification and their impact on the performance of tasks. It suggests that goal-setting theory is valuable in understanding the influence of leaderboards. The study provides empirical evidence to support the effectiveness of leaderboards and recommends an interdisciplinary approach for researchers and practitioners."
+                } 
+            ]
         },
         {
             "name": "Flipped Classroom",
