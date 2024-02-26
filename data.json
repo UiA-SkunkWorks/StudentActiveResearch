@@ -1306,19 +1306,611 @@
             "name": "Flipped Classroom",
             "description": "The flipped classroom model redefines traditional learning by changing the typical structure. Before class, students independently review the teaching materials, often in the form of videos or readings, so that they can learn at their own pace. The classroom time is then devoted to collaborative activities, discussions and problem solving in the framework of a teacher's guidance. This approach increases active learning during face-to-face sessions and focuses on higher-order thinking skills. The model of flipping a classroom has to give students deeper understanding of the subject by emphasising interactive teaching.",
             "sub-category": "Flipped Classroom",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "I. T.",
+                                "lastName": "Awidi"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Paynter"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "The impact of a flipped classroom approach on student learning experience",
+                        "source": "Science Direct",
+                        "retrievedFrom": "https://www.sciencedirect.com/science/article/pii/S0360131518302495"
+                    },
+                    "keywords": [
+                        "Flipped classroom",
+                        "participation and collaboration",
+                        "assessment and feedback",
+                        "engagement",
+                        "motivation"
+                    ],
+                    "summary": "This article evaluates the impact of a specific flipped classroom approach on student learning experience. The study aims to assess satisfaction and observations from both students and the course coordinator (CC). It hypothesizes that students participating in the flipped approach would express high levels of satisfaction with elements of the approach and that this satisfaction would be linked to increased confidence, motivation, and engagement in learning. While primarily quantitative, the research also includes qualitative components.",
+                    "studentActivityScore": 3,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Enfield"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "Looking at the Impact of the Flipped Classroom Model of Instruction on Undergraduate Multimedia Students at CSUN",
+                        "source": "Springer",
+                        "retrievedFrom": "https://link.springer.com/article/10.1007/s11528-013-0698-1"
+                    },
+                    "keywords": [
+                        "Flipped classroom",
+                        "technology integration",
+                        "instructional videos"
+                    ],
+                    "summary": "This study examines the impact of the Flipped Classroom Model of Instruction on undergraduate multimedia students at California State University Northridge (CSUN). It explores how this approach equips students with resources for learning outside of class, thereby allowing for more engaging and interactive activities during class time. The study provides insights into the implementation and effectiveness of the flipped classroom approach in this specific educational context.",
+                    "studentActivityScore": 6,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "Z.",
+                                "lastName": "Unal"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Unal"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "Comparison of Student Performance, Student Perception, and Teacher Satisfaction with Traditional versus Flipped Classroom Models",
+                        "retrievedFrom": "https://digitalcommons.georgiasouthern.edu/teach-elementary-facpubs/49/"
+                    },
+                    "keywords": [
+                        "Flipped classroom",
+                        "inverted teaching",
+                        "online teaching",
+                        "learning",
+                        "student performance",
+                        "student perception"
+                    ],
+                    "summary": "This study compares the effects of the traditional classroom model with the flipped classroom model on student performance, perceptions, and teacher satisfaction. It focuses on K-12 schools and finds that the flipped classroom approach, driven by technology, leads to better learning outcomes, higher student perceptions, and increased teacher satisfaction. The study suggests that technology-driven approaches have significant benefits for education, particularly at the K-12 level, and calls for further exploration of their advantages across different educational settings.",
+                    "studentActivityScore": 5,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "C. J.",
+                                "lastName": "Brame"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "Flipping the Classroom",
+                        "retrievedFrom": "https://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom/"
+                    },
+                    "keywords": [
+                        "Flipped classroom"
+                    ],
+                    "summary": "Cynthia J. Brame's guide 'Flipping the Classroom' provides insights into teaching using the flipped classroom approach. It emphasizes pre-class preparation for students to grasp new material before class, allowing for deeper engagement during in-person sessions. The method has shown success across various disciplines, particularly in the humanities, and Brame's guide explores its potential benefits for other fields as well.",
+                    "studentActivityScore": 4,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "F.",
+                                "lastName": "Ozdamli"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "Flipped classroom approach",
+                        "retrievedFrom": "https://eric.ed.gov/?id=EJ1141886"
+                    },
+                    "keywords": [
+                        "Flipped learning",
+                        "Flipped classroom",
+                        "New approaches"
+                    ],
+                    "summary": "The text discusses the flipped classroom approach, where students receive instruction before class, allowing for interactive activities during class time. Teachers utilize video tools and systems to provide guidance, support, and establish learning conditions. While this approach offers benefits such as flexibility and deeper thinking, challenges may arise from inadequate preparation and unaddressed attendance issues.",
+                    "studentActivityScore": 8,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "A. J.",
+                                "lastName": "Boeve"
+                            },
+                            {
+                                "firstName": "R. R.",
+                                "lastName": "Meijer"
+                            },
+                            {
+                                "firstName": "R. J.",
+                                "lastName": "Bosker"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Vugteveen"
+                            },
+                            {
+                                "firstName": "R.",
+                                "lastName": "Hoekstra"
+                            },
+                            {
+                                "firstName": "C. J.",
+                                "lastName": "Albers"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "Implementing the flipped classroom: An exploration of study behavior and student performance",
+                        "retrievedFrom": "https://link.springer.com/article/10.1007/s10734-016-0104-y"
+                    },
+                    "keywords": [
+                        "Flipped classroom",
+                        "Study behaviour",
+                        "Student performance",
+                        "Learning regulation",
+                        "Course evaluations"
+                    ],
+                    "summary": "This study investigates study behavior, its impact on student performance, and student evaluations of their learning regulation ability in a flipped course. It acknowledges potential challenges in comparing student performance between flipped and regular courses due to various factors. The study reveals a significant relationship between practicing and student performance in the flipped course, highlighting the importance of self-regulation. Three themes emerged from the findings: students' desire for more regulation, preference for passive explanations, and recognition of the importance of self-regulation in benefiting from the flipped course lecture. The study emphasizes the need for ongoing research to further explore these areas and improve understanding of study behavior and its influence on learning outcomes.",
+                    "studentActivityScore": 5,
+                    "lecturerActivityScore": 7
+                },
+                {
+                    "citation": {
+                        "authors": [
+                            {
+                                "firstName": "B.",
+                                "lastName": "Danker"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "Using Flipped Classroom Approach to Explore Deep",
+                        "retrievedFrom": "https://files.eric.ed.gov/fulltext/EJ1100618.pdf"
+                    },
+                    "keywords": [
+                        "Flipped classroom",
+                        "Curriculum design",
+                        "Blended learning"
+                    ],
+                    "summary": "This project implemented two Flipped Classroom approaches in a film module as part of a Diploma in Performing Arts course at Sunway University, Malaysia. Online materials were used for reviewing and reinforcing lessons, while in-class time focused on problem-solving, advanced concepts, and collaborative learning. Survey results revealed that nearly half of the respondents attributed their high level of participation to engaging online lectures and in-class activities. The Flipped Classroom approach fostered active participation, valuable feedback, and encouraged students to take charge of their learning while fostering peer collaboration.",
+                    "studentActivityScore": 3,
+                    "lecturerActivityScore": 7
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "C. L.",
+                                "lastName": "Koo"
+                            },
+                            {
+                                "firstName": "E. L.",
+                                "lastName": "Demps"
+                            },
+                            {
+                                "firstName": "C.",
+                                "lastName": "Farris"
+                            },
+                            {
+                                "firstName": "J. D.",
+                                "lastName": "Bowman"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Panahi"
+                            },
+                            {
+                                "firstName": "P.",
+                                "lastName": "Boyle"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "Impact of Flipped Classroom Design on Student Performance and Perceptions in a Pharmacotherapy Course",
+                        "journal": "",
+                        "volume": "",
+                        "issue": "",
+                        "pages": "",
+                        "doi": "",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4827584/",
+                        "edition": "",
+                        "publisher": ""
+                    },
+                    "keywords": [
+                        "Flipped classroom",
+                        "active learning",
+                        "problem-based learning",
+                        "pharmacotherapy"
+                    ],
+                    "summary": "This study compared a flipped classroom design with a traditional lecture course for second-year pharmacy students. The redesigned course included online components with videos and self-assessment questions. Students' postcourse survey scores significantly improved, and they appreciated applying video content during class time. Overall, students had a positive learning experience, as indicated by the survey and course evaluation.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "P.",
+                                "lastName": "Strelan"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Osborn"
+                            },
+                            {
+                                "firstName": "E.",
+                                "lastName": "Palmer"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "[Title of the article]",
+                        "journal": "Journal Name",
+                        "volume": "Volume",
+                        "issue": "Issue",
+                        "pages": "page range",
+                        "doi": "",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S1747938X19301599",
+                        "edition": "",
+                        "publisher": ""
+                    },
+                    "keywords": [
+                        "Flipped classroom",
+                        "student performance"
+                    ],
+                    "summary": "This paper takes a look into how The flipped classroom approach has shaken up traditional teaching methods, presenting new challenges and opportunities. To create successful flipped classrooms, it's essential to have dedicated and self-assured teachers who are supported with sufficient time, resources, and guidance to develop an effective flipped model. In this article, they delve into an intriguing question: could the nature of student summative assessments influence the outcomes? Specifically, they explore how robust assessments may yield different results compared to less comprehensive ones, adding an interesting twist to the discussion.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "L.",
+                                "lastName": "Abeysekera"
+                            },
+                            {
+                                "firstName": "P.",
+                                "lastName": "Dawson"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "Motivation and cognitive load in the flipped classroom: definition, rationale and a call for research",
+                        "journal": "Higher Education Research and Development",
+                        "volume": "34",
+                        "issue": "1",
+                        "pages": "1–14",
+                        "doi": "10.1080/07294360.2014.934336",
+                        "url": "https://doi.org/10.1080/07294360.2014.934336",
+                        "edition": "",
+                        "publisher": ""
+                    },
+                    "keywords": [
+                        "Flipped classroom",
+                        "motivation",
+                        "cognitive load",
+                        "active learning"
+                    ],
+                    "summary": "This article looks at the theoretical basis of a flipped classroom approach, in particular as regards motivation and cognitive load. It discusses the big potential of the flipped classroom model to increase students' motivation by satisfying their needs for relatedness, autonomy and competence. The document also looks at how the flipped classroom can help manage the cognitive load through the provision of tailored learning experiences and opportunities for active participation.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 7
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "G.",
+                                "lastName": "Akçayır"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Akçayır"
+                            }
+                        ],
+                        "year": 2018,
+                        "title": "The flipped classroom: A review of its advantages and challenges",
+                        "journal": "Computers & Education",
+                        "volume": "126",
+                        "issue": "",
+                        "pages": "334–345",
+                        "doi": "10.1016/j.compedu.2018.07.021",
+                        "url": "https://doi.org/10.1016/j.compedu.2018.07.021",
+                        "edition": "",
+                        "publisher": ""
+                    },
+                    "keywords": [
+                        "Teaching strategies",
+                        "learning strategies",
+                        "improving classroom teaching"
+                    ],
+                    "summary": "Authors systematically examined the advantages and challenges associated with the flipped classroom model in this article. To find out the reported advantages and disadvantages for students and teachers, a total of 71 research articles have been analysed. The benefits of a flipped classroom are improved student outcomes, increased interaction and time efficiency. The challenges, on the other hand, are course redesign, student motivation and technological competence.",
+                    "studentActvityScore": 9,
+                    "lecturerActivityScore": 8
+                }  
+            ]
         },
         {
             "name": "Flipped Classroom",
             "description": "The flipped classroom model redefines traditional learning by changing the typical structure. Before class, students independently review the teaching materials, often in the form of videos or readings, so that they can learn at their own pace. The classroom time is then devoted to collaborative activities, discussions and problem solving in the framework of a teacher's guidance. This approach increases active learning during face-to-face sessions and focuses on higher-order thinking skills. The model of flipping a classroom has to give students deeper understanding of the subject by emphasising interactive teaching.",
             "sub-category": "Peer Teaching",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "L.",
+                                "lastName": "Rubin"
+                            },
+                            {
+                                "firstName": "C.",
+                                "lastName": "Hebert"
+                            }
+                        ],
+                        "year": 1998,
+                        "title": "Model for Active Learning: Collaborative Peer Teaching",
+                        "journal": "College Teaching",
+                        "volume": "46",
+                        "issue": "1",
+                        "pages": "26-30",
+                        "doi": "",
+                        "url": "https://www.jstor.org/stable/27558871",
+                        "edition": "",
+                        "publisher": ""
+                    },
+                    "keywords": [
+                        "Peer-teaching",
+                        "student-centered methods",
+                        "student performance",
+                        "social awareness"
+                    ],
+                    "summary": "Active learning has emerged as a fundamental element of education and proven to be more successful than methods dominated by teachers. Peer teaching assignments have been successful, promoting active learning and benefiting both students and teachers, even though they were initially met with apprehension. By incorporating open-ended questions and the participation of students in assessments, this approach can be further refined to enhance intellectual and social growth.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "K. J.",
+                                "lastName": "Graziano"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "Peer teaching in a flipped teacher education classroom",
+                        "journal": "TechTrends",
+                        "volume": "61",
+                        "issue": "2",
+                        "pages": "121–129",
+                        "doi": "10.1007/s11528-016-0077-9",
+                        "url": "",
+                        "edition": "",
+                        "publisher": ""
+                    },
+                    "keywords": [
+                        "Flipped instruction",
+                        "peer-teaching",
+                        "interactive learning",
+                        "technology skills",
+                        "student engagement",
+                        "collaborative learning"
+                    ],
+                    "summary": "The article examines the advantages and problems of implementing a modified learning style in teacher education classes. It examines the experiences of teaching in a flipped learning environment where students receive interactive learning, performance and preparation for the upcoming classroom. The study shows the positive aspects of student motivation through peer learning. This report also addresses challenges such as time-consuming multimedia creation and student accountability for the preparation activities. This method improves teachers' technological skills and supports a student cooperative learning approach.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "firstName": "V.",
+                                "lastName": "Sukrajh"
+                            }
+                        ],
+                        "year": 2018,
+                        "title": "The use of peer teaching to promote active learning amongst senior medical students",
+                        "url": "https://scholar.sun.ac.za/items/dbd913bc-ac9a-4feb-bdcf-2cb46bf168d3"
+                    },
+                    "keywords": [
+                        "Peer-teaching",
+                        "student performance"
+                    ],
+                    "summary": "Peer teaching was introduced at the Sefako Makgatho Health Sciences University to encourage active student participation. Deep learning, holistic understanding, and long-term retention have been found to be enhanced by fifth-year medical students preparing for teaching. Communication and emotion skills have been improved by teaching experience. On the other hand, students expressed mixed feelings as peer learners because of their concerns about wrong information and participation in lectures. The recommendations included the earlier introduction of peer learning and the involvement of senior peers in the teaching of young people. Alternative peer training and teaching techniques to healthcare professionals are highlighted in this study.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 7
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M. A.",
+                                "lastName": "Muñoz"
+                            },
+                            {
+                                "firstName": "G.",
+                                "lastName": "Moreda"
+                            },
+                            {
+                                "firstName": "N.",
+                                "lastName": "Hernández-Sánchez"
+                            },
+                            {
+                                "firstName": "V.",
+                                "lastName": "Valiño"
+                            }
+                        ],
+                        "year": 2012,
+                        "title": "Student Reciprocal peer teaching as a method for Active Learning: an experience in an electrotechnical laboratory",
+                        "journal": "Journal of Science Education and Technology",
+                        "volume": "22",
+                        "issue": "5",
+                        "pages": "729–734",
+                        "doi": "10.1007/s10956-012-9426-4",
+                        "url": "https://doi.org/10.1007/s10956-012-9426-4"
+                    },
+                    "keywords": [
+                        "Student experiments",
+                        "active learning",
+                        "peer-teaching"
+                    ],
+                    "summary": "The article explores an engineering course experiment involving laboratory sessions and reciprocal peer teaching among students from various specialties. In the theory or practical component of the examination, those who act as evaluators are more successful. The surveys have shown that laboratory sessions and monitoring methods are of use to students. The importance of practical training, which helps to strengthen theory and promote involvement in activities, is underlined.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 4
+                } 
+            ]
         },
         {
             "name": "Flipped Classroom",
             "description": "The flipped classroom model redefines traditional learning by changing the typical structure. Before class, students independently review the teaching materials, often in the form of videos or readings, so that they can learn at their own pace. The classroom time is then devoted to collaborative activities, discussions and problem solving in the framework of a teacher's guidance. This approach increases active learning during face-to-face sessions and focuses on higher-order thinking skills. The model of flipping a classroom has to give students deeper understanding of the subject by emphasising interactive teaching.",
             "sub-category": "Video Case",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Colasante"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Douglas"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "Video annotation ‘Prepare-Participate-Connect’ models: Promoting student learning",
+                        "journal": "Australasian Journal of Educational Technology",
+                        "doi": "10.14742/ajet.2123",
+                        "url": "https://doi.org/10.14742/ajet.2123"
+                    },
+                    "keywords": [
+                        "Video annotation",
+                        "tertiary education"
+                    ],
+                    "summary": "Learning satisfaction and results have been affected by factors such as video suitability, analysis type, activity depth or timing of intervention. Rogow's process of tertiary education has been adapted by the insights from this study. The project investigated the role of MAT in various sectors and areas, conducting surveys, interviews as well as observations. The study found educational benefits, but a potential depth of challenges in education has been identified.  Recommendations suggest that student oversight, collaboration and control of participation in video annotation practices should be encouraged.",
+                    "studentActvityScore": 4,
+                    "lecturerActivityScore": 7
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "firstName": "C.",
+                                "lastName": "Vondrick"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "Video Annotation and Tracking with Active Learning",
+                        "url": "https://proceedings.neurips.cc/paper_files/paper/2011/hash/182be0c5cdcd5072bb1864cdee4d3d6e-Abstract.html"
+                    },
+                    "keywords": [
+                        "Video annotation",
+                        "active learning"
+                    ],
+                    "summary": "In order to address the issue of labelling an enormous amount of video information, this article introduces a new dynamic learning framework for visual annotation and tracking. The proposal is to apply an adaptive keyframes strategy that compels workers to tag special objects on frames with a view to optimising performance.",
+                    "studentActvityScore": 4,
+                    "lecturerActivityScore": 7
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Hoel"
+                            },
+                            {
+                                "firstName": "A. N.",
+                                "lastName": "Jakobsen"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Mehli"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Video cases to bring the working life perspective into the classroom",
+                        "journal": "Uniped",
+                        "volume": "43",
+                        "issue": "4",
+                        "pages": "312-330",
+                        "publisher": "Universitetsforlaget",
+                        "doi": "10.18261/issn.1893-8981-2020-04-04",
+                        "url": ""
+                    },
+                    "keywords": [
+                        "Video case",
+                        "motivation"
+                    ],
+                    "summary": "This study examines how using filmed cases from the food industry can make food microbiology more relevant to students and enhance their learning. The flipped classroom approach received positive feedback, with students appreciating the flexibility of filmed lectures. The cases were seen as relevant to real-world work, leading to better preparation among students. Moreover, case-based teaching improved students' generic skills, resulting in enhanced academic performance compared to previous years.",
+                    "studentActvityScore": 5,
+                    "lecturerActivityScore": 2
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "K.",
+                                "lastName": "Seo"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Dodson"
+                            },
+                            {
+                                "firstName": "N. M.",
+                                "lastName": "Harandi"
+                            },
+                            {
+                                "firstName": "N. D.",
+                                "lastName": "Roberson"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Fels"
+                            },
+                            {
+                                "firstName": "I.",
+                                "lastName": "Roll"
+                            }
+                        ],
+                        "year": 2021,
+                        "title": "Active learning with online video: The impact of learning context on engagement",
+                        "journal": "Computers & Education",
+                        "volume": "165",
+                        "pages": "104132",
+                        "doi": "10.1016/j.compedu.2021.104132",
+                        "url": "https://doi.org/10.1016/j.compedu.2021.104132"
+                    },
+                    "keywords": [
+                        "Video-based learning",
+                        "engagement"
+                    ],
+                    "summary": "The article looks at how students interact with video on the internet across different educational contexts. It discusses the use of hyper video players in the classroom and the need for further research to understand how students' activities are influenced by their objectives. In this study ViDeX hyper video player was used to create instructional videos and the effect of educational context on student engagement goals has been examined. Based on the results, recommendations have also been drawn up for educational design.",
+                    "studentActvityScore": 5,
+                    "lecturerActivityScore": 7
+                }   
+            ]
         },
         {
             "name": "Experimental Learning",
