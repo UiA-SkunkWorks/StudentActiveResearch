@@ -1378,31 +1378,863 @@
             "name": "Game-based Learning",
             "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
             "sub-category": "Gamification",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M. I.",
+                                "lastName": "Cicchino"
+                            }
+                        ],
+                        "year": 2015,
+                        "title": "Using Game-Based Learning to Foster Critical Thinking in Student Discourse",
+                        "journal": "Interdisciplinary Journal of Problem-based Learning",
+                        "volume": "9",
+                        "issue": "2",
+                        "pages": "",
+                        "doi": "https://doi.org/10.7771/1541-5015.1481",
+                    },
+                    "keywords": [
+                        "Game-based learning",
+                        "GBL",
+                        "critical thinking",
+                        "games",
+                        "educational game",
+                        "problem-based learning"
+                    ],
+                    "summary": "The study examines the impact of a Game-Based Learning (GBL) intervention on critical thinking and content knowledge retention in 8th-grade Social Studies. The GBL intervention involved students playing a game simulating the French and Indian War, encouraging problem-solving and critical thinking. The results showed no significant difference in content knowledge between GBL and traditional instruction groups. However, the GBL intervention promoted student engagement, small-group discourse, and reflective processes. Integration, the highest level of critical thinking, occurred in only 4.2% of measured units. The study suggests deliberate spaces for reflection to enhance sustained critical thinking. The results support constructivist-style learning environments, aligned with current teacher-evaluation models. Future research should explore heightened and sustained critical thinking in innovative problem-solving contexts. The limitations include non-random group selection and the brevity of the content knowledge test. Overall, GBL shows promise in fostering critical thinking and student-centred learning. The study calls for further investigation and refinement of GBL principles.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Hartt"
+                            },
+                            {
+                                "firstName": "H.",
+                                "lastName": "Hosseini"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Mostafapour"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Game On: Exploring the Effectiveness of Game-based Learning",
+                        "journal": "Planning Practice and Research",
+                        "volume": "35",
+                        "issue": "5",
+                        "pages": "589–604",
+                        "doi": "https://doi.org/10.1080/02697459.2020.1778859",
+                    },
+                    "keywords": [
+                        "Gamification",
+                        "game-based learning",
+                        "active learning",
+                        "board game",
+                        "card game"
+                    ],
+                    "summary": "The study explored the effectiveness of game-based learning in planning education. Two lectures, one traditional and one gamified, were conducted to assess students' perceptions of learning, engagement, and teamwork. The gamified lecture involved a board game simulating demographic processes related to population forecasts. Results showed that students preferred the gamified lecture, finding it more engaging and memorable. However, game-based learning might be better suited for certain aspects of planning education and requires thoughtful integration. Overall, game-based learning offers exciting opportunities for enhancing higher education pedagogy.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Tay"
+                            },
+                            {
+                                "firstName": "Y.",
+                                "lastName": "Goh"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Safiena"
+                            },
+                            {
+                                "firstName": "H.",
+                                "lastName": "Bound"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "Designing digital game-based learning for professional upskilling: A systematic literature review",
+                        "journal": "Computers & Education",
+                        "volume": "184",
+                        "pages": "104518",
+                        "doi": "https://doi.org/10.1016/j.compedu.2022.104518",
+                        "url": "https://doi.org/10.1016/j.compedu.2022.104518",
+                    },
+                    "keywords": [
+                        "Digital game-based learning",
+                        "digital game",
+                        "professional development"
+                    ],
+                    "summary": "DGBL has shown promising learning outcomes, including improved academic performance and increased retention of knowledge. However, mixed results have been observed in some studies, highlighting the need to consider factors like game design and teaching strategies. The role of teachers in the development and implementation of DGBL is crucial, with their involvement in game development aligning gameplay with instructional objectives and setting the tone for effective learning experiences. To maximise the effectiveness of DGBL, researchers and educators are encouraged to carefully select gamification elements, align them with pedagogical frameworks, and provide teachers with training in DGBL. As technology continues to advance, DGBL is expected to play an increasingly significant role in education and professional upskilling programs.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "book chapter",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Gosper"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "McNeill"
+                            }
+                        ],
+                        "year": 2012,
+                        "title": "Implementing Game-Based Learning: The MAPLET Framework as a guide to Learner-Centred design and assessment",
+                        "bookTitle": "Springer eBooks",
+                        "pages": "217–233",
+                        "doi": "https://doi.org/10.1007/978-1-4614-3546-4_12",
+                        "publisher": "Springer"
+                    },
+                    "keywords": [
+                        "Assessment strategy",
+                        "assessment task",
+                        "metacognitive skill",
+                        "summative assessment",
+                        "gaming activity"
+                    ],
+                    "summary": "The article explores how game-based learning has the ability to support a variety of learning objectives and skills, including fundamental knowledge, metacognitive skills, and creative abilities. The MAPLET framework is introduced as a method for game-based learning alignment of learning objectives, learner characteristics, and assessment strategies. The concept is built on three stages of intellectual skill development: early stages emphasise fundamental knowledge and abilities, middle stages involve problem-solving, and late stages target automated execution and knowledge transfer. In order to complement particular learning objectives, each phase recommends appropriate game activities, such as simulations and puzzles. When employing games as learning tools, the article underlines the significance of having a clear aim. It also stresses the necessity for more research and empirical case studies to improve and put the framework into use.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "firstName": "Z.",
+                                "lastName": "Liu"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Using the concept of Game-Based Learning in education",
+                        "url": "https://www.semanticscholar.org/paper/Using-the-Concept-of-Game-Based-Learning-in-Liu-Shaikh/3bd80addc3873f1c6cb195f40712f5a39da3fea8/"
+                    },
+                    "keywords": [
+                        "E-learning",
+                        "game-based learning",
+                        "gamification"
+                    ],
+                    "summary": "Game-based learning (GBL) is a promising approach to address modern education challenges. With the rise of the 'native digital' generation, lifelong learning and 21st-century skills like creativity and problem-solving are essential. GBL, using video games and game elements in education, has shown positive effects on student motivation and learning outcomes. However, challenges include creating high-quality games and providing proper teacher training. A study confirmed that GBL increases student motivation, involvement, and effective learning outcomes compared to traditional methods. Further research on its long-term effects is needed. Overall, GBL holds great potential for enhancing modern education.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Pivec"
+                            }
+                        ],
+                        "year": 2007,
+                        "title": "Editorial: Play and learn: potentials of game-based learning",
+                        "journal": "British Journal of Educational Technology",
+                        "volume": "38",
+                        "issue": "3",
+                        "pages": "387–393",
+                        "doi": "10.1111/j.1467-8535.2007.00722.x",
+                        "url": "https://doi.org/10.1111/j.1467-8535.2007.00722.x"
+                    },
+                    "keywords": [
+                        "Critical skills",
+                        "teacher role",
+                        "digital learning",
+                        "digital teaching"
+                    ],
+                    "summary": "The text highlights how GBL has evolved from being perceived as an unserious activity to a method with great potential for promoting 21st-century skills. Studies have shown that well-designed educational games can effectively engage students and develop critical skills. However, there remain challenges, such as selecting appropriate games and providing teacher training. Despite these obstacles, the growing interest in GBL and its positive impact on learning outcomes provide reasons to be optimistic about its potential for transforming education in the future.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "K.",
+                                "lastName": "Kiili"
+                            }
+                        ],
+                        "year": 2005,
+                        "title": "Digital game-based learning: Towards an experiential gaming model",
+                        "journal": "Internet and Higher Education",
+                        "volume": "8",
+                        "issue": "1",
+                        "pages": "13–24",
+                        "doi": "10.1016/j.iheduc.2004.12.001",
+                        "url": "https://doi.org/10.1016/j.iheduc.2004.12.001"
+                    },
+                    "keywords": [
+                        "Educational game",
+                        "flow",
+                        "experiential learning",
+                        "game design"
+                    ],
+                    "summary": "The text explores the multifaceted world of designing web-based learning materials with a primary focus on student engagement. It highlights the limitations of using the web solely as an information distribution channel, urging for the creation of interactive learning experiences. To tackle this, the paper introduces the concept of integrating educational theories with game design, emphasizing the potential of educational games to capture students' attention and motivation. The experiential gaming model presented in the text serves as a blueprint for designing meaningful and engaging educational games. By matching challenges to individual skill levels and providing immediate feedback, the model strives to create a state of flow, where learners are fully absorbed and immersed in the learning process. Furthermore, the text delves into the role of storytelling, game balance, and cognitive load optimization in educational game design, ultimately striving to strike the right balance between entertainment and educational objectives. Overall, this approach seeks to empower learners to actively explore, reflect, and construct knowledge, leading to improved learning outcomes and a positive educational experience.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Qian"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Clark"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "Game-based Learning and 21st century skills: A review of recent research",
+                        "journal": "Computers in Human Behavior",
+                        "volume": "63",
+                        "pages": "50–58",
+                        "doi": "10.1016/j.chb.2016.05.023",
+                        "url": "https://doi.org/10.1016/j.chb.2016.05.023"
+                    },
+                    "keywords": [
+                        "Game-based learning",
+                        "learning theory",
+                        "game design"
+                    ],
+                    "summary": "This literature review examines the impact of game-based learning (GBL) on 21st-century skills development. Analyzing 137 papers, it highlights the importance of game design and learning theories. Design-based games showed greater effectiveness than traditional educational or entertainment games. Critical thinking skills were the most frequently studied outcome, while communication and creativity received less attention. Collaboration, competition, complexity, exploration, and role-playing were identified as key game design elements. Reporting effect sizes was found crucial for practical implications. Overall, GBL shows promise in enhancing 21st-century skills through effective game design and learning theories.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M. M.",
+                                "lastName": "Ariffin"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Oxley"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Sulaiman"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "Evaluating game-based learning effectiveness in higher education",
+                        "journal": "Procedia - Social and Behavioral Sciences",
+                        "volume": "123",
+                        "pages": "20–27",
+                        "doi": "10.1016/j.sbspro.2014.01.1393",
+                        "url": "https://doi.org/10.1016/j.sbspro.2014.01.1393"
+                    },
+                    "keywords": [
+                        "Game-based learning(GBL)",
+                        "learner's background"
+                    ],
+                    "summary": "The text explores Game-Based Learning (GBL) as an alternative educational tool and evaluates its effectiveness in higher education. It focuses on the correlations between learners' cultural elements, ethnicity, native language, motivation, and performance. The research findings indicate a strong positive relationship between learners' background factors and their motivation to learn and perform better. Integrating cultural elements, ethnicity, and native language into the GBL environment can enhance learners' engagement and outcomes. This highlights the significance of considering learners' diverse backgrounds in designing effective educational games. Overall, the study emphasises the importance of incorporating cultural context in GBL to create more engaging and successful learning experiences.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 10
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "N.",
+                                "lastName": "Bado"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Game-based learning pedagogy: a review of the literature",
+                        "journal": "Interactive Learning Environments",
+                        "volume": "30",
+                        "issue": "5",
+                        "pages": "936–948",
+                        "doi": "10.1080/10494820.2019.1683587",
+                        "url": "https://doi.org/10.1080/10494820.2019.1683587"
+                    },
+                    "keywords": [
+                        "Digital game",
+                        "pedagogy",
+                        "education",
+                        "learning"
+                    ],
+                    "summary": "The article investigates the pedagogical dimension of game-based learning (GBL) and highlights the crucial role of teachers in effectively integrating digital games into the educational process. It addresses the lack of attention given to pedagogy in GBL literature reviews and highlights the significance of understanding teachers' instructional practices during pre-game, game, and post-game stages. The study reveals that teachers implement diverse instructional activities, such as gameplay training, content scaffolding, classroom management, and technical support, to facilitate students' engagement and learning outcomes. However, the post-game debriefing stage is often overlooked in GBL, which warrants greater attention. Overall, the article advocates for a holistic approach to GBL pedagogy, highlighting the importance of teacher involvement in maximising the educational benefits of digital games.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 10
+                },
+                {
+                    "citation": {
+                        "type": "book",
+                        "authors": [
+                            {
+                                "firstName": "G.",
+                                "lastName": "Molin"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "The Role of the Teacher in Game-Based Learning: A Review and outlook",
+                        "pages": "649–674",
+                        "publisher": "Springer eBooks",
+                        "doi": "10.1007/978-3-319-51645-5_28",
+                        "url": "https://doi.org/10.1007/978-3-319-51645-5_28"
+                    },
+                    "keywords": [
+                        "Game-based teaching",
+                        "game-based learning",
+                        "teacher agency",
+                        "Goffman frame analysis",
+                        "game design",
+                        "digital game",
+                        "teacher role"
+                    ],
+                    "summary": "The article explores the vital role of teachers in game-based learning and the challenges they face when incorporating digital games into their teaching. It emphasises the necessity of giving teachers agency in this situation. The empirical studies highlight the challenges teachers face, such as inadequate training and challenges connecting game content to curriculum goals. According to the proposed participatory design model, teachers should design their own games for their classrooms and develop game-based lessons that are tailored to the needs of their students. In order to protect teachers' professional identities, discussions about teacher agency and the effects of new educational reforms are emphasised.",
+                    "studentActvityScore": 10,
+                    "lecturerActivityScore": 10
+                }
+            ]
         },
         {
             "name": "Game-based Learning",
             "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
             "sub-category": "Digital Platform",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "D. a. D. N. D.",
+                                "lastName": "Santos"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "De Oliveira Sousa"
+                            },
+                            {
+                                "firstName": "A. E.",
+                                "lastName": "Guelfi"
+                            },
+                            {
+                                "firstName": "D.",
+                                "lastName": "De Souza Machado"
+                            },
+                            {
+                                "firstName": "L. H. D. E. S.",
+                                "lastName": "Santana"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "Be Active: design and creation of an innovative digital platform for active methodologies",
+                        "journal": "Research, Society and Development",
+                        "volume": "11",
+                        "issue": "9",
+                        "pages": "e49111932236",
+                        "doi": "10.33448/rsd-v11i9.32236",
+                        "url": "https://doi.org/10.33448/rsd-v11i9.32236"
+                    },
+                    "keywords": [
+                        "Active Methodologies",
+                        "Digital Platform",
+                        "Innovation"
+                    ],
+                    "summary": "The article gives background on the development of a digital platform, Be Active, which is specifically designed to use active learning methodologies. It's based on problem-based learning and gamification strategies that offer features like team formations, chat rooms or performance tables. To map and increase student learning and engagement, the platform's methodology includes six phases: problem registration, formation of a team, solution generation, assessment by students.",
+                    "studentActvityScore": 5,
+                    "lecturerActivityScore": 7
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Montebello"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "A ‘Digital Pedagogies’–Based Learning Platform",
+                        "journal": "Education and New Developments 2020",
+                        "doi": "10.36315/2020end037",
+                        "url": "https://doi.org/10.36315/2020end037"
+                    },
+                    "keywords": ["Digital pedagogies", "e-learning", "virtual learning environment", "ubiquitous learning", "learning analytics"],
+                    "summary": "The document highlights the shift from knowledge transfer to knowledge management and building, as well as the development of digital pedagogies and eLearning. The objective is to emphasise the usefulness of eLearning over traditional methods, in particular by highlighting an online writing and evaluation environment called 'Scholar' as an example of new learning opportunities that can be exploited. It recommends that educational portals should be designed with a focus on learning needs and predict improvements in student interaction and attitudes toward eLearning.",
+                    "studentActvityScore": 5,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "name": "Japan Science and Technology Agency"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Hiroaki Ogata - M2B System: A Digital Learning Platform for Traditional Classrooms in University",
+                        "url": "https://researchmap.jp/read0184047/published_papers/18391158?lang=en"
+                    },
+                    "keywords": ["Traditional classroom", "learning logs", "learning analysis", "real-time processing", "e-book", "Moodle", "Mahara"],
+                    "summary": "The article addresses the M2B system, a digital learning platform designed to be used for traditional classroom teaching in universities. Three subsystems are contained in this system: the Moodle, Mahara and eBook systems. It collects learning logs for learning analytics and provides tools for supporting teaching and learning in classes on site.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 8
+                }              
+            ]
         },
         {
             "name": "Game-based Learning",
             "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
             "sub-category": "Educational Game",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Papastergiou"
+                            }
+                        ],
+                        "year": 2009,
+                        "title": "Digital Game-Based Learning in high school Computer Science education: Impact on educational effectiveness and student motivation",
+                        "journal": "Computers & Education",
+                        "volume": "52",
+                        "issue": "1",
+                        "pages": "1–12",
+                        "doi": "10.1016/j.compedu.2008.06.004",
+                        "url": "https://doi.org/10.1016/j.compedu.2008.06.004"
+                    },
+                    "keywords": ["Digital game-based learning", "early childhood education", "video game", "situated learning", "critical pedagogy"],
+                    "summary": "Computer games have become an integral part of our social and cultural environment, and are particularly appealing to children and adolescents, for whom they constitute the most popular computer activity in the home. Prior research on domestic computer use has shown that games are more popular with boys, who are more frequent, intensive and experienced game players than girls, and more likely to participate in players’ communities for the exchange of game-related resources.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "D.",
+                                "lastName": "López-Fernández"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Gordillo"
+                            },
+                            {
+                                "firstName": "P. P.",
+                                "lastName": "Alarcón"
+                            },
+                            {
+                                "firstName": "E.",
+                                "lastName": "Tovar"
+                            }
+                        ],
+                        "year": 2021,
+                        "title": "Comparing Traditional teaching and Game-Based Learning using Teacher-Authored Games on Computer Science education",
+                        "journal": "IEEE Transactions on Education",
+                        "volume": "64",
+                        "issue": "4",
+                        "pages": "367–373",
+                        "doi": "10.1109/te.2021.3057849",
+                        "url": "https://doi.org/10.1109/te.2021.3057849"
+                    },
+                    "keywords": ["Active learning", "computer science", "computer-based instruction", "educational technology", "games"],
+                    "summary": "The article discusses the impact of motivation on university students' academic performance, particularly in computer science degrees with high dropout rates. It explores the potential of game-based learning (GBL) to increase student motivation through educational video games designed for learning. The study compares traditional teaching methods with GBL using teacher-authored games in computer science courses and finds that GBL significantly boosts student motivation without compromising learning effectiveness. The research highlights the importance of using GBL judiciously to maintain its motivational impact.",
+                    "studentActvityScore": 4,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M.",
+                                "lastName": "Li"
+                            },
+                            {
+                                "firstName": "C.",
+                                "lastName": "Tsai"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Game-Based Learning in Science Education: A review of Relevant research",
+                        "journal": "Journal of Science Education and Technology",
+                        "volume": "22",
+                        "issue": "6",
+                        "pages": "877–898",
+                        "doi": "10.1007/s10956-013-9436-x",
+                        "url": "https://doi.org/10.1007/s10956-013-9436-x"
+                    },
+                    "keywords": ["Science education", "science learning", "game-based learning", "digital game", "educational game"],
+                    "summary": "By promoting cooperation in solving problems and creating interactive learning environments, digital games offer an opportunity to enhance science education. Game-based learning is rooted in a variety of theories, including cognitivism, constructivism, sociocultural perspectives and enactivism, that focus on outcomes such as scientific knowledge, problem solving skills, engagement, emotional impact. Learning outcomes are significantly influenced by the effective design and implementation of games and by the promotion of collaboration through clear objectives, rules and feedback systems.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "firstName": "KDE Group, University of Kassel and DMIR Group, University of Würzburg and L3S Research Center, Hannover (Germany)"
+                            }
+                        ],
+                        "year": 2003,
+                        "title": "Aspects of Game- based Learning | BIBSonomy",
+                        "url": "https://www.bibsonomy.org/bibtex/c6b0cf1e2dcd4b7193cfba34f8de3463"
+                    },
+                    "keywords": ["Educational video game", "game elements", "game design"],
+                    "summary": "The article emphasises the need for innovative learning methods that align with modern generations' preferences. It proposes game-based learning, using educational video games to engage learners and enhance the learning process. Game-based learning blurs instructional content with game elements, providing motivating and immersive experiences. It fosters active knowledge construction, collaboration, and problem-solving skills. The article showcases successful examples and highlights the importance of aligning game design with pedagogical approaches for effective learning outcomes.",
+                    "studentActvityScore": 3,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "journal",
+                        "authors": [
+                            {
+                                "firstName": "L. H.",
+                                "lastName": "Von Wobeser"
+                            },
+                            {
+                                "firstName": "V.",
+                                "lastName": "Hernández"
+                            },
+                            {
+                                "firstName": "F.",
+                                "lastName": "Neyra"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Carrillo"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "The use of Massive Online Games in game-based learning activities",
+                        "journal": "Revista Innova Educación",
+                        "volume": "4",
+                        "issue": "3",
+                        "pages": "7–30",
+                        "doi": "10.35622/j.rie.2022.03.001",
+                        "url": "https://doi.org/10.35622/j.rie.2022.03.001"
+                    },
+                    "keywords": ["Learning", "videogames", "virtual reality", "virtual world"],
+                    "summary": "The article discusses the potential use of Roblox, a popular online gaming platform that can be used for learning purposes. It stresses the immersive and entertaining nature of Massive Multiplayer Games such as Roblox, which can be used to introduce students to an entirely new kind of learning experience. The study examined how students reacted to the use of Roblox for learning activities, which covered topics like dinosaurs and disease. The impact of social interaction and the development of skills for students was also highlighted. The study offers practical guidance for teachers on the effective integration of Roblox in teaching environments, emphasising the need to address possible risks and use user interface features as a learning tool.",
+                    "studentActvityScore": 4,
+                    "lecturerActivityScore": 9
+                } 
+            ]
         },
         {
             "name": "Game-based Learning",
             "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
             "sub-category": "Educational Game; serious game",
-            "sources": []
+            "sources": [
+                {
+                    "citation": {
+                        "type": "conference paper",
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Franceschini"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Rodà"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "Play to Learn: from Serious Games to just Games",
+                        "conference": "Proceedings of the 2023 ACM Conference on Information Technology for Social Good (GoodIT '23)",
+                        "pages": "117–127",
+                        "publisher": "Association for Computing Machinery",
+                        "doi": "10.1145/3582515.3609525",
+                        "url": "https://doi.org/10.1145/3582515.3609525"
+                    },
+                    "keywords": ["Digital game", "video game", "educational game", "serious game", "entertainment"],
+                    "summary": "The paper discusses the use of digital games as an education tool in which both games intended for learning purposes and those that have been reutilized are used. It notes that educational games developers face publishing differences between academic and entertainment developed games, as well as the challenges they face in developing them. Special games, such as Pentiment and Lausanne 1830, are mentioned at a crossroads between entertainment and education.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "firstName": "K.",
+                                "lastName": "Bakhsh"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "Effectiveness of digital game based learning strategy in higher educational perspectives",
+                        "url": "https://eric.ed.gov/?id=EJ1372872"
+                    },
+                    "keywords": ["Digital game based learning", "effectiveness", "engagement", "higher education"],
+                    "summary": "The article underlines the positive impact of game based learning in higher education, highlighting its effectiveness as a way to engage students and improve their outcomes. It looks at the possibilities of creating an active learning experience through digital games, enabling students to be involved in their educational process. The study also addresses the importance of providing instant feedback to students, promoting collaboration through multiplayer features, and fostering a growth mindset among learners. In addition, the research highlights the need for teachers to adapt to new systems and tools in a multicultural environment, as well as exploring the role of ICT in education.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 9
+                }                
+            ]
         },
         {
             "name": "Game-based Learning",
             "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
             "sub-category": "Serious Game",
-            "sources": []
-        },
+            "sources": [
+                {
+                    "citation": {
+                        "type": "journal",
+                        "authors": [
+                            {
+                                "firstName": "T. E.",
+                                "lastName": "Coleman"
+                            },
+                            {
+                                "firstName": "A. G.",
+                                "lastName": "Money"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Student-centred digital game–based learning: a conceptual framework and survey of the state of the art",
+                        "journal": "Higher Education",
+                        "volume": "79",
+                        "issue": "3",
+                        "pages": "415–457",
+                        "doi": "10.1007/s10734-019-00417-0",
+                        "url": "https://doi.org/10.1007/s10734-019-00417-0"
+                    },
+                    "keywords": ["Student-centred learning", "digital game–based learning", "serious game", "game design", "video game"],
+                    "summary": "This study presents a conceptual framework of student-centred digital game-based learning (SCDGBL) derived from literature published between 2007 and 2018. The framework categorises SCDGBL interventions into single player, mixed, and multiplayer engagements, based on player involvement. Key findings reveal a strong focus on certain student-centred learning elements like active learning and autonomy, but a lack of attention to 'social' elements like mutual respect and cooperative learning. The study explores Gee's principles of good game design and suggests integrating them early in game design to enhance learning outcomes. It emphasises the need to align game design with existing research on how students learn to fully utilise the potential of digital game-based learning. Future studies should explore all student-centred learning elements and use design principles to create effective educational games.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "journal",
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Hamari"
+                            },
+                            {
+                                "firstName": "D. J.",
+                                "lastName": "Shernoff"
+                            },
+                            {
+                                "firstName": "E.",
+                                "lastName": "Rowe"
+                            },
+                            {
+                                "firstName": "B. D.",
+                                "lastName": "Coller"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Asbell-Clarke"
+                            },
+                            {
+                                "firstName": "T.",
+                                "lastName": "Edwards"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "Challenging games help students learn: An empirical study on engagement, flow and immersion in game-based learning",
+                        "journal": "Computers in Human Behavior",
+                        "volume": "54",
+                        "pages": "170–179",
+                        "doi": "10.1016/j.chb.2015.07.045",
+                        "url": "https://doi.org/10.1016/j.chb.2015.07.045"
+                    },
+                    "keywords": ["Game-based learning", "gamification", "serious games", "flow", "engagement", "immersion"],
+                    "summary": "The study highlights the potential of educational video games to effectively engage students and promote learning. Designers are encouraged to emphasise challenge and engagement while considering players' skill levels, thereby keeping learners within their Zone of Proximal Development (ZPD) and motivated to learn. Additionally, the findings suggest that game-based learning offers individualized customization, making it a learner-centered approach that challenges the traditional one-size-fits-all mentality in education.",
+                    "studentActvityScore": 2,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "web",
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Cieutat"
+                            }
+                        ],
+                        "year": 2012,
+                        "title": "Active Learning based on the use of Augmented Reality Outline of Possible Applications: Serious Games, Scientific Experiments, Confronting Studies with Creation, Training for Carrying out Technical Skills",
+                        "url": "https://hal.science/hal-00739730/"
+                    },
+                    "keywords": ["Active learning", "augmented reality", "serious game", "training simulators"],
+                    "summary": "The paper looks at how augmented reality can help active learning in a variety of areas, such as serious gaming, scientific experiments, linking the results of studies with the creation and training of technical skills. The authors present a new definition of Augmented Reality and cite original examples such as the AR Serious game for understanding electromagnetic phenomena and the AR Based Welding Training App.  It emphasizes serious games in AR systems for active learning, particularly in understanding electromagnetic concepts and their application in electrical engineering.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "P.",
+                                "lastName": "Lameras"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Arnab"
+                            },
+                            {
+                                "firstName": "I.",
+                                "lastName": "Dunwell"
+                            },
+                            {
+                                "firstName": "C.",
+                                "lastName": "Stewart"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Clarke"
+                            },
+                            {
+                                "firstName": "P.",
+                                "lastName": "Petridis"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "Essential features of serious games design in higher education: Linking learning attributes to game mechanics",
+                        "journal": "British Journal of Educational Technology",
+                        "volume": "48",
+                        "issue": "4",
+                        "pages": "972–994",
+                        "doi": "10.1111/bjet.12467",
+                        "url": "https://doi.org/10.1111/bjet.12467"
+                    },
+                    "keywords": ["Serious game", "games design", "engagement", "motivation", "teacher roles", "game mechanics"],
+                    "summary": "This review is intended to investigate the link between learning design and gaming mechanics in Serious Games SGs. It envisages the development of a research programme aiming at ascertaining the alignment among suggested and applied theories in SG use by means of quantitative methods. The study focuses on the key role played by teachers to guide game based learning in a cognitive domain.  It identifies 165 relevant papers and examines specific learning activities related to game elements and feedback, laying the foundations for informed learning in games.",
+                    "studentActvityScore": 10,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "C.",
+                                "lastName": "Kazimoglu"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Kiernan"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Bacon"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "MacKinnon"
+                            }
+                        ],
+                        "year": 2012,
+                        "title": "A serious game for developing computational thinking and learning introductory computer programming",
+                        "journal": "Procedia - Social and Behavioral Sciences",
+                        "volume": "47",
+                        "pages": "1991–1999",
+                        "doi": "10.1016/j.sbspro.2012.06.938",
+                        "url": "https://doi.org/10.1016/j.sbspro.2012.06.938"
+                    },
+                    "keywords": ["Serious game", "game-based learning", "computational thinking", "programming"],
+                    "summary": "In the context of teaching Computer Science theory and application, academicians use game-based learning. Research focuses on a game framework for Computational Thinking (CT) skills. A serious game designed for introductory programming and CT received positive student feedback for its enjoyable nature and potential to enhance problem-solving. There are a few lacks in existing programming training games for the development of CT skills. The CT and programming structures are integrated into the 'Program your robot' game.  The game had been helpful for students' understanding of programming and strengthening their problem solving skills.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 9
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Kaczmarczyk"
+                            },
+                            {
+                                "firstName": "R.",
+                                "lastName": "Davidson"
+                            },
+                            {
+                                "firstName": "D.",
+                                "lastName": "Bryden"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Haselden"
+                            },
+                            {
+                                "firstName": "P.",
+                                "lastName": "Vivekananda-Schmidt"
+                            }
+                        ],
+                        "year": 2015,
+                        "title": "Learning decision making through serious games",
+                        "journal": "The Clinical Teacher",
+                        "volume": "13",
+                        "issue": "4",
+                        "pages": "277–282",
+                        "doi": "10.1111/tct.12426",
+                        "url": "https://doi.org/10.1111/tct.12426"
+                    },
+                    "keywords": ["Serious game", "engagement", "motivation"],
+                    "summary": "In order to teach medical students how to make clinical decisions, this study has created a Serious Game (SG). According to findings from 47 validated questionnaires and 31 focus group participants, serious games attract, motivate, help in decision-making, repetition of knowledge, which can be a useful tool for evaluating medical education.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 10
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "T.",
+                                "lastName": "Anastasiadis"
+                            },
+                            {
+                                "firstName": "Γ.",
+                                "lastName": "Λαμπρόπουλος"
+                            },
+                            {
+                                "firstName": "K. V.",
+                                "lastName": "Siakas"
+                            }
+                        ],
+                        "year": 2018,
+                        "title": "Digital game-based learning and serious games in education",
+                        "journal": "International Journal of Advances in Scientific Research and Engineering",
+                        "volume": "4",
+                        "issue": "12",
+                        "pages": "139–144",
+                        "doi": "10.31695/ijasre.2018.33016",
+                        "url": "https://doi.org/10.31695/ijasre.2018.33016"
+                    },
+                    "keywords": ["Game-based learning", "serious game", "educational games", "interactive learning environments", "collaborative learning"],
+                    "summary": "The article looks at the importance of using serious games, in particular digital game learning methods for enhancing students' educational experience. This emphasises the importance of motivation and engagement in improving students' educational performance and social skills. Serious games can help students develop critical thinking, decision making, and problem solving skills through interactive and engaging learning environments. The article also highlights the benefits of serious games in fostering collaboration, communication and a favourable competitive environment for young people.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 10
+                }
+            ]
+        }
     ]
 }
