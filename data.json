@@ -1,6 +1,310 @@
 {
     "asl": [
         {
+            "name": "ASL",
+            "description": "Active learning is a pedagogical approach where students transition from passive recipients to active contributors in the course of their studies. The focus is providing and getting immediate feedback and interactive participation. The aim of this introductory overview is to provide a better understanding of the diverse nature of active student learning, emphasising its role in improving critical thinking, collaboration and sustained enthusiasm for lifelong learning within the formal education system. There are different methods of active student leaning that can be useful for various types of student and teachers such as gamification, game-based learning, experiential learning, flipped classrooms, discussions, ProLab, makerspaces and physical active learning (PAL).",
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "P.",
+                                "lastName": "Hendrickson"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Effect of active learning techniques on student excitement, interest, and Self-Efficacy",
+                        "journal": "Journal of Political Science Education",
+                        "volume": "17",
+                        "issue": "2",
+                        "pages": "311–325",
+                        "doi": "10.1080/15512169.2019.1629946",
+                        "url": "https://doi.org/10.1080/15512169.2019.1629946",
+                    },
+                    "keywords": [
+                        "Simulations",
+                        "debates",
+                        "counterfactual analysis"
+                    ],
+                    "summary": "In a course on American foreign policy and national security, active teaching methods such as simulations, debates, and counterfactual analysis have driven students' excitement, interest, and confidence. The most significant effect has been the simulation; stimulating excitement, interest and belief in oneself. These activities have helped students to define their educational objectives related to national security and policy making. The active learning activities provided new and different opportunities for students to involve themselves in the learning process, engaging them in new ways and activating different academic and intellectual skills."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "J. A.",
+                                "lastName": "Michael"
+                            }
+                        ],
+                        "year": 2006,
+                        "title": "Where’s the evidence that active learning works?",
+                        "journal": "Advances in Physiology Education",
+                        "volume": "30",
+                        "issue": "4",
+                        "pages": "159–167",
+                        "doi": "10.1152/advan.00053.2006",
+                        "url": "https://doi.org/10.1152/advan.00053.2006",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "students collaboration"
+                    ],
+                    "summary": "Traditional education focuses on passive learning, highlighting the necessity for active learning programs where students acquire knowledge rather than simply believing it. Educational reforms should rely on robust research evidence, favoring active learning and student-centered teaching methods, recognizing the difference between declarative ('knowing that') and procedural ('knowing how') knowledge is crucial. With a solid background of evidence in support of mutual learning methods, learning together with others has been shown to be much more efficient that working alone. Evidence shows the effectiveness of active learning as well as student-centered teaching, particularly in physiology."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Freeman"
+                            },
+                            {
+                                "firstName": "S. L.",
+                                "lastName": "Eddy"
+                            },
+                            {
+                                "firstName": "M. J.",
+                                "lastName": "McDonough"
+                            },
+                            {
+                                "firstName": "M. K.",
+                                "lastName": "Smith"
+                            },
+                            {
+                                "firstName": "N.",
+                                "lastName": "Okoroafor"
+                            },
+                            {
+                                "firstName": "H.",
+                                "lastName": "Jordt"
+                            },
+                            {
+                                "firstName": "M. P.",
+                                "lastName": "Wenderoth"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "Active learning increases student performance in science, engineering, and mathematics",
+                        "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+                        "volume": "111",
+                        "issue": "23",
+                        "pages": "8410–8415",
+                        "doi": "10.1073/pnas.1319030111",
+                        "url": "https://doi.org/10.1073/pnas.1319030111",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "traditional learning"
+                    ],
+                    "summary": "Active learning has shown significant benefits in the meta-analysis of 225 studies on STEM education. Compared to traditional lecture based classes, students in active learning environments were more successful. On average, exam scores increased by approximately 6% in active learning settings, and active learning reduced the likelihood of students failing by 1.5 times compared to traditional lectures. In addition, active learning has proven to be effective in any class size and its greatest benefits have been seen in smaller classes."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Mitchell"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Petter"
+                            },
+                            {
+                                "firstName": "A. L.",
+                                "lastName": "Harris"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Learning By Doing: Twenty Successful Active learning Exercises for Information Systems courses",
+                        "journal": "Journal of Information Technology Education : Innovations in Practice",
+                        "volume": "16",
+                        "pages": "021–046",
+                        "doi": "10.28945/3643",
+                        "url": "https://doi.org/10.28945/3643",
+                    },
+                    "keywords": [
+                        "Active learning"
+                    ],
+                    "summary": "The paper reviews active learning methods in Information Systems (IS) training, which highlight their effectiveness to engage students. It provides guidance for faculty in the field of IT on how to enhance learning outcomes, identifying and evaluating exercises that involve students during or after school hours. The paper sets out 20 types of exercises, such as visual presentation, collaboration projects, technological interaction, evaluations, and games."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "P.",
+                                "lastName": "Armbruster"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Patel"
+                            },
+                            {
+                                "firstName": "E.",
+                                "lastName": "Johnson"
+                            },
+                            {
+                                "firstName": "M. R.",
+                                "lastName": "Weiss"
+                            }
+                        ],
+                        "year": 2009,
+                        "title": "Active learning and student-centered pedagogy improve student attitudes and performance in introductory biology",
+                        "journal": "CBE- Life Sciences Education",
+                        "volume": "8",
+                        "issue": "3",
+                        "pages": "203–213",
+                        "doi": "10.1187/cbe.09-03-0025",
+                        "url": "https://doi.org/10.1187/cbe.09-03-0025",
+                    },
+                    "keywords": [
+                        "Student engagement",
+                        "academic performance",
+                        "student-centered",
+                        "feedback",
+                        "pedagogy"
+                    ],
+                    "summary": "Traditional lectures have been redesigned to focus on active learning, resulting better student engagement, satisfaction, and efficiency. Part of the evaluation included surveys, comparison of final exams, and assessment of student attitudes and performance. A variety of student-focused methods, such as click questions and quizzes, have been shown to be effective in demonstrating higher learning outcomes. Positive feedback from students is increasing every year, but the difficulties associated with restructuring the course are being addressed and discussed."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "B. A.",
+                                "lastName": "Şeşen"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Tarhan"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "Active-learning versus teacher-centered instruction for learning acids and bases",
+                        "journal": "Research in Science & Technological Education",
+                        "volume": "29",
+                        "issue": "2",
+                        "pages": "205–226",
+                        "doi": "10.1080/02635143.2011.581630",
+                        "url": "https://doi.org/10.1080/02635143.2011.581630",
+                    },
+                    "keywords": [
+                        "Active-learning",
+                        "constructivism",
+                        "learning achievement",
+                        "misconceptions"
+                    ],
+                    "summary": "The article compares active learning with teacher-oriented instruction for knowledge of acids and bases. To identify misconceptions, it includes pre-test and post-test scores as well as interviews with students. In terms of improving learning outcomes and preventing misconceptions, the study found that the active learning approach was more effective than the teacher-centered approach."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "F. M.",
+                                "lastName": "Rezende-Filho"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Fonseca"
+                            },
+                            {
+                                "firstName": "V.",
+                                "lastName": "Nunes-Souza"
+                            },
+                            {
+                                "firstName": "G.",
+                                "lastName": "Da Silva Guedes"
+                            },
+                            {
+                                "firstName": "L. A.",
+                                "lastName": "Rabelo"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "A student-centered approach for developing active learning: the construction of physical models as a teaching tool in medical physiology",
+                        "journal": "BMC Medical Education",
+                        "volume": "14",
+                        "issue": "1",
+                        "doi": "10.1186/1472-6920-14-189",
+                        "url": "https://doi.org/10.1186/1472-6920-14-189",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "meaningful learning",
+                        "teaching-learning methodologies"
+                    ],
+                    "summary": "The article describes a student-centered teaching-learning methodology in physiology, focusing on the construction of physiological-physical models. To study various physiology topics, students worked in small groups to create models using low-cost materials. The study has shown that the proposed method facilitates active and meaningful learning, addresses different learning styles, and encourages the development of skills relevant to health professionals. Overall, the approach has been considered to be an attractive, accessible, and relatively simple way of enhancing physiology training."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "F.",
+                                "lastName": "Putri"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "Student-Centered Learning Addressing Faculty Questions about Student-centered Learning",
+                        "journal": "Unja",
+                        "url": "https://www.academia.edu/6577937/Student_Centered_Learning_Addressing_Faculty_Questions_about_Student_centered_Learning",
+                    },
+                    "keywords": [
+                        "Team-based learning",
+                        "student-centered learning",
+                        "active learning"
+                    ],
+                    "summary": "The article looks at the implementation of a student-focused learning approach in large classes. It addresses faculty concerns and offers strategies for using informal small-group work. In addition, it provides insight into team-based learning and strategies to get teams off to a good start. The importance of moving slowly and thoughtfully towards a student-centered learning approach is highlighted in the article. The benefits of students taking responsibility for their own learning and the difficulties associated with using student teams are also highlighted in this report. The article provides important information and strategies on the implementation of student-centered learning in larger schools."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Goodchild"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Bjørkestøl"
+                            },
+                            {
+                                "firstName": "I. C.",
+                                "lastName": "Borge"
+                            },
+                            {
+                                "firstName": "H. K.",
+                                "lastName": "Nilsen"
+                            },
+                            {
+                                "firstName": "O. H. M.",
+                                "lastName": "Tonheim"
+                            }
+                        ],
+                        "year": 2021,
+                        "title": "Educating to inspire active learning approaches in mathematics in Norwegian universities",
+                        "journal": "Nordic Journal of STEM Education",
+                        "volume": "5",
+                        "issue": "1",
+                        "doi": "10.5324/njsteme.v5i1.3972",
+                        "url": "https://doi.org/10.5324/njsteme.v5i1.3972",
+                    },
+                    "keywords": [
+                        "Teaching approaches",
+                        "Norwegian Higher Education Institutions (HEIs)",
+                        "active learning",
+                        "small groups"
+                    ],
+                    "summary": "The article discusses a national survey on teaching methods for mathematics courses in higher education institutions. The objective of the survey was to find out more about how teachers are using educational approaches that stimulate active learning in math. The analysis showed that working in small groups has a higher potential to promote active learning, using both qualitative and quantitative methods."
+                }
+            ]
+        },
+        {
             "name": "Discussion",
             "description": "Discussion based learning is an interactive approach to education that focuses on active student participation through group discussions and debates. This method requires students to express their views, share perspectives and take part in critical thinking instead of following lectures alone. The students learn how to listen, express their opinions and think about the diversity of views, thereby creating an active and constructive learning environment which is more than just lecture based methods.",
             "sub-category": "Discussion",
