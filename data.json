@@ -1265,6 +1265,144 @@
                     "summary": "The article explores how Socratic seminar can be adapted to engage students with data, leading to improved understanding and collaborative meaning-making. It focuses on a case study in a high school type 2 diabetes curriculum, where students analyzed complex data from the Diabetes Prevention Program study. The seminar format encouraged students to reason through the data together, fostering deeper comprehension and discussions about the implications of the findings. Teachers have found that the use of a Socratic seminar with data has helped to uncover student misunderstandings and has provided insight into their understanding of scientific concepts. The method has been used to promote student-led debates, thoughtful analysis and reflection on personal links in the subject. Teachers were able to improve the learning of students and their engagement with scientific data through specific questioning methods and debriefing sessions.",
                 }
             ]
-        }
+        },
+        {
+            "name": "Gamification",
+            "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
+            "sub-category": "Gamification",
+            "sources": []
+        },
+        {
+            "name": "Gamification",
+            "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
+            "sub-category": "Quests or Missions",
+            "sources": []
+        },
+        {
+            "name": "Gamification",
+            "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
+            "sub-category": "Simulations",
+            "sources": []
+        },
+        {
+            "name": "Gamification",
+            "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
+            "sub-category": "Interactive Storytelling",
+            "sources": []
+        },
+        {
+            "name": "Gamification",
+            "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
+            "sub-category": "Badgets",
+            "sources": []
+        },
+        {
+            "name": "Gamification",
+            "description": "Gamification is a method of active student learning with game-like elements for creating a learning enviroment which aims at improving traditional education methods. It engages students in a more interactive way through the inclusion of features such as competition, prizes and challenges. This approach provides a different perspective on education, with lessons structured as a quests and evaluation as an achievement.  The method promotes participation, cooperation and monitoring of progress by means of immediate feedback.",
+            "sub-category": "Leaderboards and Points",
+            "sources": []
+        },
+        {
+            "name": "Flipped Classroom",
+            "description": "The flipped classroom model redefines traditional learning by changing the typical structure. Before class, students independently review the teaching materials, often in the form of videos or readings, so that they can learn at their own pace. The classroom time is then devoted to collaborative activities, discussions and problem solving in the framework of a teacher's guidance. This approach increases active learning during face-to-face sessions and focuses on higher-order thinking skills. The model of flipping a classroom has to give students deeper understanding of the subject by emphasising interactive teaching.",
+            "sub-category": "Flipped Classroom",
+            "sources": []
+        },
+        {
+            "name": "Flipped Classroom",
+            "description": "The flipped classroom model redefines traditional learning by changing the typical structure. Before class, students independently review the teaching materials, often in the form of videos or readings, so that they can learn at their own pace. The classroom time is then devoted to collaborative activities, discussions and problem solving in the framework of a teacher's guidance. This approach increases active learning during face-to-face sessions and focuses on higher-order thinking skills. The model of flipping a classroom has to give students deeper understanding of the subject by emphasising interactive teaching.",
+            "sub-category": "Peer Teaching",
+            "sources": []
+        },
+        {
+            "name": "Flipped Classroom",
+            "description": "The flipped classroom model redefines traditional learning by changing the typical structure. Before class, students independently review the teaching materials, often in the form of videos or readings, so that they can learn at their own pace. The classroom time is then devoted to collaborative activities, discussions and problem solving in the framework of a teacher's guidance. This approach increases active learning during face-to-face sessions and focuses on higher-order thinking skills. The model of flipping a classroom has to give students deeper understanding of the subject by emphasising interactive teaching.",
+            "sub-category": "Video Case",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "Experimental Learning",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "Art Integrated Learning",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "DLS, MCEL",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "Formative Feedback, PBL, prBL",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "Immersive Virtual Reality Role",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "Inquiry-based Learning",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "Special Diet Experience",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "Role-play (RP); SPs, TIE",
+            "sources": []
+        },
+        {
+            "name": "Experimental Learning",
+            "description": "Experiential learning is an innovative method of teaching in which students are immersed in hands on activities, practical programs and reflections. The difference from the usual teaching methods. is encouraging a dynamic learning environment where students are active participants in their education journey. Experiential learning is not only deepening the understanding but also developing critical thinking and problem solving skills through collaboration projects and simulations. This method helps students to deal with real world challenges by bridging the gap between theory and practice.",
+            "sub-category": "Simulated Training",
+            "sources": []
+        },
+        {
+            "name": "Game-based Learning",
+            "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
+            "sub-category": "Gamification",
+            "sources": []
+        },
+        {
+            "name": "Game-based Learning",
+            "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
+            "sub-category": "Digital Platform",
+            "sources": []
+        },
+        {
+            "name": "Game-based Learning",
+            "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
+            "sub-category": "Educational Game",
+            "sources": []
+        },
+        {
+            "name": "Game-based Learning",
+            "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
+            "sub-category": "Educational Game; serious game",
+            "sources": []
+        },
+        {
+            "name": "Game-based Learning",
+            "description": "Game based learning provides educational content through games, simulations and interactive activities that integrate the interactivity of gaming into education. This approach is attracting students' attention and providing an Immersive Learning Experience, through its integration of challenges, rewards or progression. Learning through games not only entertains, but also strengthens active problem solving, critical thinking, and decision making skills. The instant feedback in the games allows students to learn from their mistakes and keep track of progress, which provides a dynamic and interactive way for learning and applying knowledge within an educational context.",
+            "sub-category": "Serious Game",
+            "sources": []
+        },
     ]
 }
