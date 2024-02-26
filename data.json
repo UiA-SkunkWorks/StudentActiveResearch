@@ -1,0 +1,35 @@
+{
+    "asl": [
+        {
+            "name": "",
+            "description": "",
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article|book|web",
+                        "authors": [
+                            {
+                                "firtstName": "",
+                                "lastName": ""
+                            }
+                        ],
+                        "year": 0,
+                        "title": "",
+                        "journal": "",
+                        "volume": "",
+                        "issue": "",
+                        "pages": "",
+                        "doi": "",
+                        "url": "",
+                        "edition": "",
+                        "publisher": ""
+                    },
+                    "keywords": [],
+                    "summary": "",
+                    "studentActvityScore": 0,
+                    "lecturerActivityScore": 0
+                }
+            ]
+        }
+    ]
+}
