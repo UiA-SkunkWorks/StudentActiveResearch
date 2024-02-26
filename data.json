@@ -3,6 +3,7 @@
         {
             "name": "Discussion",
             "description": "Discussion based learning is an interactive approach to education that focuses on active student participation through group discussions and debates. This method requires students to express their views, share perspectives and take part in critical thinking instead of following lectures alone. The students learn how to listen, express their opinions and think about the diversity of views, thereby creating an active and constructive learning environment which is more than just lecture based methods.",
+            "sub-category": "Discussion",
             "sources": [
                 {
                     "citation": {
@@ -423,44 +424,543 @@
                     "lecturerActivityScore": 4
                 }
             ]
+        },
+        {
+            "name": "Discussion",
+            "description": "Discussion based learning is an interactive approach to education that focuses on active student participation through group discussions and debates. This method requires students to express their views, share perspectives and take part in critical thinking instead of following lectures alone. The students learn how to listen, express their opinions and think about the diversity of views, thereby creating an active and constructive learning environment which is more than just lecture based methods.",
+            "sub-category": "Debate",
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "A. L.",
+                                "lastName": "Oros"
+                            }
+                        ],
+                        "year": 2007,
+                        "title": "Let’s debate: Active learning encourages student participation and critical thinking",
+                        "journal": "Journal of Political Science Education",
+                        "volume": "3",
+                        "issue": "3",
+                        "pages": "293–311",
+                        "doi": "10.1080/15512160701558273",
+                        "url": "https://doi.org/10.1080/15512160701558273",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "class participation",
+                        "critical thinking",
+                        "debate"
+                    ],
+                    "summary": "This article highlights the incorporation of structured debates as a fundamental part of a politics course. The approach focuses on critical thinking through early debates and teaching of related skills over time. In order to improve critical thinking further, cooperative tools and simulations are used. Pointed questions, involving more students, are added to the discussion after the debate. The format of the debate is very popular within students, which encourages more substantive discussion, increasing participation, improving critical thinking and writing skills.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Mumtaz"
+                            },
+                            {
+                                "firstName": "",
+                                "lastName": "Latif"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Learning through debate during problem-based learning: an active learning strategy",
+                        "journal": "Advances in Physiology Education",
+                        "volume": "41",
+                        "issue": "3",
+                        "pages": "390–394",
+                        "doi": "10.1152/advan.00157.2016",
+                        "url": "https://doi.org/10.1152/advan.00157.2016",
+                    },
+                    "keywords": [
+                        "Debate",
+                        "communication skills",
+                        "analysis",
+                        "decision-making",
+                        "critical thinking"
+                    ],
+                    "summary": "Second year female medical students participated in debates in which they were divided into proposition and opposition groups during 2014-2016. The outcomes showed significant benefits: the debate has helped to strengthen fundamental thinking, an exposure to controversial issues, skills in making arguments, interpretation and analysis of evidence. Furthermore, the meetings had a beneficial impact on communication, negotiation capacity, time management and confidence in expression of ideas.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Hamouda"
+                            },
+                            {
+                                "firstName": "",
+                                "lastName": "Tarlochan"
+                            }
+                        ],
+                        "year": 2015,
+                        "title": "Engaging Engineering Students in Active Learning and Critical Thinking through Class Debates",
+                        "journal": "Procedia - Social and Behavioral Sciences",
+                        "volume": "191",
+                        "pages": "990–995",
+                        "doi": "10.1016/j.sbspro.2015.04.379",
+                        "url": "https://doi.org/10.1016/j.sbspro.2015.04.379",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "debate"
+                    ],
+                    "summary": "Students from the engineering school with strong mathematics and physics skills are exposed to a wide range of text heavy courses requiring innovative teaching methods. Active learning, including debates, has been implemented in the study and is leading to higher grades. The learning targets of the course have been successfully achieved by most students. The use of debates has had a positive impact on attracting students to study in the engineering field, increasing critical thinking and enhancing academic results.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "D. M.",
+                                "lastName": "Woods"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Teaching Tip: Active Learning Using Debates in an IT Strategy Course",
+                        "journal": "Journal of Information Systems Education",
+                        "volume": "31",
+                        "issue": "1",
+                        "pages": "40-50",
+                        "url": "https://jise.org/Volume31/n1/JISEv31n1p40.html",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "pedagogy",
+                        "debate"
+                    ],
+                    "summary": "A study has shown that debates in an IT strategy course are beneficial for learning and enjoyment. Six weeks of preparation, research on audiences and specific assessment criteria were part of the debate format. The students' response has been positive and they see the relevance of working IT professionals. Debates, including technically focused ones like programming or database development, could be used in ISIT courses.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "R.",
+                                "lastName": "Kennedy"
+                            }
+                        ],
+                        "year": 2009,
+                        "title": "The power of in-class debates",
+                        "journal": "Active Learning in Higher Education",
+                        "volume": "10",
+                        "issue": "3",
+                        "pages": "225–236",
+                        "doi": "10.1177/1469787409343186",
+                        "url": "https://doi.org/10.1177/1469787409343186",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "debate",
+                        "critical thinking"
+                    ],
+                    "summary": "Debates stimulate active participation and content mastery, while fostering critical thinking skills. Knowledge and opinions are strongly influenced by the involvement of students in debates. Class debate becomes a very powerful tool of teaching, which can be used for different disciplines.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "O.",
+                                "lastName": "Doody"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Condon"
+                            }
+                        ],
+                        "year": 2012,
+                        "title": "Increasing student involvement and learning through using debate as an assessment",
+                        "journal": "Nurse Education in Practice",
+                        "volume": "12",
+                        "issue": "4",
+                        "pages": "232–237",
+                        "doi": "10.1016/j.nepr.2012.03.002",
+                        "url": "https://doi.org/10.1016/j.nepr.2012.03.002",
+                    },
+                    "keywords": [
+                        "Debate",
+                        "reflection",
+                        "critical thinking"
+                    ],
+                    "summary": "The importance of interaction between teachers and learners is important for education. Debates help to raise awareness of important issues, which in turn helps to stimulate divergent thinking. They call on students to actively engage in the learning process, promote diversity of perspective and take responsibility for their understanding. Debates help to facilitate discussions across large groups, increase personal knowledge and critical understanding.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S. K.",
+                                "lastName": "Peasah"
+                            },
+                            {
+                                "firstName": "L. L.",
+                                "lastName": "Marshall"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "The use of debates as an active learning tool in a college of pharmacy healthcare delivery course",
+                        "journal": "Currents in Pharmacy Teaching and Learning",
+                        "volume": "9",
+                        "issue": "3",
+                        "pages": "433–440",
+                        "doi": "10.1016/j.cptl.2017.01.012",
+                        "url": "https://doi.org/10.1016/j.cptl.2017.01.012",
+                    },
+                    "keywords": [
+                        "Debate",
+                        "active learning"
+                    ],
+                    "summary": "The article follows up on debates in the pharmacy healthcare delivery course as well as an appraisal of student attitudes and perceptions. The findings show that debates are able to engage students on controversial health issues effectively. The teams presented evidence, addressed questions and concluded the debate. Surveys show that debates based on active learning strategies and prior research in the field of medical education are of great value for the achievement of the course content.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 3
+                }
+            ]
+        },
+        {
+            "name": "Discussion",
+            "description": "Discussion based learning is an interactive approach to education that focuses on active student participation through group discussions and debates. This method requires students to express their views, share perspectives and take part in critical thinking instead of following lectures alone. The students learn how to listen, express their opinions and think about the diversity of views, thereby creating an active and constructive learning environment which is more than just lecture based methods.",
+            "sub-category": "Discussion Board: Forum",
+            "sources": [
+                {
+                    "citation": {
+                        "type": "conference",
+                        "authors": [
+                            {
+                                "firstName": "D.",
+                                "lastName": "Nandi"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Hamilton"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Harland"
+                            },
+                            {
+                                "firstName": "G.",
+                                "lastName": "Warburton"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "How active are students in online discussion forums?",
+                        "conference": "Proceedings of the Thirteenth Australasian Computing Education Conference - Volume 114 (ACE '11)",
+                        "pages": "125–134",
+                        "publisher": "Australian Computer Society, Inc.",
+                    },
+                    "keywords": [
+                        "Online learning system",
+                        "discussion forum"
+                    ],
+                    "summary": "The research focuses on the participation of online students in discussions, and its relation to grade levels. The findings show that there is a lack of engagement among the students. However, there was a correlation between high grades and consistent participation. This paper explores various factors impacting students' active online engagement.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M. G.",
+                                "lastName": "Alzahrani"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "The effect of using online discussion forums on students’ learning",
+                        "url": "https://eric.ed.gov/?id=EJ1124930",
+                    },
+                    "keywords": [
+                        "Online discussion forums (ODFs)",
+                        "achievement"
+                    ],
+                    "summary": "Communication and social skills are enhanced through online discussion forum (ODFs). Saudi students are fond of working together and value advice from their peers. There are mixed results in research on the link between participation of students in education funding schemes and learning outcomes, suggesting that situational factors may play a role. It appears that there is a relationship between traditional and ODF learning in terms of background knowledge. A higher grade point average has been obtained in experimental groups using ODFs, but some students have not completed their required tasks within these forums.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "F.",
+                                "lastName": "Buckley"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "Online discussion forums",
+                        "journal": "European Political Science",
+                        "volume": "10",
+                        "issue": "3",
+                        "pages": "402–415",
+                        "doi": "10.1057/eps.2010.76",
+                        "url": "https://doi.org/10.1057/eps.2010.76",
+                    },
+                    "keywords": [
+                        "Problem-based learning",
+                        "discussion forums"
+                    ],
+                    "summary": "The study is designed to examine the usage of internet discussion forums by young political science students. The results show that students are more willing to use student-centred methods of teaching. The grading contributions to the Board Discussion Forums were supported by most students. However, low confidence, shyness, fear of mistakes and intimidation are among the reasons for not participating.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S. J.",
+                                "lastName": "Blackmon"
+                            }
+                        ],
+                        "year": 2012,
+                        "title": "Outcomes of chat and discussion board use in online Learning: A research synthesis",
+                        "url": "https://eric.ed.gov/?id=EJ985399",
+                    },
+                    "keywords": [
+                        "Online learning",
+                        "online teaching"
+                    ],
+                    "summary": "For the integration of students in full Internet courses, interactive discussions and chat rooms are essential. Teacher facilitations has to influence student participation. In online courses, it is possible to enhance results for students by examining effective online dialogue and chat methods.",
+                    "studentActivityScore": 8,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "R. H.",
+                                "lastName": "Trudeau"
+                            }
+                        ],
+                        "year": 2005,
+                        "title": "Get them to read, get them to talk: Using discussion forums to enhance student learning",
+                        "journal": "Journal of Political Science Education",
+                        "volume": "1",
+                        "issue": "3",
+                        "pages": "289–322",
+                        "doi": "10.1080/15512160500261178",
+                        "url": "https://doi.org/10.1080/15512160500261178",
+                    },
+                    "keywords": [
+                        "Online discussion",
+                        "forum"
+                    ],
+                    "summary": "The Discussion Forum promotes student involvement through CMS, which is a crucial component of the course grade. While it is optional, it is important for grades and students are able to take part in it throughout the semester. Overall, the question is beneficial for students, but a minority of them think that it limits their peers' learning. In spite of minor problems, it has good management and is rare in facing technical difficulties which positively impact on learning outcomes for students.",
+                    "studentActivityScore": 5,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "A. A.",
+                                "lastName": "Gasmi"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "Through the lens of students: How online discussion forums affect students’ learning",
+                        "journal": "International Journal of Technology in Education (IJTE)",
+                        "volume": "5",
+                        "issue": "4",
+                        "pages": "669-684",
+                        "doi": "10.46328/ijte.291",
+                        "url": "https://doi.org/10.46328/ijte.291",
+                    },
+                    "keywords": [
+                        "Online discussion",
+                        "engagement",
+                        "critical thinking"
+                    ],
+                    "summary": "The study has examined the perspectives of 13 students on online discussion forums 'ODFs' in a virtual English language course at Sultan Qaboos University, Oman. ODFs were largely welcomed by participants, with improvements in critical skills, engagement and community interaction cited as reasons for this. The structured discussions were described as 'interesting', 'effective' and 'very useful'. The study focused on the effect of discussion structure on perception and student participation in high order thinking. Increased mental, emotional and cognitive engagement has also been observed.",
+                    "studentActivityScore": 6,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S. S. M.",
+                                "lastName": "Mohammed"
+                            },
+                            {
+                                "firstName": "E. M.",
+                                "lastName": "Onyema"
+                            },
+                            {
+                                "firstName": "E. C. D.",
+                                "lastName": "Deborah"
+                            },
+                            {
+                                "firstName": "A. O.",
+                                "lastName": "Alsayed"
+                            },
+                            {
+                                "firstName": "Q. N. N.",
+                                "lastName": "Mohammed"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Online Discussion Forum as a tool for interactive learning and communication",
+                        "journal": "International Journal of Recent Technology and Engineering",
+                        "volume": "8",
+                        "issue": "4",
+                        "pages": "4852–4868",
+                        "doi": "10.35940/ijrte.d8062.118419",
+                        "url": "https://doi.org/10.35940/ijrte.d8062.118419",
+                    },
+                    "keywords": [
+                        "Online discussion forum",
+                        "interactive learning",
+                        "e-learning",
+                        "communication"
+                    ],
+                    "summary": "The technologies have a profound effect on student learning. Participation and learning are enhanced by online discussion forums, which can be used in conjunction with lectures. The computer helps to achieve objectives in education. These forums encourage constructive debate, support cooperation and transform the teacher's role into a facilitator. The right use of the digital learning system is key, even though student attitudes and their misuse can affect results.",
+                    "studentActivityScore": 3,
+                    "lecturerActivityScore": 9
+                }
+            ]
+        },
+        {
+            "name": "Discussion",
+            "description": "Discussion based learning is an interactive approach to education that focuses on active student participation through group discussions and debates. This method requires students to express their views, share perspectives and take part in critical thinking instead of following lectures alone. The students learn how to listen, express their opinions and think about the diversity of views, thereby creating an active and constructive learning environment which is more than just lecture based methods.",
+            "sub-category": "Socratic Seminars",
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Kinney"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "Revisiting the Socratic method of teaching to improve third-year pharmacy students' critical thinking and advanced pharmacy practice experience readiness in a critical care elective",
+                        "journal": "Currents in Pharmacy Teaching and Learning",
+                        "volume": "14",
+                        "issue": "4",
+                        "pages": "499–506",
+                        "doi": "10.1016/j.cptl.2022.03.014",
+                        "url": "https://doi.org/10.1016/j.cptl.2022.03.014",
+                    },
+                    "keywords": [
+                        "Critical thinking",
+                        "Socratic method"
+                    ],
+                    "summary": "The purpose of the study was to enhance pharmacy students' critical thinking, clinical reasoning and APPE training through a Socratic education method in an elective paediatrics course. The results show a significant increase in critical thinking, clinical reasoning and preparedness of students for APPE. In particular, they demonstrated significant improvements in the HSRT reasoning test score, increased positive APPE readiness survey results, and more favourable teaching style ratings than that of traditional courses. Overall, the Socratic method is highly effective in attracting students and providing significant improvements over a short period of time.",
+                    "studentActivityScore": 5,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "thesis",
+                        "authors": [
+                            {
+                                "firstName": "B. N.",
+                                "lastName": "Roberson"
+                            }
+                        ],
+                        "year": 2013,
+                        "title": "Thesis on motivation towards learning perceived in Socratic seminar versus traditional lecture",
+                        "source": "ProQuest database"
+                    },
+                    "keywords": [
+                        "Socratic method",
+                        "traditional lecture"
+                    ],
+                    "summary": "The study found that, contrary to the initial expectations, Socratic Seminars had a more positive influence on certain aspects of teaching than traditional lectures. This implies a need for an equitable approach to training that incorporates both methods. The wider point is that diversity of teaching strategies, demonstrating the importance of using various approaches to learning, has a different effect on student motivation and has to be chosen wisely.",
+                    "studentActivityScore": 6,
+                    "lecturerActivityScore": 8
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "V. C.",
+                                "lastName": "Polite"
+                            },
+                            {
+                                "firstName": "A. H.",
+                                "lastName": "Adams"
+                            }
+                        ],
+                        "year": 1997,
+                        "title": "Critical Thinking and Values Clarification through Socratic Seminars",
+                        "journal": "Urban Education",
+                        "volume": "32",
+                        "issue": "2",
+                        "pages": "256–278",
+                        "doi": "10.1177/0042085997032002005",
+                        "url": "https://doi.org/10.1177/0042085997032002005",
+                    },
+                    "keywords": [
+                        "Critical thinking",
+                        "Socratic method"
+                    ],
+                    "summary": "This article examines the effectiveness of Socratic seminars through qualitative research. The study took into consideration student involvement, focus groups and interviews with teachers and students. Results show that seminars support higher-order thinking, effective strategies for conflict resolution and increased interest in learning. Seminars on relevant and actual subjects have been highly praised, with those involving metaphoric learning situations considered less important.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 10
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Griswold"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Shaw"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Munn"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Socratic Seminar with Data: A Strategy to Support Student Discourse and Understanding",
+                        "journal": "American Biology Teacher",
+                        "volume": "79",
+                        "issue": "6",
+                        "pages": "492–495",
+                        "doi": "10.1525/abt.2017.79.6.492",
+                        "url": "https://doi.org/10.1525/abt.2017.79.6.492",
+                        "edition": "",
+                        "publisher": ""
+                    },
+                    "keywords": [
+                        "Analyzing and interpreting data",
+                        "student-led discussion",
+                        "socratic seminar"
+                    ],
+                    "summary": "The article explores how Socratic seminar can be adapted to engage students with data, leading to improved understanding and collaborative meaning-making. It focuses on a case study in a high school type 2 diabetes curriculum, where students analyzed complex data from the Diabetes Prevention Program study. The seminar format encouraged students to reason through the data together, fostering deeper comprehension and discussions about the implications of the findings. Teachers have found that the use of a Socratic seminar with data has helped to uncover student misunderstandings and has provided insight into their understanding of scientific concepts. The method has been used to promote student-led debates, thoughtful analysis and reflection on personal links in the subject. Teachers were able to improve the learning of students and their engagement with scientific data through specific questioning methods and debriefing sessions.",
+                }
+            ]
         }
     ]
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-    "citation": {
-        "type": "article|book|web",
-        "authors": [
-            {
-                "firtstName": "",
-                "lastName": ""
-            }
-        ],
-        "year": 0,
-        "title": "",
-        "journal": "",
-        "volume": "",
-        "issue": "",
-        "pages": "",
-        "doi": "",
-        "url": "",
-        "edition": "",
-        "publisher": ""
-    },
-    "keywords": [],
-    "summary": "",
-    "studentActvityScore": 0,
-    "lecturerActivityScore": 0
 }
