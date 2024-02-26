@@ -1,35 +1,466 @@
 {
     "asl": [
         {
-            "name": "",
-            "description": "",
+            "name": "Discussion",
+            "description": "Discussion based learning is an interactive approach to education that focuses on active student participation through group discussions and debates. This method requires students to express their views, share perspectives and take part in critical thinking instead of following lectures alone. The students learn how to listen, express their opinions and think about the diversity of views, thereby creating an active and constructive learning environment which is more than just lecture based methods.",
             "sources": [
                 {
                     "citation": {
-                        "type": "article|book|web",
+                        "type": "conference",
                         "authors": [
                             {
-                                "firtstName": "",
-                                "lastName": ""
+                                "firtstName": "S.",
+                                "lastName": "Wu"
+                            },
+                            {
+                                "firtstName": "H.",
+                                "lastName": "Hou"
+                            },
+                            {
+                                "firtstName": "S. Y.",
+                                "lastName": "Chen"
+                            },
+                            {
+                                "firtstName": "E. Z. F.",
+                                "lastName": "Liu"
+                            },
+                            {
+                                "firtstName": "W.",
+                                "lastName": "Hwang"
                             }
                         ],
-                        "year": 0,
-                        "title": "",
-                        "journal": "",
-                        "volume": "",
-                        "issue": "",
-                        "pages": "",
-                        "doi": "",
-                        "url": "",
-                        "edition": "",
-                        "publisher": ""
+                        "year": 2012,
+                        "title": "Discussion Models in Seamless Online Learning Integrated Discussion (SOLID) Environment: Selection vs. Performance",
+                        "doi": "https://doi.org/10.1109/icalt.2012.31",
+                        "conference": "IEEE 12th International Conference on Advanced Learning Technologies",
+                        "location": "Rome, Italy"
                     },
-                    "keywords": [],
-                    "summary": "",
-                    "studentActvityScore": 0,
-                    "lecturerActivityScore": 0
+                    "keywords": [
+                        "Educational institutions",
+                        "computational modeling",
+                        "solid modeling",
+                        "problem-solving"
+                    ],
+                    "summary": " In the study, 41 college students in the field of child and infant care participated in problem solving and project discussions using SOLID. They preferred asynchronous discussions (M2) over synchronous (M1) or mixed (M3) formats for problem-solving activities. For project-based activities, all groups used asynchronous (M2) or mixed discussions (M3).  Quality-wise, mixed discussions (M3) performed better than asynchronous ones (M2), suggesting that combining synchronous and asynchronous elements improved discussion outcomes.",
+                    "studentActvityScore": 6,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "book",
+                        "authors": [
+                            {
+                                "firtstName": "F.",
+                                "lastName": "Han"
+                            },
+                            {
+                                "firtstName": "R. A.",
+                                "lastName": "Ellis"
+                            }
+                        ],
+                        "year": 2019,
+                        "title": "Identifying consistent patterns of quality learning discussions in blended learning",
+                        "journal": "The Internet and Higher Education",
+                        "volume": "40",
+                        "pages": "12-10",
+                        "doi": "https://doi.org/10.1016/j.iheduc.2018.09.002",
+                    },
+                    "keywords": [
+                        "Academic achievement",
+                        "face-to-face discussions",
+                        "online discussions"
+                    ],
+                    "summary": "The study analysed the influence ofblended discussions on education among postgraduates, finding differences in educational quality. Deep discussion approaches and higher academic performance correlated positively with coherent learning concepts in discussions. The course evaluations have been closely interconnected with the internet discussions, which offer specific advantages.  The results showed a positive correlation between cohesive concepts and deep approaches, while fragmented concepts and surface approaches showed a negative correlation in both face to face and online discussions.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "type": "book",
+                        "authors": [
+                            {
+                                "firtstName": "J.",
+                                "lastName": "Rothgeb"
+                            }
+                        ],
+                        "year": 2018,
+                        "title": "Do online discussion groups enhance students’ analytical ability and recall of factual knowledge?",
+                        "journal": "Journal of Political Science Education",
+                        "volume": "14",
+                        "issue": "3",
+                        "pages": "331-340",
+                        "doi": "https://doi.org/10.1080/15512169.2017.1402684",
+                    },
+                    "keywords": [
+                        "Discussion groups",
+                        "interactive learning",
+                        "online learning"
+                    ],
+                    "summary": "For two parts of the World Politics course, using internet discussion groups and without ODGs, the study compares 2 sections to see if they have any difference. While participation in ODG correlated to higher overall GPA, there were no significant differences of factual recall or analytical performance between ODG and non ODG sections. These results could have been affected by factors such as group size and measurement techniques.",
+                    "studentActvityScore": 7,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "L.",
+                                "lastName": "Williams"
+                            },
+                            {
+                                "firstName": "M. P.",
+                                "lastName": "Lahman"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "Online discussion, student engagement, and critical thinking",
+                        "journal": "Journal of Political Science Education",
+                        "volume": "7",
+                        "issue": "2",
+                        "pages": "143–162",
+                        "doi": "10.1080/15512169.2011.564919",
+                        "url": "https://doi.org/10.1080/15512169.2011.564919"
+                    },
+                    "keywords": [
+                        "Computer-mediated communication",
+                        "critical thinking",
+                        "online discussion",
+                        "student engagement"
+                    ],
+                    "summary": "Students used ANGEL software for the online discussion in traditional undergraduate courses. Divided into three groups per course, some discussions were moderated, while others were not. The level of participation and substantial replies was encouraged, with the awarding of points. The study examined 361 posts, looking at the interaction and critical thinking dimensions. The findings show that, although student characteristics such as course levels, GPAs and gender have no correlation with critical thinking, there has been an increased interaction in discussions associated with larger level of critical thinking.",
+                    "studentActivityScore": 7,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "book",
+                        "authors": [
+                            {
+                                "firtstName": "E. M.",
+                                "lastName": "Asem"
+                            },
+                            {
+                                "firtstName": "B.",
+                                "lastName": "Rajwa"
+                            }
+                        ],
+                        "year": 2023,
+                        "title": "Impact of combination of short lecture and group discussion on the learning of physiology by nonmajor undergraduates",
+                        "journal": "Advances in Physiology Education",
+                        "volume": "47",
+                        "issue": "1",
+                        "pages": "1-12",
+                        "doi": "https://doi.org/10.1152/advan.00022.2022",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "blended learning",
+                        "student-centered learning",
+                        "teaching method"
+                    ],
+                    "summary": "The impact of group discussions on a nongradual college student learning mammalian physiology was assessed in the study. Participation of students and an improved understanding of physiology in all grade levels have been enhanced through the integration of traditional lectures with group discussions. These findings support the development of studentcentered learning, highlight the effectiveness of combining lectures and group discussion for students who do not major in physiology.",
+                    "studentActvityScore": 8,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Blings"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Maxey"
+                            }
+                        ],
+                        "year": 2016,
+                        "title": "Teaching Students to Engage with Evidence: An Evaluation of Structured Writing and Classroom Discussion Strategies",
+                        "journal": "Journal of Political Science Education",
+                        "doi": "10.1080/15512169.2016.1168303",
+                        "url": "https://doi.org/10.1080/15512169.2016.1168303",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "critical thinking"
+                    ],
+                    "summary": "The study compared group discussions and structured-writing exercises in first-year writing seminars using a political science article. Group discussions have proven to be more effective and have enhanced the summarization and evaluation of students' evidence. Both methods have reinforced the importance of active learning, in particular group discussions, when it comes to smaller classroom settings, with regard to both understanding and evaluating critically.",
+                    "studentActivityScore": 8,
+                    "lecturerActivityScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S. A.",
+                                "lastName": "Stearns"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Student Responsible Learning: Getting students to read online discussions",
+                        "journal": "College Teaching",
+                        "volume": "65",
+                        "issue": "2",
+                        "pages": "69–78",
+                        "doi": ""
+                    },
+                    "keywords": [
+                        "Course design",
+                        "hybrid learning",
+                        "online discussions"
+                    ],
+                    "summary": "To promote critical thinking, A Thematic Analysis Assignment (TAA) was introduced to two senior level courses with the focus on Ervin Goffman's 'Stigma.' Survey responses from students showed strong engagement, with 86.7% acknowledging the assignment's benefits for learning. It made it easier for colleagues to interact and create a positive learning environment. The deadline was a problem for some students. Overall, the TAA has effectively promoted active learning and peer interaction while suggesting only minor modifications for future use.",
+                    "studentActivityScore": 8,
+                    "lecturerActivityScore": 6
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "K.",
+                                "lastName": "Abdulbaki"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Suhaimi"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "AlSaqqaf"
+                            },
+                            {
+                                "firstName": "W.",
+                                "lastName": "Jawad"
+                            }
+                        ],
+                        "year": 2018,
+                        "title": "The use of the discussion method at University: Enhancement of Teaching and learning",
+                        "journal": "International Journal of Higher Education",
+                        "volume": "7",
+                        "issue": "6",
+                        "pages": "118",
+                        "doi": "10.5430/ijhe.v7n6p118",
+                        "url": "https://doi.org/10.5430/ijhe.v7n6p118",
+                    },
+                    "keywords": [
+                        "Cognitive abilities",
+                        "student perception",
+                        "language skills"
+                    ],
+                    "summary": "In large classes at university, discussion is an effective method of teaching which requires highly qualified teachers to be in charge. The students, who were surveyed using the Likert scale, preferred to debate rather than lecture. This approach strengthens language skills, cognition and individual development to promote an educational environment conducive to learning. Discussions can give students an opportunity to express themselves, defend and shape their opinion, which benefits both academics and society in general.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 2
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "J.",
+                                "lastName": "Lim"
+                            },
+                            {
+                                "firstName": "H.",
+                                "lastName": "Ko"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Park"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Ihm"
+                            }
+                        ],
+                        "year": 2022,
+                        "title": "Effect of active learning and online discussions on the academic performances of dental students",
+                        "journal": "BMC Medical Education",
+                        "volume": "22",
+                        "issue": "1",
+                        "doi": "10.1186/s12909-022-03377-9",
+                        "url": "https://doi.org/10.1186/s12909-022-03377-9",
+                    },
+                    "keywords": [
+                        "Discussion",
+                        "active learning",
+                        "online learning",
+                        "self-study"
+                    ],
+                    "summary": "The study focused on dental students studying law, assessing the effect of discussions in online and offline health professions courses. A total of 114 participants were tested for the Criminal Procedure Code in four online and two offline groups. In particular, the online Self Study and Discussion Group performed very well in spite of an even better score for the offline equivalent. There were no significant differences between online and offline verbatim groups when it came to item scores. However, the offline seminar and discussion group scored higher in transfer item scores. In summary, this study supports the effectiveness of self-studies and discussion in online courses for students who are studying to be dentists.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 4
+                },
+                {
+                    "citation": {
+                        "type": "conference",
+                        "authors": [
+                            {
+                                "firstName": "N.",
+                                "lastName": "Mosina"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "Using wiki-based discussion forums in calculus: E-pathway toward improving students’ retention and learning in STEM gateway courses (Minority serving two-year college settings)",
+                        "conference": "IEEE Integrated STEM Education Conference",
+                        "location": "Princeton, NJ, USA",
+                        "doi": "10.1109/isecon.2014.6891038",
+                        "url": "https://doi.org/10.1109/isecon.2014.6891038",
+                    },
+                    "keywords": [
+                        "STEM",
+                        "e-learning"
+                    ],
+                    "summary": "The study used mixed methods to analyse the impact of Piazza, a virtual discussion platform, based on data from two semesters. Over time, students' participation increased and fostered a collaborative learning environment in which students actively supported each other. The report found that students' attitudes towards learning were affected positively by retention, achievement in a course of study and their attitude to education. In addition, students felt that the Platform's usefulness as well as its capacity to promote a sense of connection were positive.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 3
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "P. H.",
+                                "lastName": "Pollock"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Hamann"
+                            },
+                            {
+                                "firstName": "B. M.",
+                                "lastName": "Wilson"
+                            }
+                        ],
+                        "year": 2011,
+                        "title": "Learning through discussions: Comparing the benefits of Small-Group and Large-Class settings",
+                        "journal": "Journal of Political Science Education",
+                        "volume": "7",
+                        "issue": "1",
+                        "pages": "48–64"
+                    },
+                    "keywords": [
+                        "Critical thinking",
+                        "large classes",
+                        "small groups"
+                    ],
+                    "summary": "The study compared discussions in an upper level course of political theory to complete class and small group discussion. Both formats had a positive impact on student engagement and satisfaction, according to feedback from 146 questionnaires. Critical thinking and inclusiveness, which benefits from a diverse range of student backgrounds as well as achievements, have in particular benefited from the smaller groups discussions. The integration of discussions, i.e. small group meetings, can provide a significant enhancement in educational outcomes and overall level of student satisfaction for lecture classes.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "B. M.",
+                                "lastName": "Wilson"
+                            },
+                            {
+                                "firstName": "P. H.",
+                                "lastName": "Pollock"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Hamann"
+                            }
+                        ],
+                        "year": 2007,
+                        "title": "Does Active Learning Enhance Learner Outcomes? Evidence from Discussion Participation in Online Classes",
+                        "journal": "Journal of Political Science Education",
+                        "volume": "3",
+                        "issue": "2",
+                        "pages": "131–142",
+                        "doi": "10.1080/15512160701338304",
+                        "url": "https://doi.org/10.1080/15512160701338304",
+                    },
+                    "keywords": [
+                        "Active learning",
+                        "learner outcomes",
+                        "online discussion"
+                    ],
+                    "summary": "In a Latin American Politics course, 42 students engaged in module-based discussions. The study took into account the level of participation and classified them according to their engagement, thereby creating an active learning index. The findings showed that active learning in the field of discussions was associated with higher GPAs. In addition, women tended to engage in a more active manner compared with men. Lower GPA students' course performance has been significantly enhanced by the reading of peer posts, although this effect is diminishing as grade points are increased. In general, there was a correlation between improved grades and more active participation.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 5
+                },
+                {
+                    "citation": {
+                        "type": "conference",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Kode"
+                            },
+                            {
+                                "firstName": "L. A.",
+                                "lastName": "Gollapudi"
+                            },
+                            {
+                                "firstName": "R. R.",
+                                "lastName": "Tammanagari"
+                            },
+                            {
+                                "firstName": "V.",
+                                "lastName": "Pullakavi"
+                            }
+                        ],
+                        "year": 2014,
+                        "title": "Using Discussion Forums to Improve Student Retention Rate: Our Experience with Certificate in Information Technology (CIT) Program",
+                        "conference": "IEEE 14th International Conference on Advanced Learning Technologies",
+                        "location": "Athens, Greece",
+                        "doi": "10.1109/icalt.2014.191",
+                        "url": "https://doi.org/10.1109/icalt.2014.191",
+                    },
+                    "keywords": [
+                        "Asynchronous discussions",
+                        "online teaching"
+                    ],
+                    "summary": "In order to encourage students' interaction and support, EnhanceEdu interventions in rural technical colleges also included debate forums and a newsletter. In spite of low initial participation, strategies such as sample questions increased engagement, increased the number of assignments submitted, and increased the retention rate, by 97%. Active involvement in forums, highlighting their positive effects on student performance and building a supportive college community has been significantly correlated to higher final grades of 85%.",
+                    "studentActivityScore": 10,
+                    "lecturerActivityScore": 4
                 }
             ]
         }
     ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "citation": {
+        "type": "article|book|web",
+        "authors": [
+            {
+                "firtstName": "",
+                "lastName": ""
+            }
+        ],
+        "year": 0,
+        "title": "",
+        "journal": "",
+        "volume": "",
+        "issue": "",
+        "pages": "",
+        "doi": "",
+        "url": "",
+        "edition": "",
+        "publisher": ""
+    },
+    "keywords": [],
+    "summary": "",
+    "studentActvityScore": 0,
+    "lecturerActivityScore": 0
 }
