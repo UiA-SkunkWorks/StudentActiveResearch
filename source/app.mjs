@@ -4,7 +4,7 @@ import { extractCategories } from "./utils.mjs";
 import { embedTemplatesFrom } from "./templates.mjs"
 
 embedTemplatesFrom("templates.html", document.body);
-const sourceData = await fetch("../data/data.json").then(response => response.json());
+const sourceData = await fetch("./data/data.json").then(response => response.json());
 const categories = extractCategories(sourceData, "asl")
 
 createNavigation(categories);
