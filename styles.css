@@ -1,3 +1,24 @@
+section > article:first-of-type {
+   margin-left: 0px;
+  }
+
+section > article {
+    margin-left: 40px;
+}
+
+article{
+    margin-bottom: 20px;
+}
+
+summary {
+    list-style-type: '📋 ';
+} 
+
+.list-group-item{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
 .footer {
     position: absolute;
     bottom: 0;

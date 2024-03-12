@@ -2,7 +2,10 @@
 const TEMPLATE_SELECTORS = {
     navigationItemTemplate: "#navigationItemTemplate",
     navigationNestedTemplate: "#navigationNestedTemplate",
-    navigationNestedItemTemplate: "#navigationNestedItemTemplate"
+    navigationNestedItemTemplate: "#navigationNestedItemTemplate",
+    topLevelMethodTemplate:"#topLevelCategoryTemplate",
+    subLevelCategoryTemplate:"#subLevelCategoryTemplate",
+    referenceArticleTemplate:"#referenceArticleTemplate"
 }
 
 async function embedTemplatesFrom(source, target) {
@@ -14,4 +17,9 @@ function cloneTemplate(templateSelector) {
     return document.querySelector(templateSelector).content.cloneNode(true);
 }
 
-export { TEMPLATE_SELECTORS, cloneTemplate, embedTemplatesFrom }
+function templateContent(templateSelector){
+    let template = document.querySelector(templateSelector);
+    return template.innerHTML;
+}
+
+export { TEMPLATE_SELECTORS, cloneTemplate, embedTemplatesFrom, templateContent }
