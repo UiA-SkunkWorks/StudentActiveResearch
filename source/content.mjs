@@ -18,27 +18,42 @@ function buildContentStructure(content, root, targetSelector = "#content") {
             if(target){
                 totalSaS = totalSaS/totalSources;
                 totalLaS = totalLaS/totalSources;
-                document.querySelector(`#${createNavigationSafeID(currentCategoryName)} span[data-role="sps"]`).textContent = `avg. SAS: ${totalSaS.toFixed(2)}`;
-                document.querySelector(`#${createNavigationSafeID(currentCategoryName)} span[data-role="tps"]`).textContent = `avg. LAS: ${totalLaS.toFixed(2)}`;
 
-                
+                totalSaS = (totalSaS && totalSaS != NaN) ? totalSaS.toFixed(2) : "-"
+                totalLaS = (totalLaS && totalLaS != NaN) ? totalLaS.toFixed(2) : "-"
+
+                document.querySelector(`#${createNavigationSafeID(currentCategoryName)} span[data-role="sps"]`).textContent = `avg. SAS: ${totalSaS}`;
+                document.querySelector(`#${createNavigationSafeID(currentCategoryName)} span[data-role="tps"]`).textContent = `avg. LAS: ${totalLaS}`;                
+                totalSaS = 0;
+            totalLaS = 0;
+            totalSources = 0;
             }
-
 
             currentCategoryName = data.name;
             currentCategory = cloneTemplate(TEMPLATE_SELECTORS.topLevelMethodTemplate);
             currentCategory.querySelector("h2").textContent = data.name;
             currentCategory.querySelector("section").id = createNavigationSafeID(data.name);
             currentCategory.querySelector("p").textContent = data.description;
-
            
 
             container.appendChild(currentCategory);
             target = document.querySelector(`#${createNavigationSafeID(data.name)}`)
 
-            totalSaS = 0;
-            totalLaS = 0;
-            totalSources = 0;
+            let query = `#${createNavigationSafeID(data.name)} details > ul`;
+            
+            let { sps, tps } = appendReferences(data.sources, document.querySelector(query));
+
+            sps = (sps && sps != NaN) ? sps.toFixed(2) : "-"
+            tps = (tps && tps != NaN) ? tps.toFixed(2) : "-"
+
+            if(!isNaN(sps) && !isNaN(tps)){
+                totalLaS += tps * 1;
+                totalSaS += sps * 1;
+                totalSources++;
+            }
+           
+
+            
 
         } else {
             const subCatDisplay = cloneTemplate(TEMPLATE_SELECTORS.subLevelCategoryTemplate);
@@ -115,7 +130,7 @@ function appendReferences(sources, target) {
 
             item.innerHTML = refrence
         } else {
-            item.innerHTML = `<strong>${citation.title}</strong><p>${source.summary}</p><p>Missing refrences style for ${citation.type} </p>`
+            item.innerHTML = `<strong>${citation.title}</strong><p>${source.summary}</p><p>Missing refrences style for <span class="text-danger">${citation.type}</span> </p>`
         }
 
         if (source.studentActivityScore && source.lecturerActivityScore) {
