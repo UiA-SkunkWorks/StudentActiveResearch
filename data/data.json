@@ -336,9 +336,10 @@
                         ],
                         "year": 2012,
                         "title": "Discussion Models in Seamless Online Learning Integrated Discussion (SOLID) Environment: Selection vs. Performance",
-                        "doi": "https://doi.org/10.1109/icalt.2012.31",
-                        "conference": "IEEE 12th International Conference on Advanced Learning Technologies",
-                        "location": "Rome, Italy"
+                        "conference": "2012 IEEE 12th International Conference on Advanced Learning Technologies",
+                        "location": "Rome, Italy",
+                        "pages": "251-252",
+                        "doi": "10.1109/ICALT.2012.31"
                     },
                     "keywords": [
                         "Educational institutions",
@@ -347,12 +348,12 @@
                         "problem-solving"
                     ],
                     "summary": " In the study, 41 college students in the field of child and infant care participated in problem solving and project discussions using SOLID. They preferred asynchronous discussions (M2) over synchronous (M1) or mixed (M3) formats for problem-solving activities. For project-based activities, all groups used asynchronous (M2) or mixed discussions (M3).  Quality-wise, mixed discussions (M3) performed better than asynchronous ones (M2), suggesting that combining synchronous and asynchronous elements improved discussion outcomes.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 6
                 },
                 {
                     "citation": {
-                        "type": "book",
+                        "type": "article",
                         "authors": [
                             {
                                 "firtstName": "F.",
@@ -367,8 +368,10 @@
                         "title": "Identifying consistent patterns of quality learning discussions in blended learning",
                         "journal": "The Internet and Higher Education",
                         "volume": "40",
-                        "pages": "12-10",
-                        "doi": "https://doi.org/10.1016/j.iheduc.2018.09.002"
+                        "pages": "12-19",
+                        "issn": "1096-7516",
+                        "doi": "10.1016/j.iheduc.2018.09.002",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S1096751618302768"
                     },
                     "keywords": [
                         "Academic achievement",
@@ -376,7 +379,7 @@
                         "online discussions"
                     ],
                     "summary": "The study analysed the influence ofblended discussions on education among postgraduates, finding differences in educational quality. Deep discussion approaches and higher academic performance correlated positively with coherent learning concepts in discussions. The course evaluations have been closely interconnected with the internet discussions, which offer specific advantages.  The results showed a positive correlation between cohesive concepts and deep approaches, while fragmented concepts and surface approaches showed a negative correlation in both face to face and online discussions.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 5
                 },
                 {
@@ -402,7 +405,7 @@
                         "online learning"
                     ],
                     "summary": "For two parts of the World Politics course, using internet discussion groups and without ODGs, the study compares 2 sections to see if they have any difference. While participation in ODG correlated to higher overall GPA, there were no significant differences of factual recall or analytical performance between ODG and non ODG sections. These results could have been affected by factors such as group size and measurement techniques.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 6
                 },
                 {
@@ -465,7 +468,7 @@
                         "teaching method"
                     ],
                     "summary": "The impact of group discussions on a nongradual college student learning mammalian physiology was assessed in the study. Participation of students and an improved understanding of physiology in all grade levels have been enhanced through the integration of traditional lectures with group discussions. These findings support the development of studentcentered learning, highlight the effectiveness of combining lectures and group discussion for students who do not major in physiology.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 3
                 },
                 {
@@ -484,6 +487,9 @@
                         "year": 2016,
                         "title": "Teaching Students to Engage with Evidence: An Evaluation of Structured Writing and Classroom Discussion Strategies",
                         "journal": "Journal of Political Science Education",
+                        "volume": "13",
+                        "issue": "1",
+                        "pages": "15–32",
                         "doi": "10.1080/15512169.2016.1168303",
                         "url": "https://doi.org/10.1080/15512169.2016.1168303"
                     },
@@ -509,7 +515,9 @@
                         "journal": "College Teaching",
                         "volume": "65",
                         "issue": "2",
-                        "pages": "69–78"
+                        "pages": "69–78",
+                        "doi": "10.1080/87567555.2016.1244654",
+                        "url": "https://doi.org/10.1080/87567555.2016.1244654"
                     },
                     "keywords": [
                         "Course design",
@@ -644,7 +652,9 @@
                         "journal": "Journal of Political Science Education",
                         "volume": "7",
                         "issue": "1",
-                        "pages": "48–64"
+                        "pages": "48–64",
+                        "doi": "10.1080/15512169.2011.539913",
+                        "url": "https://doi.org/10.1080/15512169.2011.539913"
                     },
                     "keywords": [
                         "Critical thinking",
@@ -968,8 +978,11 @@
                         "year": 2011,
                         "title": "How active are students in online discussion forums?",
                         "conference": "Proceedings of the Thirteenth Australasian Computing Education Conference - Volume 114 (ACE '11)",
+                        "publisher": "Australian Computer Society, Inc.",
+                        "location": "Australia",
                         "pages": "125–134",
-                        "publisher": "Australian Computer Society, Inc."
+                        "doi": "10.5555/2459936.2459952",
+                        "url": "https://dl.acm.org/doi/10.5555/2459936.2459952"
                     },
                     "keywords": [
                         "Online learning system",
@@ -989,11 +1002,14 @@
                             }
                         ],
                         "year": 2017,
-                        "title": "The effect of using online discussion forums on students’ learning",
-                        "url": "https://eric.ed.gov/?id=EJ1124930"
+                        "title": "The Effect of Using Online Discussion Forums on Students' Learning",
+                        "journal": "Turkish Online Journal of Educational Technology",
+                        "volume": "16",
+                        "pages": "164-176",
+                        "url": "https://api.semanticscholar.org/CorpusID:39944679"
                     },
                     "keywords": [
-                        "Online discussion forums (ODFs)",
+                        "Online discussion forums",
                         "achievement"
                     ],
                     "summary": "Communication and social skills are enhanced through online discussion forum (ODFs). Saudi students are fond of working together and value advice from their peers. There are mixed results in research on the link between participation of students in education funding schemes and learning outcomes, suggesting that situational factors may play a role. It appears that there is a relationship between traditional and ODF learning in terms of background knowledge. A higher grade point average has been obtained in experimental groups using ODFs, but some students have not completed their required tasks within these forums.",
@@ -1036,8 +1052,12 @@
                             }
                         ],
                         "year": 2012,
-                        "title": "Outcomes of chat and discussion board use in online Learning: A research synthesis",
-                        "url": "https://eric.ed.gov/?id=EJ985399"
+                        "title": "Outcomes of chat and discussion board use in Online Learning: A research synthesis",
+                        "journal": "Journal of Educators Online",
+                        "volume": "9",
+                        "issue": "2",
+                        "doi": "10.9743/jeo.2012.2.4",
+                        "url": "https://www.thejeo.com/archive/2012_9_2/blackmon"
                     },
                     "keywords": [
                         "Online learning",
@@ -1063,7 +1083,7 @@
                         "issue": "3",
                         "pages": "289–322",
                         "doi": "10.1080/15512160500261178",
-                        "url": "https://doi.org/10.1080/15512160500261178"
+                        "url": "https://www.tandfonline.com/doi/full/10.1080/15512160500261178"
                     },
                     "keywords": [
                         "Online discussion",
@@ -1132,7 +1152,7 @@
                         "issue": "4",
                         "pages": "4852–4868",
                         "doi": "10.35940/ijrte.d8062.118419",
-                        "url": "https://doi.org/10.35940/ijrte.d8062.118419"
+                        "url": "https://www.semanticscholar.org/paper/Online-Discussion-Forum-as-a-Tool-for-Interactive/488fd609cb9d1b15915b38df1e60844a5c533ccb"
                     },
                     "keywords": [
                         "Online discussion forum",
@@ -1167,7 +1187,7 @@
                         "issue": "4",
                         "pages": "499–506",
                         "doi": "10.1016/j.cptl.2022.03.014",
-                        "url": "https://doi.org/10.1016/j.cptl.2022.03.014"
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/35483817/"
                     },
                     "keywords": [
                         "Critical thinking",
@@ -1187,8 +1207,9 @@
                             }
                         ],
                         "year": 2013,
-                        "title": "Thesis on motivation towards learning perceived in Socratic seminar versus traditional lecture",
-                        "source": "ProQuest database"
+                        "title": "Motivation towards learning perceived in Socratic seminar versus traditional lecture",
+                        "publisher": "Pepperdine Digital Commons",
+                        "url": "https://digitalcommons.pepperdine.edu/etd/336"
                     },
                     "keywords": [
                         "Socratic method",
@@ -1261,7 +1282,9 @@
                         "student-led discussion",
                         "socratic seminar"
                     ],
-                    "summary": "The article explores how Socratic seminar can be adapted to engage students with data, leading to improved understanding and collaborative meaning-making. It focuses on a case study in a high school type 2 diabetes curriculum, where students analyzed complex data from the Diabetes Prevention Program study. The seminar format encouraged students to reason through the data together, fostering deeper comprehension and discussions about the implications of the findings. Teachers have found that the use of a Socratic seminar with data has helped to uncover student misunderstandings and has provided insight into their understanding of scientific concepts. The method has been used to promote student-led debates, thoughtful analysis and reflection on personal links in the subject. Teachers were able to improve the learning of students and their engagement with scientific data through specific questioning methods and debriefing sessions."
+                    "summary": "The article explores how Socratic seminar can be adapted to engage students with data, leading to improved understanding and collaborative meaning-making. It focuses on a case study in a high school type 2 diabetes curriculum, where students analyzed complex data from the Diabetes Prevention Program study. The seminar format encouraged students to reason through the data together, fostering deeper comprehension and discussions about the implications of the findings. Teachers have found that the use of a Socratic seminar with data has helped to uncover student misunderstandings and has provided insight into their understanding of scientific concepts. The method has been used to promote student-led debates, thoughtful analysis and reflection on personal links in the subject. Teachers were able to improve the learning of students and their engagement with scientific data through specific questioning methods and debriefing sessions.",
+                    "studentActivityScore": 10,
+                    "lecturerActivityScore": 8
                 }
             ]
         },
@@ -1293,7 +1316,7 @@
                         "volume": "30",
                         "pages": "100322",
                         "doi": "10.1016/j.edurev.2020.100322",
-                        "url": "https://doi.org/10.1016/j.edurev.2020.100322"
+                        "url": "https://www.sciencedirect.com/science/article/pii/S1747938X19302908"
                     },
                     "keywords": [
                         "Gamification",
@@ -1305,8 +1328,8 @@
                         "task performance"
                     ],
                     "summary": "A meta analysis of 30 interventions, involving 3,202 participants, reveals a significant medium impact in favour of gamification over traditional learning. The benefits of gamification are that it fosters enthusiasm, offers feedback, meets recognition needs and encourages goal setting.Learners dislike gamification when it lacks utility or triggers anxiety.  Gamification across all instructors and methodological rigor increases task performance and enjoyment on a consistent basis. In particular, student levels, subject fields or the provision of tangible benefits are not affected by effect sizes.",
-                    "studentActvityScore": 4,
-                    "lecturerActivityScore": 8
+                    "studentActivityScore": 4,
+                    "lecturerActivityScore": 8 
                 },
                 {
                     "citation": {
@@ -1330,18 +1353,29 @@
                             }
                         ],
                         "year": 2011,
-                        "title": "From game design elements to gamefulness",
-                        "conference": "MindTrek ’11",
+                        "title": "From game design elements to gamefulness: defining 'gamification'",
+                        "conference": "Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments",
+                        "location": "Tampere, Finland",
+                        "publisher": "Association for Computing Machinery",
+                        "pages": "9–15",
                         "doi": "10.1145/2181037.2181040",
                         "url": "https://doi.org/10.1145/2181037.2181040"
                     },
                     "keywords": [
-                        "Gamification",
-                        "game",
-                        "game design"
+                        "Serious games",
+                        "playfulness",
+                        "playful design",
+                        "play",
+                        "pervasive games",
+                        "gamification",
+                        "games",
+                        "gamefulness",
+                        "gameful design",
+                        "game-based technologies",
+                        "alternate reality games"
                     ],
                     "summary": "The study highlights that \"gamification\" specifically relates to games rather than play or playfulness, which are broader categories. The authors emphasize the growing cultural significance of video games, suggesting they have become a significant medium and source of formative experiences in contemporary society, comparable to literature, movies, and television in earlier generations.",
-                    "studentActvityScore": 5,
+                    "studentActivityScore": 5,
                     "lecturerActivityScore": 5
                 },
                 {
@@ -1367,9 +1401,13 @@
                         ],
                         "year": 2013,
                         "title": "Improving participation and learning with gamification",
-                        "conference": "Proceedings of the First International Conference on Gameful Design, Research, and Applications (Gamification ’13)",
+                        "conference": "Proceedings of the First International Conference on Gameful Design, Research, and Applications",
+                        "pages": "10–17",
+                        "publisher": "Association for Computing Machinery",
+                        "location": "Toronto, Ontario, Canada",
                         "doi": "10.1145/2583008.2583010",
                         "url": "https://doi.org/10.1145/2583008.2583010"
+
                     },
                     "keywords": [
                         "Gamification",
@@ -1378,7 +1416,7 @@
                         "virtual learning environments"
                     ],
                     "summary": "The article presents a five-year study on how gamification can improve student engagement and learning in a college course. The authors found that by modeling course activities with game challenges and distributing them properly, students are more motivated and engaged in their learning experience. The study showed significant improvements in attention, participation, proactivity, and grades when the course was gamified. However, the authors also acknowledge limitations in their study and suggest further research to validate their findings.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 4
                 },
                 {
@@ -1396,9 +1434,12 @@
                         ],
                         "year": 2019,
                         "title": "Gamification in Education: A Cognitive Psychology Approach to Cooperative and Fun Learning",
-                        "conference": "Amity International Conference on Artificial Intelligence (AICAI)",
-                        "doi": "10.1109/aicai.2019.8701264",
-                        "url": "https://doi.org/10.1109/aicai.2019.8701264"
+                        "conference": "2019 Amity International Conference on Artificial Intelligence (AICAI)",
+                        "location": "Dubai, United Arab Emirates",
+                        "publisher": "IEEE",
+                        "pages": "170-174",
+                        "doi": "10.1109/AICAI.2019.8701264",
+                        "url": "https://ieeexplore.ieee.org/document/8701264"
                     },
                     "keywords": [
                         "Cognitive learning",
@@ -1408,7 +1449,7 @@
                         "gamification"
                     ],
                     "summary": "In a study with first-year undergraduate computer science students, specially designed educational games demonstrated exceptional performance and enhanced creative skills. The research draws from the constructivist model of learning and emphasizes the significance of activity-based learning to expose students to new experiences and broaden their knowledge. Notably, students successfully recognized number patterns and connected abstract ideas to tangible games, resulting in an enthusiastic and engaged class. A follow-up questionnaire revealed their positive responses and understanding, indicating the effectiveness of the approach.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 3
                 },
                 {
@@ -1446,7 +1487,7 @@
                         "volume": "63",
                         "pages": "380–392",
                         "doi": "10.1016/j.compedu.2012.12.020",
-                        "url": "https://doi.org/10.1016/j.compedu.2012.12.020"
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0360131513000031?via%3Dihub"
                     },
                     "keywords": [
                         "Gamification",
@@ -1458,7 +1499,7 @@
                         "e-learning"
                     ],
                     "summary": "Gamification has an effect on players' social, emotional, and cognitive development. Games offer structured tasks and iterative learning cycles for mastering new skills in the cognitive domain. In order to keep players engaged, games attempt to elicit positive emotions through success and mild anxiety upon failure. Multiplayer interactions enable teamwork, rivalry, and the development of distinct identities socially. Gamification motivates students, but it takes work to create the best learning environments. Some students will respond to this approach more favorably than others depending on their type of learning.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 5
                 },
                 {
@@ -1480,9 +1521,12 @@
                         ],
                         "year": 2011,
                         "title": "Orientation Passport: using gamification to engage university students",
-                        "conference": "Conference OZCHI",
+                        "conference": "Proceedings of the 23rd Australian Computer-Human Interaction Conference",
+                        "location": "Canberra, Australia",
+                        "publisher": "Association for Computing Machinery",
+                        "pages": "122–125",
                         "doi": "10.1145/2071536.2071554",
-                        "url": "https://doi.org/10.1145/2071536.2071554"
+                        "url": "https://dl.acm.org/doi/10.1145/2071536.2071554"
                     },
                     "keywords": [
                         "Gamification",
@@ -1492,7 +1536,7 @@
                         "university"
                     ],
                     "summary": "The report examines how achievement systems are being implemented in game applications, especially at university orientation events. It describes the orientation framework to be used in design and testing of a gamification application. Participants responded positively, finding achievements motivating for campus exploration.  The study has highlighted the usefulness of adding gaming elements to utility apps, but emphasises that there is a need for resolving possible conflicts.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 2
                 },
                 {
@@ -1527,7 +1571,7 @@
                         "issue": 3,
                         "pages": "309–325",
                         "doi": "10.1177/0047239516671945",
-                        "url": "https://doi.org/10.1177/0047239516671945"
+                        "url": "https://journals.sagepub.com/doi/10.1177/0047239516671945"
                     },
                     "keywords": [
                         "Gamification",
@@ -1535,7 +1579,7 @@
                         "anatomy training"
                     ],
                     "summary": "The passage explores using modern pedagogical approaches and technology, such as mobile apps, smartboards, and gamification, to foster collaborative student engagement. These methods promote interactive learning experiences, personalized instruction, and group interactions. The focus is on creating innovative learning environments through cutting-edge strategies and technological innovations.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 4
                 },
                 {
@@ -1560,8 +1604,10 @@
                             }
                         ],
                         "year": 2011,
-                        "title": "Gamification: Toward a definition",
-                        "publisher": "ResearchGate",
+                        "title": "Gamification: Toward a Definition",
+                        "conference": "CHI 2011 Gamification Workshop Proceedings",
+                        "location": "Vancouver",
+                        "pages": "12-15",
                         "url": "https://www.researchgate.net/publication/273947177_Gamification_Toward_a_definition"
                     },
                     "keywords": [
@@ -1570,7 +1616,7 @@
                         "playful interaction"
                     ],
                     "summary": "The authors argue that gamification needs to be more widely understood and should not confine itself to particular contexts. They argue against a narrow view, highlighting the aim of this term being to enhance user experience and engagement. The authors note that, beyond their initial contexts, serious games have been broadened to include a number of subcategories such as education, news and health gamification.  From a design perspective, they emphasize repurposing game controllers for Human-Computer Interaction and using game engines for non-entertainment purposes. In order to make it easier to distinguish between gamification, serious games, and interaction with games in more detailed studies, they propose to define gamification by including different design elements across different abstraction levels.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 4
                 },
                 {
@@ -1611,7 +1657,8 @@
                         "journal": "Computers & Electrical Engineering",
                         "volume": 74,
                         "pages": "22–34",
-                        "doi": "10.1016/j.compeleceng.2019.01.002"
+                        "doi": "10.1016/j.compeleceng.2019.01.002",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0045790618304968"
                     },
                     "keywords": [
                         "Gamification",
@@ -1619,7 +1666,7 @@
                         "mobile learning"
                     ],
                     "summary": "The article explores how gamification can enhance the motivation of students to engage in difficult tasks and achieve the required goal within a short span of time. Games also allow the user to repeat a particular task in the event of failure, which helps students to analyze their previous mistakes and correct them. Gamification can also help to identify the key motivating factors that can enhance the learning process and make it more effective.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 3
                 },
                 {
@@ -1640,7 +1687,8 @@
                         "journal": "Journal of Business Research",
                         "volume": 106,
                         "pages": "304–314",
-                        "doi": "10.1016/j.jbusres.2018.09.023"
+                        "doi": "10.1016/j.jbusres.2018.09.023",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0148296318304739"
                     },
                     "keywords": [
                         "Cognition",
@@ -1650,7 +1698,7 @@
                         "neuroscience"
                     ],
                     "summary": "The paper draws on gamification frameworks such as MDE, OCC and BrainMap to explore emotions and cognition. It proposes a cognitive-emotional perspective for the design of gamified systems and stresses that game mechanics are linked to emotional outcomes and emotions play an essential role in brain processes. It points out how the emotions of players are influenced by agents' actions and objects. In order to better align the desired cognitive, emotional and gaming mechanics of gamification, this view is complemented by psychology and neuroscientific literature.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 7
                 },
                 {
@@ -1691,7 +1739,8 @@
                         "journal": "Smart Learning Environments",
                         "volume": "9",
                         "issue": "1",
-                        "doi": "10.1186/s40561-022-00194-x"
+                        "doi": "10.1186/s40561-022-00194-x",
+                        "url": "https://slejournal.springeropen.com/articles/10.1186/s40561-022-00194-x"
                     },
                     "keywords": [
                         "Personalized gamification",
@@ -1700,7 +1749,9 @@
                         "educational systems",
                         "adaptation"
                     ],
-                    "summary": "The aim of the study was to assess the impact of personalised gamification on students' experience of flow, enjoyment, perception of gamification and motivation in the educational system. Surprisingly, the results did not reveal a strong correlation between personalization and these aspects."
+                    "summary": "The aim of the study was to assess the impact of personalised gamification on students' experience of flow, enjoyment, perception of gamification and motivation in the educational system. Surprisingly, the results did not reveal a strong correlation between personalization and these aspects.",
+                    "studentActivityScore": 8,
+                    "lecturerActivityScore": 3
                 },
                 {
                     "citation": {
@@ -1728,7 +1779,8 @@
                         "journal": "Computers in Human Behavior",
                         "volume": "69",
                         "pages": "371–380",
-                        "doi": "10.1016/j.chb.2016.12.033"
+                        "doi": "10.1016/j.chb.2016.12.033",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S074756321630855X"
                     },
                     "keywords": [
                         "Gamification",
@@ -1737,7 +1789,7 @@
                         "simulation"
                     ],
                     "summary": "Gamiﬁcation integrates game design elements into real-world settings to enhance human motivation and performance. The elements of the game such as badges, leaderboards and performance graphs had a positively influenced effect on skills needed for satisfaction and meaningfulness in randomised controlled studies conducted under the self determination theory framework.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 5
                 },
                 {
@@ -1759,8 +1811,11 @@
                         ],
                         "year": 2013,
                         "title": "Gamifying behaviour that leads to learning",
-                        "conference": "Proceedings of the First International Conference on Gameful Design, Research, and Applications (Gamification ’13)",
-                        "doi": "10.1145/2583008.2583021"
+                        "conference": "Proceedings of the First International Conference on Gameful Design, Research, and Applications",
+                        "location": "Toronto, Ontario, Canada",
+                        "pages": "87–90",
+                        "doi": "10.1145/2583008.2583021",
+                        "url": "https://dl.acm.org/doi/10.1145/2583008.2583021"
                     },
                     "keywords": [
                         "Gamification",
@@ -1769,7 +1824,7 @@
                         "self-study"
                     ],
                     "summary": "Gamification, which has proven effective in tasks such as problem solving and habit formation, goes beyond entertainment. A number of informal games have been used to promote positive behaviour such as teaching children classical art and helping kids with cancer. The goal is to create a casual game based on motivational play theories that will support the habit of self study. The game incorporates the mechanics for growing fruits, upgrading your level and playing with friends.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 3
                 },
                 {
@@ -1799,7 +1854,8 @@
                         "volume": 12,
                         "issue": 1,
                         "pages": "16-28",
-                        "doi": "10.1109/TLT.2018.2823710"
+                        "doi": "10.1109/TLT.2018.2823710",
+                        "url": "https://ieeexplore.ieee.org/document/8334657"
                     },
                     "keywords": [
                         "Educational games",
@@ -1807,7 +1863,7 @@
                         "adaptive educational systems"
                     ],
                     "summary": "Adapting gaming features to enhance learners' engagement can have several potential implications. For instance, it can lead to an increase in participation and motivation, reduce the risk of amotivation, and keep learners engaged in the learning activity even if their intrinsic motivation is lower. However, gamification may also reduce intrinsic motivation due to a low level of acceptance of 'non-serious' elements within a serious environment, perceived as a disturbance by learners who are already intrinsically motivated.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 2
                 },
                 {
@@ -1829,7 +1885,8 @@
                         "volume": 74,
                         "issue": 19,
                         "pages": "8483–8493",
-                        "doi": "10.1007/s11042-013-1612-8"
+                        "doi": "10.1007/s11042-013-1612-8",
+                        "url": "https://link.springer.com/article/10.1007/s11042-013-1612-8"
                     },
                     "keywords": [
                         "Gamification",
@@ -1855,7 +1912,8 @@
                         "volume": 45,
                         "issue": 6,
                         "pages": "752–768",
-                        "doi": "10.1177/1046878114563660"
+                        "doi": "10.1177/1046878114563660",
+                        "url": "https://journals.sagepub.com/doi/full/10.1177/1046878114563660"
                     },
                     "keywords": [
                         "Gamified learning",
@@ -1874,13 +1932,38 @@
                         "type": "web",
                         "authors": [
                             {
-                                "firstName": "W.",
+                                "firstName": "Wilk",
                                 "lastName": "Oliveira"
+                            },
+                            {
+                                "firstName": "Armando Maciel",
+                                "lastName": "Toda"
+                            },
+                            {
+                                "firstName": "Paula Toledo",
+                                "lastName": "Palomino"
+                            },
+                            {
+                                "firstName": "Lei",
+                                "lastName": "Shi"
+                            },
+                            {
+                                "firstName": "Julita",
+                                "lastName": "Vassileva"
+                            },
+                            {
+                                "firstName": "Ig Ibert",
+                                "lastName": "Bittencourt"
+                            },
+                            {
+                                "firstName": "Seiji",
+                                "lastName": "Isotani"
                             }
                         ],
                         "year": 2020,
-                        "title": "Does tailoring gamified educational systems matter? The impact on students’ flow experience",
-                        "url": "https://scholarspace.manoa.hawaii.edu/items/f3fd44d8-df9f-4ce2-bac6-46c6cbb673ee"
+                        "title": "Does Tailoring Gamified Educational Systems Matter? The Impact on Students' Flow Experience",
+                        "conference": "Hawaii International Conference on System Sciences",
+                        "url": "https://api.semanticscholar.org/CorpusID:214144729"
                     },
                     "keywords": [
                         "Gamer types",
@@ -1923,7 +2006,8 @@
                         "journal": "Smart Learning Environments",
                         "volume": "7",
                         "issue": "1",
-                        "doi": "10.1186/s40561-019-0098-x"
+                        "doi": "10.1186/s40561-019-0098-x",
+                        "url": "https://slejournal.springeropen.com/articles/10.1186/s40561-019-0098-x"
                     },
                     "keywords": [
                         "Gamification",
@@ -1977,8 +2061,13 @@
                         ],
                         "year": 2016,
                         "title": "LEGA: A LEarner-centered GAmification Design Framework",
-                        "conference": "Proceedings of the XVII International Conference on Human Computer Interaction (Interacción ’16)",
-                        "doi": "10.1145/2998626.2998673"
+                        "conference": "Proceedings of the XVII International Conference on Human Computer Interaction",
+                        "publisher": "Association for Computing Machinery",
+                        "volume": "45",
+                        "pages": "1–8",
+                        "location": "Salamanca, Spain",
+                        "doi": "10.1145/2998626.2998673",
+                        "url": "https://doi.org/10.1145/2998626.2998673"
                     },
                     "keywords": [
                         "Gamification design framework",
@@ -1990,7 +2079,7 @@
                 },
                 {
                     "citation": {
-                        "type": "conference paper",
+                        "type": "conference",
                         "authors": [
                             {
                                 "firstName": "L. S.",
@@ -2006,9 +2095,11 @@
                             }
                         ],
                         "year": 2013,
-                        "title": "Towards personalised, gamified systems",
-                        "conference": "Proceedings of the 9th Australasian Conference on Interactive Entertainment: Matters of Life and Death (IE ’13)",
-                        "doi": "10.1145/2513002.2513024"
+                        "title": "Towards personalised, gamified systems: an investigation into game design, personality and player typologies",
+                        "conference": "Proceedings of The 9th Australasian Conference on Interactive Entertainment: Matters of Life and Death",
+                        "publisher": "Association for Computing Machinery",
+                        "doi": "10.1145/2513002.2513024",
+                        "url": "https://doi.org/10.1145/2513002.2513024"
                     },
                     "keywords": [
                         "Game design",
@@ -2051,7 +2142,8 @@
                         "volume": "58",
                         "issue": "4",
                         "pages": "411–420",
-                        "doi": "10.1016/j.bushor.2015.03.006"
+                        "doi": "10.1016/j.bushor.2015.03.006",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S000768131500035X"
                     },
                     "keywords": [
                         "Gamification",
@@ -2071,16 +2163,34 @@
             "sources": [
                 {
                     "citation": {
-                        "type": "thesis",
+                        "type": "conference",
                         "authors": [
                             {
                                 "firstName": "A.",
                                 "lastName": "Bourazeri"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Arnab"
+                            },
+                            {
+                                "firstName": "O.",
+                                "lastName": "Heidmann"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Coelho"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Morini"
                             }
                         ],
                         "year": 2017,
                         "title": "Taxonomy of a gamified lesson path for STEM education: The beaconing approach",
-                        "publisher": "Coventry University",
+                        "conference": "Proceedings of the 11th European Conference on Games Based Learning, ECGBL 2017",
+                        "pages": "29-37",
+                        "publisher": "Academic Conferences and Publishing International Limited",
                         "url": "https://pureportal.coventry.ac.uk/en/publications/taxonomy-of-a-gamified-lesson-path-for-stem-education-the-beaconi"
                     },
                     "keywords": [
@@ -2096,7 +2206,7 @@
                 },
                 {
                     "citation": {
-                        "type": "journal article",
+                        "type": "journal",
                         "authors": [
                             {
                                 "firstName": "I.",
@@ -2131,6 +2241,7 @@
                 },
                 {
                     "citation": {
+                        "type": "journal",
                         "authors": [
                             {
                                 "firstName": "D. R.",
@@ -2150,7 +2261,8 @@
                         "journal": "Computers & Education",
                         "volume": "144",
                         "pages": "103666",
-                        "doi": "10.1016/j.compedu.2019.103666"
+                        "doi": "10.1016/j.compedu.2019.103666",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0360131519302192"
                     },
                     "keywords": [
                         "Gamification",
@@ -2165,6 +2277,7 @@
                 },
                 {
                     "citation": {
+                        "type": "journal",
                         "authors": [
                             {
                                 "firstName": "D. N.",
@@ -2181,7 +2294,8 @@
                         "volume": "45",
                         "issue": "4",
                         "pages": "499–519",
-                        "doi": "10.1177/0047239516665105"
+                        "doi": "10.1177/0047239516665105",
+                        "url": "https://journals.sagepub.com/doi/10.1177/0047239516665105"
                     },
                     "keywords": [
                         "Gamification",
@@ -2196,6 +2310,7 @@
                 },
                 {
                     "citation": {
+                        "type": "journal article",
                         "authors": [
                             {
                                 "firstName": "Z.",
@@ -2219,7 +2334,8 @@
                         "journal": "Computers & Education",
                         "volume": "145",
                         "pages": "103729",
-                        "doi": "10.1016/j.compedu.2019.103729"
+                        "doi": "10.1016/j.compedu.2019.103729",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0360131519302829"
                     },
                     "keywords": [
                         "Gamification",
@@ -2241,6 +2357,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "journal article",
                         "authors": [
                             {
                                 "firstName": "A.",
@@ -2255,7 +2372,8 @@
                         "title": "Gamification and simulation",
                         "bookTitle": "Security informatics and law enforcement",
                         "pages": "83–98",
-                        "doi": "10.1007/978-3-030-29926-2_5"
+                        "doi": "10.1007/978-3-030-29926-2_5",
+                        "url": "https://link.springer.com/chapter/10.1007/978-3-030-29926-2_5" 
                     },
                     "keywords": [
                         "Gamification",
@@ -2273,6 +2391,7 @@
                 },
                 {
                     "citation": {
+                        "type": "book chapter",
                         "authors": [
                             {
                                 "firstName": "J.",
@@ -2283,11 +2402,13 @@
                                 "lastName": "Gütl"
                             }
                         ],
-                        "year": 2014,
-                        "title": "Educational gamified science simulations",
-                        "bookTitle": "Springer eBooks",
-                        "pages": "253–275",
-                        "doi": "10.1007/978-3-319-10208-5_13"
+                        "year": 2015,
+                        "title": "Educational Gamified Science Simulations",
+                        "bookTitle": "Gamification in Education and Business",
+                        "publisher": "Springer International Publishing AG",
+                        "pages": "253-275",
+                        "doi": "10.1007/978-3-319-10208-5_13",
+                        "url": "https://doi.org/10.1007/978-3-319-10208-5_13"
                     },
                     "keywords": [
                         "STEM",
@@ -2303,6 +2424,7 @@
                 },
                 {
                     "citation": {
+                        "type": "journal article",
                         "authors": [
                             {
                                 "firstName": "J. T.",
@@ -2319,7 +2441,8 @@
                         "volume": "74",
                         "issue": "19",
                         "pages": "8483–8493",
-                        "doi": "10.1007/s11042-013-1612-8"
+                        "doi": "10.1007/s11042-013-1612-8",
+                        "url": "https://link.springer.com/article/10.1007/s11042-013-1612-8"
                     },
                     "keywords": [
                         "educational game",
@@ -2339,6 +2462,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "journal article",
                         "authors": [
                             {
                                 "firstName": "T.",
@@ -2348,7 +2472,8 @@
                         "year": 2017,
                         "title": "Interactive Storytelling, gamification and Online education: Storytelling made Easy",
                         "journal": "International Journal on Innovations in Online Education",
-                        "doi": "10.1615/intjinnovonlineedu.2017018913"
+                        "doi": "10.1615/intjinnovonlineedu.2017018913",
+                        "url": "https://doi.org/10.1615/intjinnovonlineedu.2017018913"
                     },
                     "keywords": [
                         "digital storytelling",
@@ -2361,6 +2486,7 @@
                 },
                 {
                     "citation": {
+                        "type": "conference",
                         "authors": [
                             {
                                 "firstName": "V.",
@@ -2369,12 +2495,12 @@
                         ],
                         "year": 2019,
                         "title": "Guidelines for Combining Storytelling and Gamification: Which Features Would Teenagers Desire to Have a More Enjoyable Museum Experience?",
-                        "conference": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19)",
-                        "paper": "Paper SRC03",
-                        "pages": "1–6",
+                        "conference": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems",
+                        "location": "Glasgow, Scotland UK",
                         "publisher": "Association for Computing Machinery",
-                        "city": "New York, NY, USA",
-                        "doi": "10.1145/3290607.3308462"
+                        "pages": "1–6",
+                        "doi": "10.1145/3290607.3308462",
+                        "url": "https://doi.org/10.1145/3290607.3308462"
                     },
                     "keywords": [
                         "user experience",
@@ -2389,6 +2515,7 @@
                 },
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "S. H.",
@@ -2409,7 +2536,8 @@
                         "volume": "16",
                         "issue": "6",
                         "pages": "428–435",
-                        "doi": "10.1089/cyber.2012.0492"
+                        "doi": "10.1089/cyber.2012.0492",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/23438264/"
                     },
                     "keywords": [
                         "gamification",
@@ -2421,6 +2549,7 @@
                 },
                 {
                     "citation": {
+                        "type": "conference",
                         "authors": [
                             {
                                 "firstName": "A.",
@@ -2432,7 +2561,8 @@
                         "conference": "2018 IEEE Integrated STEM Education Conference (ISEC)",
                         "location": "Princeton, NJ, USA",
                         "pages": "243-246",
-                        "doi": "10.1109/ISECon.2018.8340493"
+                        "doi": "10.1109/ISECon.2018.8340493",
+                        "url": "https://api.semanticscholar.org/CorpusID:5035517"
                     },
                     "keywords": [
                         "classroom dynamics",
@@ -2448,6 +2578,7 @@
                 },
                 {
                     "citation": {
+                        "type": "journal",
                         "authors": [
                             {
                                 "firstName": "C. C.",
@@ -2462,7 +2593,8 @@
                                 "lastName": "Yunes-Rojas"
                             },
                             {
-                                "lastName": "et al."
+                                "firstName": "M. A.",
+                                "lastName": "Mata-Gómez"
                             }
                         ],
                         "year": 2019,
@@ -2470,7 +2602,8 @@
                         "journal": "International Journal of Interactive Design and Manufacturing",
                         "volume": 13,
                         "pages": "1271–1282",
-                        "doi": "10.1007/s12008-019-00600-8"
+                        "doi": "10.1007/s12008-019-00600-8",
+                        "url": "https://link.springer.com/article/10.1007/s12008-019-00600-8"
                     },
                     "keywords": [
                         "student motivation",
@@ -2484,18 +2617,39 @@
                 },
                 {
                     "citation": {
+                        "type": "journal",
                         "authors": [
-                            "P. T. Palomino",
-                            "A. M. Toda",
-                            "W. Oliveira",
-                            "L. Rodrigues",
-                            "A. I. Cristea",
-                            "S. Isotani"
+                            {
+                                "firstName": "P.",
+                                "lastName": "Palomino"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Toda"
+                            },
+                            {
+                                "firstName": "W.",
+                                "lastName": "Oliveira"
+                            },
+                            {
+                                "firstName": "L.",
+                                "lastName": "Rodrigues"
+                            },
+                            {
+                                "firstName": "A. I.",
+                                "lastName": "Cristea"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Isotani"
+                            }
                         ],
                         "year": 2019,
-                        "title": "Exploring Content Game Elements to Support Gamification Design in Educational Systems: Narrative and Storytelling",
-                        "conference": "Anais Do XXX Simpósio Brasileiro De Informática Na Educação (SBIE 2019)",
-                        "doi": "10.5753/cbie.sbie.2019.773"
+                        "title": "Exploring content game elements to support gamification design in educational systems: narrative and storytelling",
+                        "journal": "CBIE/SBIE",
+                        "doi": "10.5753/cbie.sbie.2019.773",
+                        "url": "https://durham-repository.worktribe.com/output/1139455/exploring-content-game-elements-to-support-gamification-design-in-educational-systems-narrative-and-storytelling"
+                        
                     },
                     "keywords": [
                         "narrative storytelling",
@@ -2907,7 +3061,7 @@
                         "pharmacotherapy"
                     ],
                     "summary": "This study compared a flipped classroom design with a traditional lecture course for second-year pharmacy students. The redesigned course included online components with videos and self-assessment questions. Students' postcourse survey scores significantly improved, and they appreciated applying video content during class time. Overall, students had a positive learning experience, as indicated by the survey and course evaluation.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 5
                 },
                 {
@@ -2937,7 +3091,7 @@
                         "student performance"
                     ],
                     "summary": "This paper takes a look into how The flipped classroom approach has shaken up traditional teaching methods, presenting new challenges and opportunities. To create successful flipped classrooms, it's essential to have dedicated and self-assured teachers who are supported with sufficient time, resources, and guidance to develop an effective flipped model. In this article, they delve into an intriguing question: could the nature of student summative assessments influence the outcomes? Specifically, they explore how robust assessments may yield different results compared to less comprehensive ones, adding an interesting twist to the discussion.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 6
                 },
                 {
@@ -2969,7 +3123,7 @@
                         "active learning"
                     ],
                     "summary": "This article looks at the theoretical basis of a flipped classroom approach, in particular as regards motivation and cognitive load. It discusses the big potential of the flipped classroom model to increase students' motivation by satisfying their needs for relatedness, autonomy and competence. The document also looks at how the flipped classroom can help manage the cognitive load through the provision of tailored learning experiences and opportunities for active participation.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 7
                 },
                 {
@@ -3000,7 +3154,7 @@
                         "improving classroom teaching"
                     ],
                     "summary": "Authors systematically examined the advantages and challenges associated with the flipped classroom model in this article. To find out the reported advantages and disadvantages for students and teachers, a total of 71 research articles have been analysed. The benefits of a flipped classroom are improved student outcomes, increased interaction and time efficiency. The challenges, on the other hand, are course redesign, student motivation and technological competence.",
-                    "studentActvityScore": 9,
+                    "studentActivityScore": 9,
                     "lecturerActivityScore": 8
                 }
             ]
@@ -3010,6 +3164,34 @@
             "description": "The flipped classroom model redefines traditional learning by changing the typical structure. Before class, students independently review the teaching materials, often in the form of videos or readings, so that they can learn at their own pace. The classroom time is then devoted to collaborative activities, discussions and problem solving in the framework of a teacher's guidance. This approach increases active learning during face-to-face sessions and focuses on higher-order thinking skills. The model of flipping a classroom has to give students deeper understanding of the subject by emphasising interactive teaching.",
             "subCategory": "Peer Teaching",
             "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "S.",
+                                "lastName": "Ramaswamy"
+                            }
+                        ],
+                        "year": 2001,
+                        "title": "Student Peer Teaching: An Innovative approach to instruction in science and engineering education",
+                        "journal": "Journal of Science Education and Technology",
+                        "volume": "10",
+                        "issue": "2",
+                        "pages": "165–171",
+                        "doi": "10.1023/a:1009421231056",
+                        "url": "https://doi.org/10.1023/a:1009421231056"
+                    },
+                    "keywords": [
+                        "Peer-teaching",
+                        "student-centered methods",
+                        "collaborative activities",
+                        "interactive teaching"
+                    ],
+                    "summary": "The article discusses an innovative instructional method implemented in a senior paper science and engineering class to promote student problem-solving and in-depth learning. It examines the effectiveness of student peer teaching and the feedback received from students on the strengths and weaknesses of this teaching approach. The study highlights the importance of mentoring sessions, teaching experience and challenges faced by students preparing to participate actively.",
+                    "studentActivityScore": 9,
+                    "lecturerActivityScore": 6
+                },
                 {
                     "citation": {
                         "type": "article",
@@ -3041,7 +3223,7 @@
                         "social awareness"
                     ],
                     "summary": "Active learning has emerged as a fundamental element of education and proven to be more successful than methods dominated by teachers. Peer teaching assignments have been successful, promoting active learning and benefiting both students and teachers, even though they were initially met with apprehension. By incorporating open-ended questions and the participation of students in assessments, this approach can be further refined to enhance intellectual and social growth.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -3073,7 +3255,7 @@
                         "collaborative learning"
                     ],
                     "summary": "The article examines the advantages and problems of implementing a modified learning style in teacher education classes. It examines the experiences of teaching in a flipped learning environment where students receive interactive learning, performance and preparation for the upcoming classroom. The study shows the positive aspects of student motivation through peer learning. This report also addresses challenges such as time-consuming multimedia creation and student accountability for the preparation activities. This method improves teachers' technological skills and supports a student cooperative learning approach.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 6
                 },
                 {
@@ -3094,7 +3276,7 @@
                         "student performance"
                     ],
                     "summary": "Peer teaching was introduced at the Sefako Makgatho Health Sciences University to encourage active student participation. Deep learning, holistic understanding, and long-term retention have been found to be enhanced by fifth-year medical students preparing for teaching. Communication and emotion skills have been improved by teaching experience. On the other hand, students expressed mixed feelings as peer learners because of their concerns about wrong information and participation in lectures. The recommendations included the earlier introduction of peer learning and the involvement of senior peers in the teaching of young people. Alternative peer training and teaching techniques to healthcare professionals are highlighted in this study.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 7
                 },
                 {
@@ -3133,7 +3315,7 @@
                         "peer-teaching"
                     ],
                     "summary": "The article explores an engineering course experiment involving laboratory sessions and reciprocal peer teaching among students from various specialties. In the theory or practical component of the examination, those who act as evaluators are more successful. The surveys have shown that laboratory sessions and monitoring methods are of use to students. The importance of practical training, which helps to strengthen theory and promote involvement in activities, is underlined.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 4
                 }
             ]
@@ -3167,7 +3349,7 @@
                         "tertiary education"
                     ],
                     "summary": "Learning satisfaction and results have been affected by factors such as video suitability, analysis type, activity depth or timing of intervention. Rogow's process of tertiary education has been adapted by the insights from this study. The project investigated the role of MAT in various sectors and areas, conducting surveys, interviews as well as observations. The study found educational benefits, but a potential depth of challenges in education has been identified.  Recommendations suggest that student oversight, collaboration and control of participation in video annotation practices should be encouraged.",
-                    "studentActvityScore": 4,
+                    "studentActivityScore": 4,
                     "lecturerActivityScore": 7
                 },
                 {
@@ -3188,7 +3370,7 @@
                         "active learning"
                     ],
                     "summary": "In order to address the issue of labelling an enormous amount of video information, this article introduces a new dynamic learning framework for visual annotation and tracking. The proposal is to apply an adaptive keyframes strategy that compels workers to tag special objects on frames with a view to optimising performance.",
-                    "studentActvityScore": 4,
+                    "studentActivityScore": 4,
                     "lecturerActivityScore": 7
                 },
                 {
@@ -3223,7 +3405,7 @@
                         "motivation"
                     ],
                     "summary": "This study examines how using filmed cases from the food industry can make food microbiology more relevant to students and enhance their learning. The flipped classroom approach received positive feedback, with students appreciating the flexibility of filmed lectures. The cases were seen as relevant to real-world work, leading to better preparation among students. Moreover, case-based teaching improved students' generic skills, resulting in enhanced academic performance compared to previous years.",
-                    "studentActvityScore": 5,
+                    "studentActivityScore": 5,
                     "lecturerActivityScore": 2
                 },
                 {
@@ -3268,7 +3450,7 @@
                         "engagement"
                     ],
                     "summary": "The article looks at how students interact with video on the internet across different educational contexts. It discusses the use of hyper video players in the classroom and the need for further research to understand how students' activities are influenced by their objectives. In this study ViDeX hyper video player was used to create instructional videos and the effect of educational context on student engagement goals has been examined. Based on the results, recommendations have also been drawn up for educational design.",
-                    "studentActvityScore": 5,
+                    "studentActivityScore": 5,
                     "lecturerActivityScore": 7
                 }
             ]
@@ -3308,7 +3490,7 @@
                         "randomized procedure"
                     ],
                     "summary": "The article compares the effectiveness of virtual and face-to-face learning with different teaching methods and discusses the use of active listening principles in virtual learning environments. It has shown that satisfaction, perception of learning improvement, and educational attainment are strongly influenced by the teaching methods and education environment. However, the absence of a randomized selection procedure for placing students in different groups is one of the main drawbacks of this study.",
-                    "studentActvityScore": 4,
+                    "studentActivityScore": 4,
                     "lecturerActivityScore": 7
                 },
                 {
@@ -3342,7 +3524,7 @@
                         "teamwork"
                     ],
                     "summary": "The article discusses the use of mini-audit evaluations as a form of experiential learning in audit training. The report highlights the positive response of students to practical learning experiences and emphasis on teamwork. The evaluation required that all four stages of the experiential learning cycle were completed, involving decision making and practical use of audit concepts.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -3367,7 +3549,7 @@
                         "learning outcomes"
                     ],
                     "summary": "The article addresses the concept of Experiential Learning, which is a type of education that takes place through real experiences instead of classroom teachings. The importance of hands-on activities, real world interaction and feedback during the learning process is emphasised. Different methods of experiential learning, such as internships, research projects and live case teaching, allow students to apply theoretical knowledge in practice. It stresses the role of trainers to guide and monitor experiential learning experiences to ensure effective achievement of educational outcomes. Overall, the article underscores the significance of experiential learning in enhancing cognitive, emotional, and behavioural dimensions of learning.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 6
                 }
             ]
@@ -3723,7 +3905,7 @@
                         "problem-based learning"
                     ],
                     "summary": "The study examines the impact of a Game-Based Learning (GBL) intervention on critical thinking and content knowledge retention in 8th-grade Social Studies. The GBL intervention involved students playing a game simulating the French and Indian War, encouraging problem-solving and critical thinking. The results showed no significant difference in content knowledge between GBL and traditional instruction groups. However, the GBL intervention promoted student engagement, small-group discourse, and reflective processes. Integration, the highest level of critical thinking, occurred in only 4.2% of measured units. The study suggests deliberate spaces for reflection to enhance sustained critical thinking. The results support constructivist-style learning environments, aligned with current teacher-evaluation models. Future research should explore heightened and sustained critical thinking in innovative problem-solving contexts. The limitations include non-random group selection and the brevity of the content knowledge test. Overall, GBL shows promise in fostering critical thinking and student-centred learning. The study calls for further investigation and refinement of GBL principles.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -3759,7 +3941,7 @@
                         "card game"
                     ],
                     "summary": "The study explored the effectiveness of game-based learning in planning education. Two lectures, one traditional and one gamified, were conducted to assess students' perceptions of learning, engagement, and teamwork. The gamified lecture involved a board game simulating demographic processes related to population forecasts. Results showed that students preferred the gamified lecture, finding it more engaging and memorable. However, game-based learning might be better suited for certain aspects of planning education and requires thoughtful integration. Overall, game-based learning offers exciting opportunities for enhancing higher education pedagogy.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 5
                 },
                 {
@@ -3797,7 +3979,7 @@
                         "professional development"
                     ],
                     "summary": "DGBL has shown promising learning outcomes, including improved academic performance and increased retention of knowledge. However, mixed results have been observed in some studies, highlighting the need to consider factors like game design and teaching strategies. The role of teachers in the development and implementation of DGBL is crucial, with their involvement in game development aligning gameplay with instructional objectives and setting the tone for effective learning experiences. To maximise the effectiveness of DGBL, researchers and educators are encouraged to carefully select gamification elements, align them with pedagogical frameworks, and provide teachers with training in DGBL. As technology continues to advance, DGBL is expected to play an increasingly significant role in education and professional upskilling programs.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -3828,7 +4010,7 @@
                         "gaming activity"
                     ],
                     "summary": "The article explores how game-based learning has the ability to support a variety of learning objectives and skills, including fundamental knowledge, metacognitive skills, and creative abilities. The MAPLET framework is introduced as a method for game-based learning alignment of learning objectives, learner characteristics, and assessment strategies. The concept is built on three stages of intellectual skill development: early stages emphasise fundamental knowledge and abilities, middle stages involve problem-solving, and late stages target automated execution and knowledge transfer. In order to complement particular learning objectives, each phase recommends appropriate game activities, such as simulations and puzzles. When employing games as learning tools, the article underlines the significance of having a clear aim. It also stresses the necessity for more research and empirical case studies to improve and put the framework into use.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -3850,7 +4032,7 @@
                         "gamification"
                     ],
                     "summary": "Game-based learning (GBL) is a promising approach to address modern education challenges. With the rise of the 'native digital' generation, lifelong learning and 21st-century skills like creativity and problem-solving are essential. GBL, using video games and game elements in education, has shown positive effects on student motivation and learning outcomes. However, challenges include creating high-quality games and providing proper teacher training. A study confirmed that GBL increases student motivation, involvement, and effective learning outcomes compared to traditional methods. Further research on its long-term effects is needed. Overall, GBL holds great potential for enhancing modern education.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -3878,7 +4060,7 @@
                         "digital teaching"
                     ],
                     "summary": "The text highlights how GBL has evolved from being perceived as an unserious activity to a method with great potential for promoting 21st-century skills. Studies have shown that well-designed educational games can effectively engage students and develop critical skills. However, there remain challenges, such as selecting appropriate games and providing teacher training. Despite these obstacles, the growing interest in GBL and its positive impact on learning outcomes provide reasons to be optimistic about its potential for transforming education in the future.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -3906,7 +4088,7 @@
                         "game design"
                     ],
                     "summary": "The text explores the multifaceted world of designing web-based learning materials with a primary focus on student engagement. It highlights the limitations of using the web solely as an information distribution channel, urging for the creation of interactive learning experiences. To tackle this, the paper introduces the concept of integrating educational theories with game design, emphasizing the potential of educational games to capture students' attention and motivation. The experiential gaming model presented in the text serves as a blueprint for designing meaningful and engaging educational games. By matching challenges to individual skill levels and providing immediate feedback, the model strives to create a state of flow, where learners are fully absorbed and immersed in the learning process. Furthermore, the text delves into the role of storytelling, game balance, and cognitive load optimization in educational game design, ultimately striving to strike the right balance between entertainment and educational objectives. Overall, this approach seeks to empower learners to actively explore, reflect, and construct knowledge, leading to improved learning outcomes and a positive educational experience.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -3936,7 +4118,7 @@
                         "game design"
                     ],
                     "summary": "This literature review examines the impact of game-based learning (GBL) on 21st-century skills development. Analyzing 137 papers, it highlights the importance of game design and learning theories. Design-based games showed greater effectiveness than traditional educational or entertainment games. Critical thinking skills were the most frequently studied outcome, while communication and creativity received less attention. Collaboration, competition, complexity, exploration, and role-playing were identified as key game design elements. Reporting effect sizes was found crucial for practical implications. Overall, GBL shows promise in enhancing 21st-century skills through effective game design and learning theories.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -3969,7 +4151,7 @@
                         "learner's background"
                     ],
                     "summary": "The text explores Game-Based Learning (GBL) as an alternative educational tool and evaluates its effectiveness in higher education. It focuses on the correlations between learners' cultural elements, ethnicity, native language, motivation, and performance. The research findings indicate a strong positive relationship between learners' background factors and their motivation to learn and perform better. Integrating cultural elements, ethnicity, and native language into the GBL environment can enhance learners' engagement and outcomes. This highlights the significance of considering learners' diverse backgrounds in designing effective educational games. Overall, the study emphasises the importance of incorporating cultural context in GBL to create more engaging and successful learning experiences.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 10
                 },
                 {
@@ -3997,7 +4179,7 @@
                         "learning"
                     ],
                     "summary": "The article investigates the pedagogical dimension of game-based learning (GBL) and highlights the crucial role of teachers in effectively integrating digital games into the educational process. It addresses the lack of attention given to pedagogy in GBL literature reviews and highlights the significance of understanding teachers' instructional practices during pre-game, game, and post-game stages. The study reveals that teachers implement diverse instructional activities, such as gameplay training, content scaffolding, classroom management, and technical support, to facilitate students' engagement and learning outcomes. However, the post-game debriefing stage is often overlooked in GBL, which warrants greater attention. Overall, the article advocates for a holistic approach to GBL pedagogy, highlighting the importance of teacher involvement in maximising the educational benefits of digital games.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 10
                 },
                 {
@@ -4026,7 +4208,7 @@
                         "teacher role"
                     ],
                     "summary": "The article explores the vital role of teachers in game-based learning and the challenges they face when incorporating digital games into their teaching. It emphasises the necessity of giving teachers agency in this situation. The empirical studies highlight the challenges teachers face, such as inadequate training and challenges connecting game content to curriculum goals. According to the proposed participatory design model, teachers should design their own games for their classrooms and develop game-based lessons that are tailored to the needs of their students. In order to protect teachers' professional identities, discussions about teacher agency and the effects of new educational reforms are emphasised.",
-                    "studentActvityScore": 10,
+                    "studentActivityScore": 10,
                     "lecturerActivityScore": 10
                 }
             ]
@@ -4076,7 +4258,7 @@
                         "Innovation"
                     ],
                     "summary": "The article gives background on the development of a digital platform, Be Active, which is specifically designed to use active learning methodologies. It's based on problem-based learning and gamification strategies that offer features like team formations, chat rooms or performance tables. To map and increase student learning and engagement, the platform's methodology includes six phases: problem registration, formation of a team, solution generation, assessment by students.",
-                    "studentActvityScore": 5,
+                    "studentActivityScore": 5,
                     "lecturerActivityScore": 7
                 },
                 {
@@ -4102,7 +4284,7 @@
                         "learning analytics"
                     ],
                     "summary": "The document highlights the shift from knowledge transfer to knowledge management and building, as well as the development of digital pedagogies and eLearning. The objective is to emphasise the usefulness of eLearning over traditional methods, in particular by highlighting an online writing and evaluation environment called 'Scholar' as an example of new learning opportunities that can be exploited. It recommends that educational portals should be designed with a focus on learning needs and predict improvements in student interaction and attitudes toward eLearning.",
-                    "studentActvityScore": 5,
+                    "studentActivityScore": 5,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -4127,7 +4309,7 @@
                         "Mahara"
                     ],
                     "summary": "The article addresses the M2B system, a digital learning platform designed to be used for traditional classroom teaching in universities. Three subsystems are contained in this system: the Moodle, Mahara and eBook systems. It collects learning logs for learning analytics and provides tools for supporting teaching and learning in classes on site.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 8
                 }
             ]
@@ -4163,7 +4345,7 @@
                         "critical pedagogy"
                     ],
                     "summary": "Computer games have become an integral part of our social and cultural environment, and are particularly appealing to children and adolescents, for whom they constitute the most popular computer activity in the home. Prior research on domestic computer use has shown that games are more popular with boys, who are more frequent, intensive and experienced game players than girls, and more likely to participate in players’ communities for the exchange of game-related resources.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 6
                 },
                 {
@@ -4204,7 +4386,7 @@
                         "games"
                     ],
                     "summary": "The article discusses the impact of motivation on university students' academic performance, particularly in computer science degrees with high dropout rates. It explores the potential of game-based learning (GBL) to increase student motivation through educational video games designed for learning. The study compares traditional teaching methods with GBL using teacher-authored games in computer science courses and finds that GBL significantly boosts student motivation without compromising learning effectiveness. The research highlights the importance of using GBL judiciously to maintain its motivational impact.",
-                    "studentActvityScore": 4,
+                    "studentActivityScore": 4,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -4237,7 +4419,7 @@
                         "educational game"
                     ],
                     "summary": "By promoting cooperation in solving problems and creating interactive learning environments, digital games offer an opportunity to enhance science education. Game-based learning is rooted in a variety of theories, including cognitivism, constructivism, sociocultural perspectives and enactivism, that focus on outcomes such as scientific knowledge, problem solving skills, engagement, emotional impact. Learning outcomes are significantly influenced by the effective design and implementation of games and by the promotion of collaboration through clear objectives, rules and feedback systems.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -4245,12 +4427,21 @@
                         "type": "web",
                         "authors": [
                             {
-                                "firstName": "KDE Group, University of Kassel and DMIR Group, University of Würzburg and L3S Research Center, Hannover (Germany)"
+                                "firstName": "Maja",
+                                "lastName": "Pivec"
+                            },
+                            {
+                                "firstName": "Olga",
+                                "lastName": "Dziabenko"
+                            },
+                            {
+                                "firstName": "Irmgard",
+                                "lastName": "Schinnerl"
                             }
                         ],
                         "year": 2003,
-                        "title": "Aspects of Game- based Learning | BIBSonomy",
-                        "url": "https://www.bibsonomy.org/bibtex/c6b0cf1e2dcd4b7193cfba34f8de3463"
+                        "title": "Aspects of Game-Based Learning",
+                        "url": "https://www.semanticscholar.org/paper/Aspects-of-Game-Based-Learning-Pivec-Dziabenko/0e9bcf0bd2bd5cf0ff0470ca7315e0d1d3b9b883"
                     },
                     "keywords": [
                         "Educational video game",
@@ -4258,7 +4449,7 @@
                         "game design"
                     ],
                     "summary": "The article emphasises the need for innovative learning methods that align with modern generations' preferences. It proposes game-based learning, using educational video games to engage learners and enhance the learning process. Game-based learning blurs instructional content with game elements, providing motivating and immersive experiences. It fosters active knowledge construction, collaboration, and problem-solving skills. The article showcases successful examples and highlights the importance of aligning game design with pedagogical approaches for effective learning outcomes.",
-                    "studentActvityScore": 3,
+                    "studentActivityScore": 3,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -4298,7 +4489,7 @@
                         "virtual world"
                     ],
                     "summary": "The article discusses the potential use of Roblox, a popular online gaming platform that can be used for learning purposes. It stresses the immersive and entertaining nature of Massive Multiplayer Games such as Roblox, which can be used to introduce students to an entirely new kind of learning experience. The study examined how students reacted to the use of Roblox for learning activities, which covered topics like dinosaurs and disease. The impact of social interaction and the development of skills for students was also highlighted. The study offers practical guidance for teachers on the effective integration of Roblox in teaching environments, emphasising the need to address possible risks and use user interface features as a learning tool.",
-                    "studentActvityScore": 4,
+                    "studentActivityScore": 4,
                     "lecturerActivityScore": 9
                 }
             ]
@@ -4337,7 +4528,7 @@
                         "entertainment"
                     ],
                     "summary": "The paper discusses the use of digital games as an education tool in which both games intended for learning purposes and those that have been reutilized are used. It notes that educational games developers face publishing differences between academic and entertainment developed games, as well as the challenges they face in developing them. Special games, such as Pentiment and Lausanne 1830, are mentioned at a crossroads between entertainment and education.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -4360,7 +4551,7 @@
                         "higher education"
                     ],
                     "summary": "The article underlines the positive impact of game based learning in higher education, highlighting its effectiveness as a way to engage students and improve their outcomes. It looks at the possibilities of creating an active learning experience through digital games, enabling students to be involved in their educational process. The study also addresses the importance of providing instant feedback to students, promoting collaboration through multiplayer features, and fostering a growth mindset among learners. In addition, the research highlights the need for teachers to adapt to new systems and tools in a multicultural environment, as well as exploring the role of ICT in education.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 9
                 }
             ]
@@ -4400,7 +4591,7 @@
                         "video game"
                     ],
                     "summary": "This study presents a conceptual framework of student-centred digital game-based learning (SCDGBL) derived from literature published between 2007 and 2018. The framework categorises SCDGBL interventions into single player, mixed, and multiplayer engagements, based on player involvement. Key findings reveal a strong focus on certain student-centred learning elements like active learning and autonomy, but a lack of attention to 'social' elements like mutual respect and cooperative learning. The study explores Gee's principles of good game design and suggests integrating them early in game design to enhance learning outcomes. It emphasises the need to align game design with existing research on how students learn to fully utilise the potential of digital game-based learning. Future studies should explore all student-centred learning elements and use design principles to create effective educational games.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -4449,7 +4640,7 @@
                         "immersion"
                     ],
                     "summary": "The study highlights the potential of educational video games to effectively engage students and promote learning. Designers are encouraged to emphasise challenge and engagement while considering players' skill levels, thereby keeping learners within their Zone of Proximal Development (ZPD) and motivated to learn. Additionally, the findings suggest that game-based learning offers individualized customization, making it a learner-centered approach that challenges the traditional one-size-fits-all mentality in education.",
-                    "studentActvityScore": 2,
+                    "studentActivityScore": 2,
                     "lecturerActivityScore": 8
                 },
                 {
@@ -4472,7 +4663,7 @@
                         "training simulators"
                     ],
                     "summary": "The paper looks at how augmented reality can help active learning in a variety of areas, such as serious gaming, scientific experiments, linking the results of studies with the creation and training of technical skills. The authors present a new definition of Augmented Reality and cite original examples such as the AR Serious game for understanding electromagnetic phenomena and the AR Based Welding Training App.  It emphasizes serious games in AR systems for active learning, particularly in understanding electromagnetic concepts and their application in electrical engineering.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -4522,7 +4713,7 @@
                         "game mechanics"
                     ],
                     "summary": "This review is intended to investigate the link between learning design and gaming mechanics in Serious Games SGs. It envisages the development of a research programme aiming at ascertaining the alignment among suggested and applied theories in SG use by means of quantitative methods. The study focuses on the key role played by teachers to guide game based learning in a cognitive domain.  It identifies 165 relevant papers and examines specific learning activities related to game elements and feedback, laying the foundations for informed learning in games.",
-                    "studentActvityScore": 10,
+                    "studentActivityScore": 10,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -4561,7 +4752,7 @@
                         "programming"
                     ],
                     "summary": "In the context of teaching Computer Science theory and application, academicians use game-based learning. Research focuses on a game framework for Computational Thinking (CT) skills. A serious game designed for introductory programming and CT received positive student feedback for its enjoyable nature and potential to enhance problem-solving. There are a few lacks in existing programming training games for the development of CT skills. The CT and programming structures are integrated into the 'Program your robot' game.  The game had been helpful for students' understanding of programming and strengthening their problem solving skills.",
-                    "studentActvityScore": 7,
+                    "studentActivityScore": 7,
                     "lecturerActivityScore": 9
                 },
                 {
@@ -4604,7 +4795,7 @@
                         "motivation"
                     ],
                     "summary": "In order to teach medical students how to make clinical decisions, this study has created a Serious Game (SG). According to findings from 47 validated questionnaires and 31 focus group participants, serious games attract, motivate, help in decision-making, repetition of knowledge, which can be a useful tool for evaluating medical education.",
-                    "studentActvityScore": 8,
+                    "studentActivityScore": 8,
                     "lecturerActivityScore": 10
                 },
                 {
@@ -4641,8 +4832,184 @@
                         "collaborative learning"
                     ],
                     "summary": "The article looks at the importance of using serious games, in particular digital game learning methods for enhancing students' educational experience. This emphasises the importance of motivation and engagement in improving students' educational performance and social skills. Serious games can help students develop critical thinking, decision making, and problem solving skills through interactive and engaging learning environments. The article also highlights the benefits of serious games in fostering collaboration, communication and a favourable competitive environment for young people.",
-                    "studentActvityScore": 6,
+                    "studentActivityScore": 6,
                     "lecturerActivityScore": 10
+                }
+            ]
+        },
+        {
+            "name": "Personalized learning",
+            "description": "",
+            "sources": [
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "M. L.",
+                                "lastName": "Bernacki"
+                            },
+                            {
+                                "firstName": "M. J.",
+                                "lastName": "Greene"
+                            },
+                            {
+                                "firstName": "N. G.",
+                                "lastName": "Lobczowski"
+                            }
+                        ],
+                        "year": 2021,
+                        "title": "A Systematic Review of Research on Personalized Learning: Personalized by Whom, to What, How, and for What Purpose(s)?",
+                        "journal": "Educational Psychology Review",
+                        "volume": "33",
+                        "issue": "4",
+                        "pages": "1675–1715",
+                        "doi": "10.1007/s10648-021-09615-8",
+                        "url": "https://doi.org/10.1007/s10648-021-09615-8"
+                    },
+                    "keywords": [
+                        "Personalized learning",
+                        "development"
+                    ],
+                    "summary": "The article draws attention to the concept of personalised learning, which has a significant impact on education. It describes how the development of personalised learning requires a tailored approach to teaching in order to address specific students' needs, strengths and interests. The article highlights the role of students' voices and choice in learning, allowing them to have a say on what they are being taught.  The challenge of defining personalised learning is also examined, as different contexts interpret and implement it in a variety of ways, making the impact on learners' educational experiences difficult to assess. In addition, in order to ensure the growth and success of every student, this article discusses various dimensions and aspects of personalised learning such as individualization, differentiation or alignment with academic standards."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "A.",
+                                "lastName": "Shemshack"
+                            },
+                            {
+                                "firstName": "",
+                                "lastName": "Kinshuk"
+                            },
+                            {
+                                "firstName": "J. M.",
+                                "lastName": "Spector"
+                            }
+                        ],
+                        "year": 2021,
+                        "title": "A comprehensive analysis of personalized learning components",
+                        "journal": "Journal of Computers in Education",
+                        "volume": "8",
+                        "issue": "4",
+                        "pages": "485–503",
+                        "doi": "10.1007/s40692-021-00188-7",
+                        "url": "https://doi.org/10.1007/s40692-021-00188-7"
+                    },
+                    "keywords": [
+                        "Personalized learning",
+                        "educational technology"
+                    ],
+                    "summary": "The article explores personalized learning components in educational technology from 2010 to 2020. It is based on the identification of key components, e.g. learner profiles, brain styles, self-pacing, Personal relevance, and regulation. The study highlights the importance of technology for enabling personalized learning experiences. Results show that personalized learning based on individual needs, preferences, and skills results in positive educational outcomes. The objective of personalized education is to maximize student satisfaction, speed of learning, and overall effectiveness through the use of technology and strategies that adapt."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "C.",
+                                "lastName": "Walkington"
+                            },
+                            {
+                                "firstName": "M. L.",
+                                "lastName": "Bernacki"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Appraising research on personalized learning: Definitions, theoretical alignment, advancements, and future directions",
+                        "journal": "Journal of Research on Technology in Education",
+                        "volume": "52",
+                        "issue": "3",
+                        "pages": "235–252",
+                        "doi": "10.1080/15391523.2020.1747757",
+                        "url": "https://doi.org/10.1080/15391523.2020.1747757"
+                    },
+                    "keywords": [
+                        "Personalized learning",
+                        "evidence base",
+                        "good practice",
+                        "student performance",
+                        "adaptive text selection"
+                    ],
+                    "summary": "The article describes the progress made to establish an evidence base for good practice in personalized learning (PL). This report summarizes a range of studies demonstrating effectiveness, reveals the conditions under which PL will be successfully implemented, and examines its scale-up. The results show positive effects on student performance in math, reading, and language tests in the district using the PL at scale, as well as the influence of adaptive text selection on learning outcomes."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "H.",
+                                "lastName": "Alamri"
+                            },
+                            {
+                                "firstName": "V. L.",
+                                "lastName": "Lowell"
+                            },
+                            {
+                                "firstName": "W. R.",
+                                "lastName": "Watson"
+                            },
+                            {
+                                "firstName": "S. L.",
+                                "lastName": "Watson"
+                            }
+                        ],
+                        "year": 2020,
+                        "title": "Using personalized learning as an instructional approach to motivate learners in online higher education: Learner self-determination and intrinsic motivation",
+                        "journal": "Journal of Research on Technology in Education",
+                        "volume": "52",
+                        "issue": "3",
+                        "pages": "322–352",
+                        "doi": "10.1080/15391523.2020.1728449",
+                        "url": "https://doi.org/10.1080/15391523.2020.1728449"
+                    },
+                    "keywords": [
+                        "Personalized learning",
+                        "e-learning",
+                        "psychological need satisfaction",
+                        "intrinsic motivation",
+                        "learner self-determination"
+                    ],                
+                    "summary": "The article compares students' perceptions of psychological need satisfaction and intrinsic motivation in a personalized e-learning course versus a one-size-fits-all e-learning course. Results show that, with increased inherent motivation, students feel more autonomy and competence in the personalized learning environment. They found that students' learning needs and interests were strengthened by personalized course design. On the other hand, students in one-size-fits-all classes were dissatisfied with this approach and how their needs had been taken care of. Autonomy, competence, and internal motivation were positively influenced by the principles of personalized education."
+                },
+                {
+                    "citation": {
+                        "type": "article",
+                        "authors": [
+                            {
+                                "firstName": "L. D.",
+                                "lastName": "Roberts"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Howell"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Seaman"
+                            }
+                        ],
+                        "year": 2017,
+                        "title": "Give me a customizable dashboard: Personalized Learning Analytics dashboards in higher education",
+                        "journal": "Technology, Knowledge, and Learning",
+                        "volume": "22",
+                        "issue": "3",
+                        "pages": "317–333",
+                        "doi": "10.1007/s10758-017-9316-1",
+                        "url": "https://doi.org/10.1007/s10758-017-9316-1"
+                    },
+                    "keywords": [
+                        "Learning analytics",
+                        "dashboards",
+                        "student preferences",
+                        "privacy concerns",
+                        "personalized messages",
+                        "student engagement"
+                    ],
+                    "summary": "The article looks at the preferences of students when it comes to learning analytics dashboards, based on focus groups and surveys. The findings show that students value the dashboard and alerts but also emphasize the importance of equal learning opportunities for all. The students are divided as to whether or not they use comparative results on dashboards and their preference for anonymity when sharing data. Attention is also given to privacy concerns regarding progress on dashboard information in the open environment. Automated alerts are preferred by students as opposed to personalized messages from teaching staff. In order to tailor the learning experience, students are interested in the ability to customize a dashboard. The study highlights the importance of student engagement to create effective dashboards for improving teaching results."
                 }
             ]
         }
