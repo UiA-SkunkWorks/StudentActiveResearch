@@ -2,7 +2,8 @@
     "asl": [
         {
             "name": "ASL",
-            "description": "Active learning is a pedagogical approach where students transition from passive recipients to active contributors in the course of their studies. The focus is providing and getting immediate feedback and interactive participation. The aim of this introductory overview is to provide a better understanding of the diverse nature of active student learning, emphasising its role in improving critical thinking, collaboration and sustained enthusiasm for lifelong learning within the formal education system. There are different methods of active student leaning that can be useful for various types of student and teachers such as gamification, game-based learning, experiential learning, flipped classrooms, discussions, ProLab, makerspaces and physical active learning (PAL).",
+            "NoScale": true,
+            "description": "Active learning is a pedagogical approach where students transition from passive recipients to active contributors in the course of their studies. The focus is providing and getting immediate feedback and interactive participation. The aim of this introductory overview is to provide a better understanding of the diverse nature of active student learning, emphasising its role in improving critical thinking, collaboration and sustained enthusiasm for lifelong learning within the formal education system. There are different methods of active student leaning that can be useful for various types of student and teachers such as gamification, game-based learning, experiential learning, flipped classrooms, discussions, ProLab, makerspaces, physical active learning (PAL) and personalised learning.",
             "sources": [
                 {
                     "citation": {
@@ -1829,7 +1830,7 @@
                 },
                 {
                     "citation": {
-                        "type": "journal article",
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "É.",
@@ -1899,7 +1900,7 @@
                 },
                 {
                     "citation": {
-                        "type": "journal article",
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "R. N.",
@@ -2113,7 +2114,7 @@
                 },
                 {
                     "citation": {
-                        "type": "journal article",
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "K.",
@@ -2196,7 +2197,7 @@
                     "keywords": [
                         "Game mechanics and dynamics",
                         "adaptive learning",
-                        "personalized learning",
+                        "personalised learning",
                         "STEM education",
                         "Beaconing"
                     ],
@@ -2310,7 +2311,7 @@
                 },
                 {
                     "citation": {
-                        "type": "journal article",
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "Z.",
@@ -2357,7 +2358,7 @@
             "sources": [
                 {
                     "citation": {
-                        "type": "journal article",
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "A.",
@@ -2424,7 +2425,7 @@
                 },
                 {
                     "citation": {
-                        "type": "journal article",
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "J. T.",
@@ -2462,7 +2463,7 @@
             "sources": [
                 {
                     "citation": {
-                        "type": "journal article",
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "T.",
@@ -2617,7 +2618,7 @@
                 },
                 {
                     "citation": {
-                        "type": "journal",
+                        "type": "conference",
                         "authors": [
                             {
                                 "firstName": "P.",
@@ -2646,7 +2647,8 @@
                         ],
                         "year": 2019,
                         "title": "Exploring content game elements to support gamification design in educational systems: narrative and storytelling",
-                        "journal": "CBIE/SBIE",
+                        "conference": "Anais do XXX Simpósio Brasileiro de Informática na Educação (SBIE 2019)",
+                        "pages": "773-782",
                         "doi": "10.5753/cbie.sbie.2019.773",
                         "url": "https://durham-repository.worktribe.com/output/1139455/exploring-content-game-elements-to-support-gamification-design-in-educational-systems-narrative-and-storytelling"
                         
@@ -2669,18 +2671,29 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
-                            "S. Abramovich",
-                            "C. D. Schunn",
-                            "R. Higashi"
+                            {
+                                "firstName": "S.",
+                                "lastName": "Abramovich"
+                            },
+                            {
+                                "firstName": "C.",
+                                "lastName": "Schunn"
+                            },
+                            {
+                                "firstName": "R. M.",
+                                "lastName": "Higashi"
+                            }
                         ],
                         "year": 2013,
-                        "title": "Are badges useful in education?: it depends upon the type of badge and expertise of learner",
+                        "title": "Are badges useful in education?: It depends upon the type of badge and expertise of learner",
                         "journal": "Educational Technology Research and Development",
                         "volume": "61",
                         "issue": "2",
                         "pages": "217–232",
-                        "doi": "10.1007/s11423-013-9289-2"
+                        "doi": "10.1007/s11423-013-9289-2",
+                        "url": "https://psycnet.apa.org/record/2013-10811-004"
                     },
                     "keywords": [
                         "badges",
@@ -2694,6 +2707,7 @@
                 },
                 {
                     "citation": {
+                        "type": "conference",
                         "authors": [
                             "A. Anderson",
                             "D. P. Huttenlocher",
@@ -2702,11 +2716,14 @@
                         ],
                         "year": 2013,
                         "title": "Steering user behavior with badges",
-                        "conference": "Proceedings of the 22nd International Conference on World Wide Web (WWW ’13)",
+                        "conference": "Proceedings of the 22nd International Conference on World Wide Web",
+                        "publisher": "Association for Computing Machinery",
+                        "location": "Rio de Janeiro, Brazil",
+                        "pages": "95–106",
                         "doi": "10.1145/2488388.2488398"
                     },
                     "keywords": [
-                        "badges",
+                        "Badges",
                         "steering",
                         "badge placement problem"
                     ],
@@ -2716,16 +2733,24 @@
                 },
                 {
                     "citation": {
+                        "type": "conference",
                         "authors": [
-                            "P. Denny"
+                            {
+                                "firstName": "P.",
+                                "lastName": "Denny"
+                            }
                         ],
                         "year": 2013,
                         "title": "The effect of virtual achievements on student engagement",
-                        "conference": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’13)",
-                        "doi": "10.1145/2470654.2470763"
+                        "conference": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+                        "publisher": "Association for Computing Machinery",
+                        "location": "Paris, France",
+                        "pages": "763–772",
+                        "doi": "10.1145/2470654.2470763",
+                        "url": "https://dl.acm.org/doi/10.1145/2470654.2470763"
                     },
                     "keywords": [
-                        "badges",
+                        "Badges",
                         "achievements",
                         "gamification",
                         "PeerWise",
@@ -2738,15 +2763,21 @@
                 },
                 {
                     "citation": {
+                        "type": "journal",
                         "authors": [
-                            "H. Imran"
+                            {
+                                "firstName": "Hafiz Muhammad",
+                                "lastName": "Imran"
+                            }
                         ],
                         "year": 2019,
                         "title": "Evaluation of awarding badges on Student’s engagement in Gamified e-learning systems",
                         "journal": "Smart Learning Environments",
                         "volume": "6",
-                        "issue": "1",
-                        "doi": "10.1186/s40561-019-0093-2"
+                        "issue": "17",
+                        "pages": "17",
+                        "doi": "10.1186/s40561-019-0093-2",
+                        "url": "https://slejournal.springeropen.com/articles/10.1186/s40561-019-0093-2"
                     },
                     "keywords": [
                         "gamification",
@@ -2766,16 +2797,24 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "journal",
                         "authors": [
-                            "S. Park",
-                            "S. Kim"
+                            {
+                                "firstName": "Sangkyun",
+                                "lastName": "Park"
+                            },
+                            {
+                                "firstName": "Seungwon",
+                                "lastName": "Kim"
+                            }
                         ],
                         "year": 2021,
-                        "title": "Leaderboard Design principles to Enhance learning and Motivation in a Gamified Educational Environment: Development Study",
+                        "title": "Leaderboard Design Principles to Enhance Learning and Motivation in a Gamified Educational Environment: Development Study",
                         "journal": "JMIR Serious Games",
                         "volume": "9",
                         "issue": "2",
-                        "doi": "10.2196/14746"
+                        "doi": "10.2196/14746",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/33877049/"
                     },
                     "keywords": [
                         "leaderboard design",
@@ -2788,16 +2827,24 @@
                 },
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
-                            "Y. Attali",
-                            "M. Arieli-Attali"
+                            {
+                                "firstName": "Y.",
+                                "lastName": "Attali"
+                            },
+                            {
+                                "firstName": "Meirav",
+                                "lastName": "Arieli-Attali"
+                            }
                         ],
                         "year": 2015,
                         "title": "Gamification in assessment: Do points affect test performance?",
                         "journal": "Computers & Education",
                         "volume": "83",
-                        "pages": "57–63",
-                        "doi": "10.1016/j.compedu.2014.12.012"
+                        "pages": "57-63",
+                        "doi": "10.1016/j.compedu.2014.12.012",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0360131514002899"
                     },
                     "keywords": [
                         "points",
@@ -2810,10 +2857,20 @@
                 },
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
-                            "R. N. Landers",
-                            "K. N. Bauer",
-                            "R. C. Callan"
+                            {
+                                "firstName": "R. N.",
+                                "lastName": "Landers"
+                            },
+                            {
+                                "firstName": "K. N.",
+                                "lastName": "Bauer"
+                            },
+                            {
+                                "firstName": "R. C.",
+                                "lastName": "Callan"
+                            }
                         ],
                         "year": 2017,
                         "title": "Gamification of task performance with leaderboards: A goal setting experiment",
@@ -2841,6 +2898,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "I. T.",
@@ -2851,10 +2909,13 @@
                                 "lastName": "Paynter"
                             }
                         ],
-                        "year": 2023,
+                        "year": 2019,
                         "title": "The impact of a flipped classroom approach on student learning experience",
-                        "source": "Science Direct",
-                        "retrievedFrom": "https://www.sciencedirect.com/science/article/pii/S0360131518302495"
+                        "journal": "Computers & Education",
+                        "volume": "128",
+                        "pages": "269–283",
+                        "doi": "10.1016/j.compedu.2018.09.013",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0360131518302495"
                     },
                     "keywords": [
                         "Flipped classroom",
@@ -2869,16 +2930,21 @@
                 },
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "J.",
                                 "lastName": "Enfield"
                             }
                         ],
-                        "year": 2023,
-                        "title": "Looking at the Impact of the Flipped Classroom Model of Instruction on Undergraduate Multimedia Students at CSUN",
-                        "source": "Springer",
-                        "retrievedFrom": "https://link.springer.com/article/10.1007/s11528-013-0698-1"
+                        "year": 2013,
+                        "title": "Looking at the impact of the flipped classroom model of instruction on undergraduate multimedia students at CSUN",
+                        "journal": "TechTrends",
+                        "volume": "57",
+                        "issue": "6",
+                        "pages": "14–27",
+                        "doi": "10.1007/s11528-013-0698-1",
+                        "url": "https://doi.org/10.1007/s11528-013-0698-1"
                     },
                     "keywords": [
                         "Flipped classroom",
@@ -2891,6 +2957,7 @@
                 },
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "Z.",
@@ -2901,9 +2968,14 @@
                                 "lastName": "Unal"
                             }
                         ],
-                        "year": 2023,
+                        "year": 2017,
                         "title": "Comparison of Student Performance, Student Perception, and Teacher Satisfaction with Traditional versus Flipped Classroom Models",
-                        "retrievedFrom": "https://digitalcommons.georgiasouthern.edu/teach-elementary-facpubs/49/"
+                        "journal": "International Journal of Instruction",
+                        "volume": "10",
+                        "issue": "4",
+                        "pages": "145-164",
+                        "doi": "10.12973/iji.2017.1049a",
+                        "url": "https://digitalcommons.georgiasouthern.edu/teach-elementary-facpubs/49"
                     },
                     "keywords": [
                         "Flipped classroom",
@@ -2919,15 +2991,17 @@
                 },
                 {
                     "citation": {
+                        "type": "web",
                         "authors": [
                             {
                                 "firstName": "C. J.",
                                 "lastName": "Brame"
                             }
                         ],
-                        "year": 2023,
+                        "year": 2013,
                         "title": "Flipping the Classroom",
-                        "retrievedFrom": "https://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom/"
+                        "publisher": "Vanderbilt University Center for Teaching",
+                        "url": "https://cft.vanderbilt.edu/guides-sub-pages/flipping-the-classroom/"
                     },
                     "keywords": [
                         "Flipped classroom"
@@ -2938,19 +3012,29 @@
                 },
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "F.",
                                 "lastName": "Ozdamli"
-                            }
+                              },
+                              {
+                                "firstName": "G.",
+                                "lastName": "Asiksoy"
+                              }
                         ],
                         "year": 2016,
                         "title": "Flipped classroom approach",
-                        "retrievedFrom": "https://eric.ed.gov/?id=EJ1141886"
+                        "journal": "World Journal on Educational Technology: Current Issues",
+                        "volume": "8",
+                        "issue": "2",
+                        "pages": "98–105",
+                        "doi": "10.1141886",
+                        "url": "https://eric.ed.gov/?id=EJ1141886"
                     },
                     "keywords": [
-                        "Flipped learning",
                         "Flipped classroom",
+                        "flipped learning",
                         "New approaches"
                     ],
                     "summary": "The text discusses the flipped classroom approach, where students receive instruction before class, allowing for interactive activities during class time. Teachers utilize video tools and systems to provide guidance, support, and establish learning conditions. While this approach offers benefits such as flexibility and deeper thinking, challenges may arise from inadequate preparation and unaddressed attendance issues.",
@@ -2959,6 +3043,7 @@
                 },
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "A. J.",
@@ -2985,16 +3070,21 @@
                                 "lastName": "Albers"
                             }
                         ],
-                        "year": 2023,
-                        "title": "Implementing the flipped classroom: An exploration of study behavior and student performance",
-                        "retrievedFrom": "https://link.springer.com/article/10.1007/s10734-016-0104-y"
+                        "year": 2016,
+                        "title": "Implementing the flipped classroom: an exploration of study behaviour and student performance",
+                        "journal": "Higher Education",
+                        "volume": "74",
+                        "issue": "6",
+                        "pages": "1015–1032",
+                        "doi": "10.1007/s10734-016-0104-y",
+                        "url": "https://doi.org/10.1007/s10734-016-0104-y"
                     },
                     "keywords": [
                         "Flipped classroom",
-                        "Study behaviour",
-                        "Student performance",
-                        "Learning regulation",
-                        "Course evaluations"
+                        "study behaviour",
+                        "student performance",
+                        "learning regulation",
+                        "course evaluations"
                     ],
                     "summary": "This study investigates study behavior, its impact on student performance, and student evaluations of their learning regulation ability in a flipped course. It acknowledges potential challenges in comparing student performance between flipped and regular courses due to various factors. The study reveals a significant relationship between practicing and student performance in the flipped course, highlighting the importance of self-regulation. Three themes emerged from the findings: students' desire for more regulation, preference for passive explanations, and recognition of the importance of self-regulation in benefiting from the flipped course lecture. The study emphasizes the need for ongoing research to further explore these areas and improve understanding of study behavior and its influence on learning outcomes.",
                     "studentActivityScore": 7,
@@ -3002,15 +3092,20 @@
                 },
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "B.",
                                 "lastName": "Danker"
                             }
                         ],
-                        "year": 2023,
-                        "title": "Using Flipped Classroom Approach to Explore Deep",
-                        "retrievedFrom": "https://files.eric.ed.gov/fulltext/EJ1100618.pdf"
+                        "year": 2015,
+                        "title": "Using flipped classroom approach to explore deep learning in large classrooms",
+                        "journal": "IAFOR Journal of Education",
+                        "volume": "3",
+                        "issue": "1",
+                        "pages": "171-186",
+                        "url": "https://eric.ed.gov/?id=EJ1100618"
                     },
                     "keywords": [
                         "Flipped classroom",
@@ -3050,9 +3145,14 @@
                                 "lastName": "Boyle"
                             }
                         ],
-                        "year": 2023,
-                        "title": "Impact of Flipped Classroom Design on Student Performance and Perceptions in a Pharmacotherapy Course",
-                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4827584/"
+                        "year": 2016,
+                        "title": "Impact of flipped classroom design on student performance and perceptions in a pharmacotherapy course",
+                        "journal": "American Journal of Pharmaceutical Education",
+                        "volume": "80",
+                        "issue": "2",
+                        "pages": "33",
+                        "doi": "10.5688/ajpe80233",
+                        "url": "https://doi.org/10.5688/ajpe80233"
                     },
                     "keywords": [
                         "Flipped classroom",
@@ -3081,14 +3181,18 @@
                                 "lastName": "Palmer"
                             }
                         ],
-                        "year": 2023,
+                        "year": 2020,
                         "title": "The flipped classroom: A meta-analysis of effects on student performance across disciplines and education levels",
                         "journal": "Educational Research Review",
+                        "volume": "30",
+                        "pages": "100314",
+                        "doi": "10.1016/j.edurev.2020.100314",
                         "url": "https://www.sciencedirect.com/science/article/pii/S1747938X19301599"
                     },
                     "keywords": [
                         "Flipped classroom",
-                        "student performance"
+                        "student performance",
+                        "meta-analysis"
                     ],
                     "summary": "This paper takes a look into how The flipped classroom approach has shaken up traditional teaching methods, presenting new challenges and opportunities. To create successful flipped classrooms, it's essential to have dedicated and self-assured teachers who are supported with sufficient time, resources, and guidance to develop an effective flipped model. In this article, they delve into an intriguing question: could the nature of student summative assessments influence the outcomes? Specifically, they explore how robust assessments may yield different results compared to less comprehensive ones, adding an interesting twist to the discussion.",
                     "studentActivityScore": 8,
@@ -3107,7 +3211,7 @@
                                 "lastName": "Dawson"
                             }
                         ],
-                        "year": 2014,
+                        "year": 2015,
                         "title": "Motivation and cognitive load in the flipped classroom: definition, rationale and a call for research",
                         "journal": "Higher Education Research and Development",
                         "volume": "34",
@@ -3171,6 +3275,14 @@
                             {
                                 "firstName": "S.",
                                 "lastName": "Ramaswamy"
+                            },
+                            {
+                                "firstName": "I. B.",
+                                "lastName": "Harris"
+                            },
+                            {
+                                "firstName": "U.",
+                                "lastName": "Tschirner"
                             }
                         ],
                         "year": 2001,
@@ -3211,10 +3323,7 @@
                         "volume": "46",
                         "issue": "1",
                         "pages": "26-30",
-                        "doi": "",
-                        "url": "https://www.jstor.org/stable/27558871",
-                        "edition": "",
-                        "publisher": ""
+                        "url": "https://www.jstor.org/stable/27558871"
                     },
                     "keywords": [
                         "Peer-teaching",
@@ -3242,9 +3351,7 @@
                         "issue": "2",
                         "pages": "121–129",
                         "doi": "10.1007/s11528-016-0077-9",
-                        "url": "",
-                        "edition": "",
-                        "publisher": ""
+                        "url": "https://link.springer.com/article/10.1007/s11528-016-0077-9#citeas"
                     },
                     "keywords": [
                         "Flipped instruction",
@@ -3260,7 +3367,7 @@
                 },
                 {
                     "citation": {
-                        "type": "web",
+                        "type": "thesis",
                         "authors": [
                             {
                                 "firstName": "V.",
@@ -3269,6 +3376,8 @@
                         ],
                         "year": 2018,
                         "title": "The use of peer teaching to promote active learning amongst senior medical students",
+                        "institution": "University of Stellenbosch",
+                        "degree": "Master of Philosophy in Health Professions Education",
                         "url": "https://scholar.sun.ac.za/items/dbd913bc-ac9a-4feb-bdcf-2cb46bf168d3"
                     },
                     "keywords": [
@@ -3288,7 +3397,7 @@
                                 "lastName": "Muñoz"
                             },
                             {
-                                "firstName": "G.",
+                                "firstName": "G. P.",
                                 "lastName": "Moreda"
                             },
                             {
@@ -3300,14 +3409,14 @@
                                 "lastName": "Valiño"
                             }
                         ],
-                        "year": 2012,
+                        "year": 2013,
                         "title": "Student Reciprocal peer teaching as a method for Active Learning: an experience in an electrotechnical laboratory",
                         "journal": "Journal of Science Education and Technology",
                         "volume": "22",
                         "issue": "5",
                         "pages": "729–734",
                         "doi": "10.1007/s10956-012-9426-4",
-                        "url": "https://doi.org/10.1007/s10956-012-9426-4"
+                        "url": "https://link.springer.com/article/10.1007/s10956-012-9426-4"
                     },
                     "keywords": [
                         "Student experiments",
@@ -3339,10 +3448,12 @@
                             }
                         ],
                         "year": 2016,
-                        "title": "Video annotation ‘Prepare-Participate-Connect’ models: Promoting student learning",
+                        "title": "Prepare-Participate-Connect: Active learning with video annotation",
                         "journal": "Australasian Journal of Educational Technology",
+                        "volume": 32,
+                        "issue": "4",
                         "doi": "10.14742/ajet.2123",
-                        "url": "https://doi.org/10.14742/ajet.2123"
+                        "url": "https://ajet.org.au/index.php/AJET/article/view/2123"
                     },
                     "keywords": [
                         "Video annotation",
@@ -3359,10 +3470,17 @@
                             {
                                 "firstName": "C.",
                                 "lastName": "Vondrick"
-                            }
+                              },
+                              {
+                                "firstName": "D.",
+                                "lastName": "Ramanan"
+                              }
                         ],
                         "year": 2011,
                         "title": "Video Annotation and Tracking with Active Learning",
+                        "booktitle": "Advances in Neural Information Processing Systems",
+                        "volume": 24,
+                        "publisher": "Curran Associates, Inc.",
                         "url": "https://proceedings.neurips.cc/paper_files/paper/2011/hash/182be0c5cdcd5072bb1864cdee4d3d6e-Abstract.html"
                     },
                     "keywords": [
@@ -3378,27 +3496,27 @@
                         "type": "article",
                         "authors": [
                             {
-                                "firstName": "S.",
-                                "lastName": "Hoel"
-                            },
-                            {
                                 "firstName": "A. N.",
                                 "lastName": "Jakobsen"
                             },
                             {
                                 "firstName": "L.",
                                 "lastName": "Mehli"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Hoel"
                             }
                         ],
                         "year": 2020,
-                        "title": "Video cases to bring the working life perspective into the classroom",
+                        "title": "Arbeidslivets perspektiv inn i klasserommet via filmatiserte case | Video cases to bring the working life perspective into the classroom",
                         "journal": "Uniped",
                         "volume": "43",
                         "issue": "4",
                         "pages": "312-330",
                         "publisher": "Universitetsforlaget",
                         "doi": "10.18261/issn.1893-8981-2020-04-04",
-                        "url": ""
+                        "url": "https://www.idunn.no/doi/abs/10.18261/issn.1893-8981-2020-04-04"
                     },
                     "keywords": [
                         "Video case",
@@ -3502,7 +3620,7 @@
                                 "lastName": "Chiang"
                             },
                             {
-                                "firstName": "P.",
+                                "firstName": "P. K.",
                                 "lastName": "Wells"
                             },
                             {
@@ -3515,7 +3633,8 @@
                         "journal": "Journal of Accounting Education",
                         "volume": "54",
                         "pages": "100713",
-                        "url": "https://doi.org/10.1016/j.jaccedu.2020.100713"
+                        "doi": "https://doi.org/10.1016/j.jaccedu.2020.100713",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0748575120300701"
                     },
                     "keywords": [
                         "Mini-audit",
@@ -3561,6 +3680,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "",
                         "authors": [
                             {
                                 "firstName": "S.",
@@ -3577,6 +3697,7 @@
                         "volume": "8",
                         "issue": "5",
                         "pages": "100–107",
+                        "doi": "10.29121/granthaalayah.v8.i5.2020.88",
                         "url": "https://doi.org/10.29121/granthaalayah.v8.i5.2020.88"
                     },
                     "keywords": [
@@ -3591,6 +3712,7 @@
                 },
                 {
                     "citation": {
+                        "type": "book",
                         "authors": [
                             {
                                 "firstName": "K.",
@@ -3624,6 +3746,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "A.",
@@ -3640,6 +3763,7 @@
                         "volume": "14",
                         "issue": "07",
                         "pages": "179–195",
+                        "doi": "10.3991/ijet.v14i07.9173",
                         "url": "https://doi.org/10.3991/ijet.v14i07.9173"
                     },
                     "keywords": [
@@ -3649,7 +3773,7 @@
                         "dynamic learning space",
                         "formative assessment"
                     ],
-                    "summary": "The study introduces a method combining dynamic learning spaces (DLS) and mobile collaborative experiential learning (MCEL) to improve teaching and learning. This approach offers personalized formative feedback at reduced cost and promotes high-level learning while catering to diverse learning styles. Mobile devices facilitate collaborative experiential learning environments, enabling access to simulated labs for continuous feedback and increased engagement. Participants perceived the approach as beneficial and expressed satisfaction with personalized learning experiences.",
+                    "summary": "The study introduces a method combining dynamic learning spaces (DLS) and mobile collaborative experiential learning (MCEL) to improve teaching and learning. This approach offers personalized formative feedback at reduced cost and promotes high-level learning while catering to diverse learning styles. Mobile devices facilitate collaborative experiential learning environments, enabling access to simulated labs for continuous feedback and increased engagement. Participants perceived the approach as beneficial and expressed satisfaction with personalised learning experiences.",
                     "studentActivityScore": 9,
                     "lecturerActivityScore": 7
                 }
@@ -3662,6 +3786,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "A.",
@@ -3699,6 +3824,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "E. A.",
@@ -3715,7 +3841,8 @@
                         "volume": "30",
                         "issue": "5",
                         "pages": "922-935",
-                        "url": "https://doi.org/10.1080/10494820.2019.1703008"
+                        "doi": "10.1080/10494820.2019.1703008",
+                        "url": "https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1703008"
                     },
                     "keywords": [
                         "Virtual Reality",
@@ -3738,6 +3865,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "B. Y.",
@@ -3754,6 +3882,7 @@
                         "volume": "16",
                         "issue": "1",
                         "pages": "3–118",
+                        "publisher": "Taylor & Francis, Ltd.",
                         "url": "http://www.jstor.org/stable/3233668"
                     },
                     "keywords": [
@@ -3773,6 +3902,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "",
                         "authors": [
                             {
                                 "firstName": "L.",
@@ -3793,6 +3923,7 @@
                         "volume": "12",
                         "issue": "3",
                         "pages": "56-60",
+                        "doi": "10.1111/1541-4329.12009",
                         "url": "https://doi.org/10.1111/1541-4329.12009"
                     },
                     "keywords": [
@@ -3812,6 +3943,7 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "",
                         "authors": [
                             {
                                 "firstName": "P.",
@@ -3831,8 +3963,9 @@
                         "journal": "Medical Teacher",
                         "volume": "34",
                         "issue": "3",
-                        "pages": "e198-e207",
-                        "doi": "10.3109/0142159X.2011.613492"
+                        "pages": "198-207",
+                        "doi": "10.3109/0142159X.2012.642828",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/22364477/"
                     },
                     "keywords": [
                         "Communication skills learning",
@@ -3851,18 +3984,36 @@
             "sources": [
                 {
                     "citation": {
+                        "type": "article",
                         "authors": [
                             {
-                                "firstName": "A.",
+                                "firstName": "A. H.",
                                 "lastName": "Svellingen"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Forstrønen"
+                            },
+                            {
+                                "firstName": "J.",
+                                "lastName": "Assmus"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Røykenes"
+                            },
+                            {
+                                "firstName": "G.",
+                                "lastName": "Brattebø"
                             }
                         ],
-                        "year": 2022,
+                        "year": 2021,
                         "title": "Simulation-based education: Effect of repetitive simulation in nursing education",
-                        "type": "Doctoral dissertation",
-                        "number": "36",
-                        "institution": "VID Specialized University",
-                        "location": "Oslo, Norway"
+                        "journal": "Nurse Education Today",
+                        "volume": "106",
+                        "pages": "105059",
+                        "doi": "10.1016/j.nedt.2021.105059",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/34329963/"
                     },
                     "keywords": [
                         "Simulation",
@@ -3893,12 +4044,11 @@
                         "journal": "Interdisciplinary Journal of Problem-based Learning",
                         "volume": "9",
                         "issue": "2",
-                        "pages": "",
-                        "doi": "https://doi.org/10.7771/1541-5015.1481"
+                        "doi": "10.7771/1541-5015.1481",
+                        "url": "https://doi.org/10.7771/1541-5015.1481"
                     },
                     "keywords": [
                         "Game-based learning",
-                        "GBL",
                         "critical thinking",
                         "games",
                         "educational game",
@@ -3953,7 +4103,7 @@
                                 "lastName": "Tay"
                             },
                             {
-                                "firstName": "Y.",
+                                "firstName": "Y. M.",
                                 "lastName": "Goh"
                             },
                             {
@@ -3976,7 +4126,8 @@
                     "keywords": [
                         "Digital game-based learning",
                         "digital game",
-                        "professional development"
+                        "professional development",
+                        "adult learners"
                     ],
                     "summary": "DGBL has shown promising learning outcomes, including improved academic performance and increased retention of knowledge. However, mixed results have been observed in some studies, highlighting the need to consider factors like game design and teaching strategies. The role of teachers in the development and implementation of DGBL is crucial, with their involvement in game development aligning gameplay with instructional objectives and setting the tone for effective learning experiences. To maximise the effectiveness of DGBL, researchers and educators are encouraged to carefully select gamification elements, align them with pedagogical frameworks, and provide teachers with training in DGBL. As technology continues to advance, DGBL is expected to play an increasingly significant role in education and professional upskilling programs.",
                     "studentActivityScore": 7,
@@ -3997,10 +4148,12 @@
                         ],
                         "year": 2012,
                         "title": "Implementing Game-Based Learning: The MAPLET Framework as a guide to Learner-Centred design and assessment",
-                        "bookTitle": "Springer eBooks",
+                        "chapter": "Implementing Game-Based Learning",
+                        "bookTitle": "Assessment in Game-Based Learning",
                         "pages": "217–233",
+                        "publisher": "Springer",
                         "doi": "https://doi.org/10.1007/978-1-4614-3546-4_12",
-                        "publisher": "Springer"
+                        "url": "https://link.springer.com/chapter/10.1007/978-1-4614-3546-4_12" 
                     },
                     "keywords": [
                         "Assessment strategy",
@@ -4015,15 +4168,27 @@
                 },
                 {
                     "citation": {
-                        "type": "web",
+                        "type": "article",
                         "authors": [
                             {
-                                "firstName": "Z.",
+                                "firstName": "Zi-Yu",
                                 "lastName": "Liu"
+                            },
+                            {
+                                "firstName": "Zaffar Ahmed",
+                                "lastName": "Shaikh"
+                            },
+                            {
+                                "firstName": "Farida Samigullovna",
+                                "lastName": "Gazizova"
                             }
                         ],
                         "year": 2020,
                         "title": "Using the concept of Game-Based Learning in education",
+                        "journal": "International Journal of Emerging Technologies in Learning (iJET)",
+                        "volume": "15",
+                        "pages": "53-64",
+                        "doi": "10.3991/ijet.v15i14.14675",
                         "url": "https://www.semanticscholar.org/paper/Using-the-Concept-of-Game-Based-Learning-in-Liu-Shaikh/3bd80addc3873f1c6cb195f40712f5a39da3fea8/"
                     },
                     "keywords": [
@@ -4051,7 +4216,7 @@
                         "issue": "3",
                         "pages": "387–393",
                         "doi": "10.1111/j.1467-8535.2007.00722.x",
-                        "url": "https://doi.org/10.1111/j.1467-8535.2007.00722.x"
+                        "url": "https://www.semanticscholar.org/paper/Editorial%3A-Play-and-learn%3A-potentials-of-game-based-Pivec/dcd85522dc05f785afa0fa0aed841702444739b2"
                     },
                     "keywords": [
                         "Critical skills",
@@ -4079,7 +4244,7 @@
                         "issue": "1",
                         "pages": "13–24",
                         "doi": "10.1016/j.iheduc.2004.12.001",
-                        "url": "https://doi.org/10.1016/j.iheduc.2004.12.001"
+                        "url": "https://www.sciencedirect.com/science/article/pii/S1096751604000776"
                     },
                     "keywords": [
                         "Educational game",
@@ -4100,7 +4265,7 @@
                                 "lastName": "Qian"
                             },
                             {
-                                "firstName": "K.",
+                                "firstName": "K. R.",
                                 "lastName": "Clark"
                             }
                         ],
@@ -4115,7 +4280,8 @@
                     "keywords": [
                         "Game-based learning",
                         "learning theory",
-                        "game design"
+                        "game design",
+                        "effect size"
                     ],
                     "summary": "This literature review examines the impact of game-based learning (GBL) on 21st-century skills development. Analyzing 137 papers, it highlights the importance of game design and learning theories. Design-based games showed greater effectiveness than traditional educational or entertainment games. Critical thinking skills were the most frequently studied outcome, while communication and creativity received less attention. Collaboration, competition, complexity, exploration, and role-playing were identified as key game design elements. Reporting effect sizes was found crucial for practical implications. Overall, GBL shows promise in enhancing 21st-century skills through effective game design and learning theories.",
                     "studentActivityScore": 7,
@@ -4144,7 +4310,7 @@
                         "volume": "123",
                         "pages": "20–27",
                         "doi": "10.1016/j.sbspro.2014.01.1393",
-                        "url": "https://doi.org/10.1016/j.sbspro.2014.01.1393"
+                        "url": "https://www.sciencedirect.com/science/article/pii/S1877042814014311?via%3Dihub"
                     },
                     "keywords": [
                         "Game-based learning(GBL)",
@@ -4170,7 +4336,7 @@
                         "issue": "5",
                         "pages": "936–948",
                         "doi": "10.1080/10494820.2019.1683587",
-                        "url": "https://doi.org/10.1080/10494820.2019.1683587"
+                        "url": "https://www.tandfonline.com/doi/full/10.1080/10494820.2019.1683587"
                     },
                     "keywords": [
                         "Digital game",
@@ -4184,7 +4350,7 @@
                 },
                 {
                     "citation": {
-                        "type": "book",
+                        "type": "book chapter",
                         "authors": [
                             {
                                 "firstName": "G.",
@@ -4193,8 +4359,9 @@
                         ],
                         "year": 2017,
                         "title": "The Role of the Teacher in Game-Based Learning: A Review and outlook",
+                        "bookTitle": "Serious Games and Edutainment Applications",
                         "pages": "649–674",
-                        "publisher": "Springer eBooks",
+                        "publisher": "Springer",
                         "doi": "10.1007/978-3-319-51645-5_28",
                         "url": "https://doi.org/10.1007/978-3-319-51645-5_28"
                     },
@@ -4223,11 +4390,11 @@
                         "type": "article",
                         "authors": [
                             {
-                                "firstName": "D. a. D. N. D.",
-                                "lastName": "Santos"
+                                "firstName": "D. A. do N.",
+                                "lastName": "dos Santos"
                             },
                             {
-                                "firstName": "S.",
+                                "firstName": "S. de O.",
                                 "lastName": "De Oliveira Sousa"
                             },
                             {
@@ -4235,11 +4402,11 @@
                                 "lastName": "Guelfi"
                             },
                             {
-                                "firstName": "D.",
+                                "firstName": "D. de S.",
                                 "lastName": "De Souza Machado"
                             },
                             {
-                                "firstName": "L. H. D. E. S.",
+                                "firstName": "L. H. do E. S.",
                                 "lastName": "Santana"
                             }
                         ],
@@ -4250,7 +4417,7 @@
                         "issue": "9",
                         "pages": "e49111932236",
                         "doi": "10.33448/rsd-v11i9.32236",
-                        "url": "https://doi.org/10.33448/rsd-v11i9.32236"
+                        "url": "https://rsdjournal.org/index.php/rsd/article/view/32236"
                     },
                     "keywords": [
                         "Active Methodologies",
@@ -4292,12 +4459,43 @@
                         "type": "web",
                         "authors": [
                             {
-                                "name": "Japan Science and Technology Agency"
+                                "firstName": "H.",
+                                "lastName": "Ogata"
+                            },
+                            {
+                                "firstName": "Y.",
+                                "lastName": "Taniguchi"
+                            },
+                            {
+                                "firstName": "D.",
+                                "lastName": "Suehiro"
+                            },
+                            {
+                                "firstName": "A.",
+                                "lastName": "Shimada"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Oi"
+                            },
+                            {
+                                "firstName": "F.",
+                                "lastName": "Okubo"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Yamada"
+                            },
+                            {
+                                "firstName": "K.",
+                                "lastName": "Kojima"
                             }
                         ],
                         "year": 2017,
-                        "title": "Hiroaki Ogata - M2B System: A Digital Learning Platform for Traditional Classrooms in University",
-                        "url": "https://researchmap.jp/read0184047/published_papers/18391158?lang=en"
+                        "title": "M2B System: a digital learning platform for traditional classrooms in university",
+                        "journal": "Cross-LAK2017",
+                        "pages": "155-162",
+                        "url": "https://cir.nii.ac.jp/crid/1010282257470411165"
                     },
                     "keywords": [
                         "Traditional classroom",
@@ -4335,7 +4533,7 @@
                         "issue": "1",
                         "pages": "1–12",
                         "doi": "10.1016/j.compedu.2008.06.004",
-                        "url": "https://doi.org/10.1016/j.compedu.2008.06.004"
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0360131508000845?via%3Dihub"
                     },
                     "keywords": [
                         "Digital game-based learning",
@@ -4427,15 +4625,15 @@
                         "type": "web",
                         "authors": [
                             {
-                                "firstName": "Maja",
+                                "firstName": "M.",
                                 "lastName": "Pivec"
                             },
                             {
-                                "firstName": "Olga",
+                                "firstName": "O.",
                                 "lastName": "Dziabenko"
                             },
                             {
-                                "firstName": "Irmgard",
+                                "firstName": "I.",
                                 "lastName": "Schinnerl"
                             }
                         ],
@@ -4480,7 +4678,7 @@
                         "issue": "3",
                         "pages": "7–30",
                         "doi": "10.35622/j.rie.2022.03.001",
-                        "url": "https://doi.org/10.35622/j.rie.2022.03.001"
+                        "url": "https://revistainnovaeducacion.com/index.php/rie/article/view/573"
                     },
                     "keywords": [
                         "Learning",
@@ -4515,6 +4713,7 @@
                         "year": 2023,
                         "title": "Play to Learn: from Serious Games to just Games",
                         "conference": "Proceedings of the 2023 ACM Conference on Information Technology for Social Good (GoodIT '23)",
+                        "location": "Lisbon, Portugal",
                         "pages": "117–127",
                         "publisher": "Association for Computing Machinery",
                         "doi": "10.1145/3582515.3609525",
@@ -4538,10 +4737,30 @@
                             {
                                 "firstName": "K.",
                                 "lastName": "Bakhsh"
+                            },
+                            {
+                                "firstName": "M.",
+                                "lastName": "Hafeez"
+                            },
+                            {
+                                "firstName": "S.",
+                                "lastName": "Shahzad"
+                            },
+                            {
+                                "firstName": "B.",
+                                "last_name": "Naureen"
+                            },
+                            {
+                                "firstName": "M. F.",
+                                "lastName": "Farid"
                             }
                         ],
                         "year": 2022,
                         "title": "Effectiveness of digital game based learning strategy in higher educational perspectives",
+                        "journal": "Journal of Education and e-Learning Research",
+                        "volume": "9",
+                        "number": "4",
+                        "pages": "258-268",
                         "url": "https://eric.ed.gov/?id=EJ1372872"
                     },
                     "keywords": [
@@ -4586,6 +4805,7 @@
                     "keywords": [
                         "Student-centred learning",
                         "digital game–based learning",
+                        "higher education",
                         "serious game",
                         "game design",
                         "video game"
@@ -4645,15 +4865,27 @@
                 },
                 {
                     "citation": {
-                        "type": "web",
+                        "type": "article",
                         "authors": [
                             {
                                 "firstName": "J.",
                                 "lastName": "Cieutat"
+                            },
+                            {
+                                "firstName": "O.",
+                                "lastName": "Hugues"
+                            },
+                            {
+                                "firstName": "N.",
+                                "lastName": "Ghouaiel"
                             }
                         ],
                         "year": 2012,
                         "title": "Active Learning based on the use of Augmented Reality Outline of Possible Applications: Serious Games, Scientific Experiments, Confronting Studies with Creation, Training for Carrying out Technical Skills",
+                        "journal": "International Journal of Computer Applications",
+                        "volume": "46",
+                        "issue": "20",
+                        "pages": "31-36",
                         "url": "https://hal.science/hal-00739730/"
                     },
                     "keywords": [
@@ -4807,8 +5039,8 @@
                                 "lastName": "Anastasiadis"
                             },
                             {
-                                "firstName": "Γ.",
-                                "lastName": "Λαμπρόπουλος"
+                                "firstName": "G.",
+                                "lastName": "Lampropoulos"
                             },
                             {
                                 "firstName": "K. V.",
@@ -4838,8 +5070,9 @@
             ]
         },
         {
-            "name": "Personalized learning",
-            "description": "",
+            "name": "Personalised learning",
+            "description": " personalised learning at the university is a way of teaching that adapts to each student's needs, interests and learning style. It provides helpful study instructions, individualized content, and flexible learning paths, promoting self-regulated learning, that is the way personalised learning approach is suitable for every student. personalised learning allows students to manage their learning pace through assessment tools, which is different from conventional classroom teaching. The mechanism is based on student data collection, differentiation of instruction, integration of technology and support for students' agency in order to optimise learning outcomes by continuously adapting according to feedback.",
+            "subCategory": "Personalised learning",
             "sources": [
                 {
                     "citation": {
@@ -4859,7 +5092,7 @@
                             }
                         ],
                         "year": 2021,
-                        "title": "A Systematic Review of Research on Personalized Learning: Personalized by Whom, to What, How, and for What Purpose(s)?",
+                        "title": "A Systematic Review of Research on personalised learning: Personalized by Whom, to What, How, and for What Purpose(s)?",
                         "journal": "Educational Psychology Review",
                         "volume": "33",
                         "issue": "4",
@@ -4868,7 +5101,7 @@
                         "url": "https://doi.org/10.1007/s10648-021-09615-8"
                     },
                     "keywords": [
-                        "Personalized learning",
+                        "personalised learning",
                         "development"
                     ],
                     "summary": "The article draws attention to the concept of personalised learning, which has a significant impact on education. It describes how the development of personalised learning requires a tailored approach to teaching in order to address specific students' needs, strengths and interests. The article highlights the role of students' voices and choice in learning, allowing them to have a say on what they are being taught.  The challenge of defining personalised learning is also examined, as different contexts interpret and implement it in a variety of ways, making the impact on learners' educational experiences difficult to assess. In addition, in order to ensure the growth and success of every student, this article discusses various dimensions and aspects of personalised learning such as individualization, differentiation or alignment with academic standards."
@@ -4891,7 +5124,7 @@
                             }
                         ],
                         "year": 2021,
-                        "title": "A comprehensive analysis of personalized learning components",
+                        "title": "A comprehensive analysis of personalised learning components",
                         "journal": "Journal of Computers in Education",
                         "volume": "8",
                         "issue": "4",
@@ -4900,10 +5133,10 @@
                         "url": "https://doi.org/10.1007/s40692-021-00188-7"
                     },
                     "keywords": [
-                        "Personalized learning",
+                        "personalised learning",
                         "educational technology"
                     ],
-                    "summary": "The article explores personalized learning components in educational technology from 2010 to 2020. It is based on the identification of key components, e.g. learner profiles, brain styles, self-pacing, Personal relevance, and regulation. The study highlights the importance of technology for enabling personalized learning experiences. Results show that personalized learning based on individual needs, preferences, and skills results in positive educational outcomes. The objective of personalized education is to maximize student satisfaction, speed of learning, and overall effectiveness through the use of technology and strategies that adapt."
+                    "summary": "The article explores personalised learning components in educational technology from 2010 to 2020. It is based on the identification of key components, e.g. learner profiles, brain styles, self-pacing, Personal relevance, and regulation. The study highlights the importance of technology for enabling personalised learning experiences. Results show that personalised learning based on individual needs, preferences, and skills results in positive educational outcomes. The objective of personalized education is to maximize student satisfaction, speed of learning, and overall effectiveness through the use of technology and strategies that adapt."
                 },
                 {
                     "citation": {
@@ -4919,7 +5152,7 @@
                             }
                         ],
                         "year": 2020,
-                        "title": "Appraising research on personalized learning: Definitions, theoretical alignment, advancements, and future directions",
+                        "title": "Appraising research on personalised learning: Definitions, theoretical alignment, advancements, and future directions",
                         "journal": "Journal of Research on Technology in Education",
                         "volume": "52",
                         "issue": "3",
@@ -4928,13 +5161,13 @@
                         "url": "https://doi.org/10.1080/15391523.2020.1747757"
                     },
                     "keywords": [
-                        "Personalized learning",
+                        "personalised learning",
                         "evidence base",
                         "good practice",
                         "student performance",
                         "adaptive text selection"
                     ],
-                    "summary": "The article describes the progress made to establish an evidence base for good practice in personalized learning (PL). This report summarizes a range of studies demonstrating effectiveness, reveals the conditions under which PL will be successfully implemented, and examines its scale-up. The results show positive effects on student performance in math, reading, and language tests in the district using the PL at scale, as well as the influence of adaptive text selection on learning outcomes."
+                    "summary": "The article describes the progress made to establish an evidence base for good practice in personalised learning (PL). This report summarizes a range of studies demonstrating effectiveness, reveals the conditions under which PL will be successfully implemented, and examines its scale-up. The results show positive effects on student performance in math, reading, and language tests in the district using the PL at scale, as well as the influence of adaptive text selection on learning outcomes."
                 },
                 {
                     "citation": {
@@ -4958,7 +5191,7 @@
                             }
                         ],
                         "year": 2020,
-                        "title": "Using personalized learning as an instructional approach to motivate learners in online higher education: Learner self-determination and intrinsic motivation",
+                        "title": "Using personalised learning as an instructional approach to motivate learners in online higher education: Learner self-determination and intrinsic motivation",
                         "journal": "Journal of Research on Technology in Education",
                         "volume": "52",
                         "issue": "3",
@@ -4967,13 +5200,13 @@
                         "url": "https://doi.org/10.1080/15391523.2020.1728449"
                     },
                     "keywords": [
-                        "Personalized learning",
+                        "personalised learning",
                         "e-learning",
                         "psychological need satisfaction",
                         "intrinsic motivation",
                         "learner self-determination"
                     ],                
-                    "summary": "The article compares students' perceptions of psychological need satisfaction and intrinsic motivation in a personalized e-learning course versus a one-size-fits-all e-learning course. Results show that, with increased inherent motivation, students feel more autonomy and competence in the personalized learning environment. They found that students' learning needs and interests were strengthened by personalized course design. On the other hand, students in one-size-fits-all classes were dissatisfied with this approach and how their needs had been taken care of. Autonomy, competence, and internal motivation were positively influenced by the principles of personalized education."
+                    "summary": "The article compares students' perceptions of psychological need satisfaction and intrinsic motivation in a personalized e-learning course versus a one-size-fits-all e-learning course. Results show that, with increased inherent motivation, students feel more autonomy and competence in the personalised learning environment. They found that students' learning needs and interests were strengthened by personalized course design. On the other hand, students in one-size-fits-all classes were dissatisfied with this approach and how their needs had been taken care of. Autonomy, competence, and internal motivation were positively influenced by the principles of personalized education."
                 },
                 {
                     "citation": {
@@ -4993,7 +5226,7 @@
                             }
                         ],
                         "year": 2017,
-                        "title": "Give me a customizable dashboard: Personalized Learning Analytics dashboards in higher education",
+                        "title": "Give me a customizable dashboard: personalised learning Analytics dashboards in higher education",
                         "journal": "Technology, Knowledge, and Learning",
                         "volume": "22",
                         "issue": "3",
